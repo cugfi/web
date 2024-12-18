@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Tapahtuma Archives &#8902; Citrix User Group Finland</title>
-	<atom:link href="/tag/tapahtuma/feed/" rel="self" type="application/rss+xml" />
-	<link>/tag/tapahtuma/</link>
+	<atom:link href="/web/tag/tapahtuma/feed/" rel="self" type="application/rss+xml" />
+	<link>/web/tag/tapahtuma/</link>
 	<description>CUG.fi on voittoa tavoittelematon, yksityisten henkilöiden toimesta vuonna 2003 perustettu vapaaehtoisvoimin toimiva, rekisteröity yhdistys. Sen tavoitteena on tukea Citrix-ammattilaisten ja käyttäjien verkostoitumista, edistää tiedonvälitystä ja tarjota best practises-kokemuksia jäsenilleen järjestämällä erilaisia teemaseminaareja ja tapaamisia. Yhdistys on ensisijaisesti tarkoitettu henkilöille jotka työkseen kehittävät ja ylläpitävät Citrix- ympäristöjä.</description>
 	<lastBuildDate>Tue, 22 May 2018 15:36:03 +0000</lastBuildDate>
 	<language>fi</language>
@@ -21,23 +21,23 @@
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 	<item>
 		<title>Citrix Synergy Unplugged 2018 -Tule mukaan 12. kesäkuuta</title>
-		<link>/2018/05/22/citrix-synergy-unplugged-2018-tule-mukaan-12-kesakuuta/</link>
+		<link>/web/2018/05/22/citrix-synergy-unplugged-2018-tule-mukaan-12-kesakuuta/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Tue, 22 May 2018 15:32:16 +0000</pubDate>
 				<category><![CDATA[Tapahtumat]]></category>
 		<category><![CDATA[Citrix Synergy]]></category>
 		<category><![CDATA[Tapahtuma]]></category>
-		<guid isPermaLink="false">/?p=2924</guid>
+		<guid isPermaLink="false">/web/?p=2924</guid>
 
-					<description><![CDATA[<p>Citrix tuo Synergy 2018:n Suomeen 12. kesäkuuta lähestyen sitä paikallisesta näkökulmasta. Tule mukaan kuulemaan kuinka Citrix-ratkaisut auttavat sinua eteenpäin digitaalisella matkallasi. Aamupäivä keskittyy verkkoihin. Esittelyssä <a class="mh-excerpt-more" href="/2018/05/22/citrix-synergy-unplugged-2018-tule-mukaan-12-kesakuuta/" title="Citrix Synergy Unplugged 2018 -Tule mukaan 12. kesäkuuta">[...]</a></p>
-<p>The post <a href="/2018/05/22/citrix-synergy-unplugged-2018-tule-mukaan-12-kesakuuta/">Citrix Synergy Unplugged 2018 -Tule mukaan 12. kesäkuuta</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+					<description><![CDATA[<p>Citrix tuo Synergy 2018:n Suomeen 12. kesäkuuta lähestyen sitä paikallisesta näkökulmasta. Tule mukaan kuulemaan kuinka Citrix-ratkaisut auttavat sinua eteenpäin digitaalisella matkallasi. Aamupäivä keskittyy verkkoihin. Esittelyssä <a class="mh-excerpt-more" href="/web/2018/05/22/citrix-synergy-unplugged-2018-tule-mukaan-12-kesakuuta/" title="Citrix Synergy Unplugged 2018 -Tule mukaan 12. kesäkuuta">[...]</a></p>
+<p>The post <a href="/web/2018/05/22/citrix-synergy-unplugged-2018-tule-mukaan-12-kesakuuta/">Citrix Synergy Unplugged 2018 -Tule mukaan 12. kesäkuuta</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Citrix tuo Synergy 2018:n Suomeen 12. kesäkuuta lähestyen sitä paikallisesta näkökulmasta. Tule mukaan kuulemaan kuinka Citrix-ratkaisut auttavat sinua eteenpäin digitaalisella matkallasi. Aamupäivä keskittyy verkkoihin. Esittelyssä mm. NetScaler tuoteryhmän uutiset ja uutuudet ja kuulemme Citrixin oman näkemyksen tulevaisuuden verkoista. Iltapäiväosuudessa aiheina ovat mm. sovellusvirtuaalisointi, VDI, sovellusten luotettava toimittaminen ja turvallinen mobiiliteetti.<br />
 Päivän päätteeksi järjestetään vielä verkostoitumis/cocktail -osuus aina kello 18.00 asti. Liity mukaan hyvään seuraan keskustelemaan kollegoiden, alan toimijoiden ja Citrix-tiimin kanssa.</p>
 <p>Tutustu ohjelmaan tarkemmin ja ilmoittaudu tämän <a href="http://synergyunpluggedemea2018.com/helsinki/index.php"><strong>linkin</strong></a> kautta Voit rekisteröityä koko päivän tilaisuuteen klo 8.30-16.45, tai ainoastaan aamupäivän Synergy Unplugged Networking –tilaisuuteen klo 8.00-13.00.</p>
 <h5>Kaikki mukaan, nähdään Leppävaarassa!</h5>
-<p><img fetchpriority="high" decoding="async" class="alignleft wp-image-2917 size-full" src="/wp-content/uploads/2018/05/unplugged2018.jpg" alt="" width="643" height="312" srcset="/wp-content/uploads/2018/05/unplugged2018.jpg 643w, /wp-content/uploads/2018/05/unplugged2018-620x300.jpg 620w, /wp-content/uploads/2018/05/unplugged2018-400x194.jpg 400w" sizes="(max-width: 643px) 100vw, 643px" /></p>
+<p><img fetchpriority="high" decoding="async" class="alignleft wp-image-2917 size-full" src="/web/wp-content/uploads/2018/05/unplugged2018.jpg" alt="" width="643" height="312" srcset="/web/wp-content/uploads/2018/05/unplugged2018.jpg 643w, /web/wp-content/uploads/2018/05/unplugged2018-620x300.jpg 620w, /web/wp-content/uploads/2018/05/unplugged2018-400x194.jpg 400w" sizes="(max-width: 643px) 100vw, 643px" /></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -49,7 +49,7 @@ Päivän päätteeksi järjestetään vielä verkostoitumis/cocktail -osuus aina
 <p>&nbsp;</p>
 <hr />
 <p>&nbsp;</p>
-<p>The post <a href="/2018/05/22/citrix-synergy-unplugged-2018-tule-mukaan-12-kesakuuta/">Citrix Synergy Unplugged 2018 -Tule mukaan 12. kesäkuuta</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2018/05/22/citrix-synergy-unplugged-2018-tule-mukaan-12-kesakuuta/">Citrix Synergy Unplugged 2018 -Tule mukaan 12. kesäkuuta</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -57,7 +57,7 @@ Päivän päätteeksi järjestetään vielä verkostoitumis/cocktail -osuus aina
 		<post-id xmlns="com-wordpress:feed-additions:1">2924</post-id>	</item>
 		<item>
 		<title>NetScaler Connect 23.11.2017 Espoossa</title>
-		<link>/2017/11/05/2829/</link>
+		<link>/web/2017/11/05/2829/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Sun, 05 Nov 2017 14:52:06 +0000</pubDate>
@@ -65,16 +65,16 @@ Päivän päätteeksi järjestetään vielä verkostoitumis/cocktail -osuus aina
 		<category><![CDATA[Citrix]]></category>
 		<category><![CDATA[NetScaler]]></category>
 		<category><![CDATA[Tapahtuma]]></category>
-		<guid isPermaLink="false">/?p=2829</guid>
+		<guid isPermaLink="false">/web/?p=2829</guid>
 
 					<description><![CDATA[<p>&#160;</p>
-<p>The post <a href="/2017/11/05/2829/">NetScaler Connect 23.11.2017 Espoossa</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2017/11/05/2829/">NetScaler Connect 23.11.2017 Espoossa</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p><img decoding="async" class="aligncenter wp-image-2827 size-full" src="/wp-content/uploads/2017/11/ncrs1.jpg" alt="" width="595" height="491" srcset="/wp-content/uploads/2017/11/ncrs1.jpg 595w, /wp-content/uploads/2017/11/ncrs1-300x248.jpg 300w" sizes="(max-width: 595px) 100vw, 595px" /></p>
-<p><a href="http://www.citrixnetscalerconnect.com/event/netscaler-connect-finland-espoo-november-23/"><img decoding="async" class="aligncenter wp-image-2828 size-full" src="/wp-content/uploads/2017/11/ncrs2.jpg" alt="" width="599" height="525" srcset="/wp-content/uploads/2017/11/ncrs2.jpg 599w, /wp-content/uploads/2017/11/ncrs2-300x263.jpg 300w" sizes="(max-width: 599px) 100vw, 599px" /></a></p>
+										<content:encoded><![CDATA[<p><img decoding="async" class="aligncenter wp-image-2827 size-full" src="/web/wp-content/uploads/2017/11/ncrs1.jpg" alt="" width="595" height="491" srcset="/web/wp-content/uploads/2017/11/ncrs1.jpg 595w, /web/wp-content/uploads/2017/11/ncrs1-300x248.jpg 300w" sizes="(max-width: 595px) 100vw, 595px" /></p>
+<p><a href="http://www.citrixnetscalerconnect.com/event/netscaler-connect-finland-espoo-november-23/"><img decoding="async" class="aligncenter wp-image-2828 size-full" src="/web/wp-content/uploads/2017/11/ncrs2.jpg" alt="" width="599" height="525" srcset="/web/wp-content/uploads/2017/11/ncrs2.jpg 599w, /web/wp-content/uploads/2017/11/ncrs2-300x263.jpg 300w" sizes="(max-width: 599px) 100vw, 599px" /></a></p>
 <hr />
 <p>&nbsp;</p>
-<p>The post <a href="/2017/11/05/2829/">NetScaler Connect 23.11.2017 Espoossa</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2017/11/05/2829/">NetScaler Connect 23.11.2017 Espoossa</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -82,7 +82,7 @@ Päivän päätteeksi järjestetään vielä verkostoitumis/cocktail -osuus aina
 		<post-id xmlns="com-wordpress:feed-additions:1">2829</post-id>	</item>
 		<item>
 		<title>2017 CUG.fi jäsenristeily</title>
-		<link>/2017/11/05/2017-cug-fi-risteily/</link>
+		<link>/web/2017/11/05/2017-cug-fi-risteily/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Sun, 05 Nov 2017 14:19:47 +0000</pubDate>
@@ -92,58 +92,58 @@ Päivän päätteeksi järjestetään vielä verkostoitumis/cocktail -osuus aina
 		<category><![CDATA[Nutanix]]></category>
 		<category><![CDATA[Tapahtuma]]></category>
 		<category><![CDATA[Titansoft]]></category>
-		<guid isPermaLink="false">/?p=2815</guid>
+		<guid isPermaLink="false">/web/?p=2815</guid>
 
-					<description><![CDATA[<p>Kiitos kaikille CUG.fi risteilyseminaariin osallistujille mukavasta ja mielenkiintoisesta reissusta. Päivitämme tälle sivulle vielä esitykset heti ne saatuamme.   (c)  &#160; &#160; &#160; Esitykset: Citrix keynote: <a class="mh-excerpt-more" href="/2017/11/05/2017-cug-fi-risteily/" title="2017 CUG.fi jäsenristeily">[...]</a></p>
-<p>The post <a href="/2017/11/05/2017-cug-fi-risteily/">2017 CUG.fi jäsenristeily</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+					<description><![CDATA[<p>Kiitos kaikille CUG.fi risteilyseminaariin osallistujille mukavasta ja mielenkiintoisesta reissusta. Päivitämme tälle sivulle vielä esitykset heti ne saatuamme.   (c)  &#160; &#160; &#160; Esitykset: Citrix keynote: <a class="mh-excerpt-more" href="/web/2017/11/05/2017-cug-fi-risteily/" title="2017 CUG.fi jäsenristeily">[...]</a></p>
+<p>The post <a href="/web/2017/11/05/2017-cug-fi-risteily/">2017 CUG.fi jäsenristeily</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Kiitos kaikille CUG.fi risteilyseminaariin osallistujille mukavasta ja mielenkiintoisesta reissusta.</p>
 <p>Päivitämme tälle sivulle vielä esitykset heti ne saatuamme.</p>
-<p><img loading="lazy" decoding="async" class="alignnone wp-image-2802 size-full" src="/wp-content/uploads/2017/11/WP_20171102_17_02_11_Rich.jpg" alt="" width="1000" height="563" srcset="/wp-content/uploads/2017/11/WP_20171102_17_02_11_Rich.jpg 1000w, /wp-content/uploads/2017/11/WP_20171102_17_02_11_Rich-300x169.jpg 300w, /wp-content/uploads/2017/11/WP_20171102_17_02_11_Rich-768x432.jpg 768w, /wp-content/uploads/2017/11/WP_20171102_17_02_11_Rich-678x381.jpg 678w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-2802 size-full" src="/web/wp-content/uploads/2017/11/WP_20171102_17_02_11_Rich.jpg" alt="" width="1000" height="563" srcset="/web/wp-content/uploads/2017/11/WP_20171102_17_02_11_Rich.jpg 1000w, /web/wp-content/uploads/2017/11/WP_20171102_17_02_11_Rich-300x169.jpg 300w, /web/wp-content/uploads/2017/11/WP_20171102_17_02_11_Rich-768x432.jpg 768w, /web/wp-content/uploads/2017/11/WP_20171102_17_02_11_Rich-678x381.jpg 678w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
 <p>
-<a href='/wp-content/uploads/2017/11/DNpoYUNXUAUrfeU.jpg-large.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/DNpoYUNXUAUrfeU.jpg-large-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/DSC_0071.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/DSC_0071-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/DSC_0069.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/DSC_0069-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/DSC_0067.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/DSC_0067-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/DSC_0062.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/DSC_0062-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/WP_20171102_21_21_32_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/WP_20171102_21_21_32_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/WP_20171102_21_21_24_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/WP_20171102_21_21_24_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/WP_20171102_21_21_21_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/WP_20171102_21_21_21_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/WP_20171102_19_00_15_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/WP_20171102_19_00_15_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/WP_20171102_19_00_11_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/WP_20171102_19_00_11_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/WP_20171102_18_14_24_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/WP_20171102_18_14_24_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/WP_20171102_18_14_16_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/WP_20171102_18_14_16_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/WP_20171102_17_28_45_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/WP_20171102_17_28_45_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/WP_20171102_17_28_40_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/WP_20171102_17_28_40_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/WP_20171102_17_25_30_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/WP_20171102_17_25_30_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/WP_20171102_17_25_16_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/WP_20171102_17_25_16_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/WP_20171102_17_25_13_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/WP_20171102_17_25_13_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/WP_20171102_17_02_11_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/WP_20171102_17_02_11_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/WP_20171102_16_11_55_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/WP_20171102_16_11_55_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/WP_20171102_16_08_43_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/WP_20171102_16_08_43_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/WP_20171102_16_08_31_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/WP_20171102_16_08_31_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/WP_20171102_16_08_14_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/WP_20171102_16_08_14_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/WP_20171102_16_08_11_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/WP_20171102_16_08_11_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/WP_20171102_16_08_02_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/WP_20171102_16_08_02_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/WP_20171102_15_36_54_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/WP_20171102_15_36_54_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/WP_20171102_15_05_19_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/WP_20171102_15_05_19_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/WP_20171102_14_55_57_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/WP_20171102_14_55_57_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/WP_20171102_14_07_34_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/WP_20171102_14_07_34_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/WP_20171102_14_07_25_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/WP_20171102_14_07_25_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/WP_20171102_14_07_22_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/WP_20171102_14_07_22_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-<a href='/wp-content/uploads/2017/11/WP_20171102_12_46_25_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2017/11/WP_20171102_12_46_25_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/DNpoYUNXUAUrfeU.jpg-large.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/DNpoYUNXUAUrfeU.jpg-large-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/DSC_0071.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/DSC_0071-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/DSC_0069.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/DSC_0069-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/DSC_0067.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/DSC_0067-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/DSC_0062.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/DSC_0062-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/WP_20171102_21_21_32_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/WP_20171102_21_21_32_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/WP_20171102_21_21_24_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/WP_20171102_21_21_24_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/WP_20171102_21_21_21_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/WP_20171102_21_21_21_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/WP_20171102_19_00_15_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/WP_20171102_19_00_15_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/WP_20171102_19_00_11_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/WP_20171102_19_00_11_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/WP_20171102_18_14_24_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/WP_20171102_18_14_24_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/WP_20171102_18_14_16_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/WP_20171102_18_14_16_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/WP_20171102_17_28_45_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/WP_20171102_17_28_45_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/WP_20171102_17_28_40_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/WP_20171102_17_28_40_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/WP_20171102_17_25_30_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/WP_20171102_17_25_30_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/WP_20171102_17_25_16_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/WP_20171102_17_25_16_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/WP_20171102_17_25_13_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/WP_20171102_17_25_13_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/WP_20171102_17_02_11_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/WP_20171102_17_02_11_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/WP_20171102_16_11_55_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/WP_20171102_16_11_55_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/WP_20171102_16_08_43_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/WP_20171102_16_08_43_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/WP_20171102_16_08_31_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/WP_20171102_16_08_31_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/WP_20171102_16_08_14_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/WP_20171102_16_08_14_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/WP_20171102_16_08_11_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/WP_20171102_16_08_11_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/WP_20171102_16_08_02_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/WP_20171102_16_08_02_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/WP_20171102_15_36_54_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/WP_20171102_15_36_54_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/WP_20171102_15_05_19_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/WP_20171102_15_05_19_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/WP_20171102_14_55_57_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/WP_20171102_14_55_57_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/WP_20171102_14_07_34_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/WP_20171102_14_07_34_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/WP_20171102_14_07_25_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/WP_20171102_14_07_25_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/WP_20171102_14_07_22_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/WP_20171102_14_07_22_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/web/wp-content/uploads/2017/11/WP_20171102_12_46_25_Rich.jpg'><img loading="lazy" decoding="async" width="150" height="150" src="/web/wp-content/uploads/2017/11/WP_20171102_12_46_25_Rich-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   <span style="font-size: 8pt;"><strong>(c) </strong></span></p>
 <hr />
-<figure id="attachment_2715" aria-describedby="caption-attachment-2715" style="width: 270px" class="wp-caption alignleft"><a href="http://titansoft.fi/"><img loading="lazy" decoding="async" class="wp-image-2715 size-full" src="/wp-content/uploads/2017/10/titansoft_logo.jpg" alt="" width="270" height="75" srcset="/wp-content/uploads/2017/10/titansoft_logo.jpg 270w, /wp-content/uploads/2017/10/titansoft_logo-150x0.jpg 150w" sizes="(max-width: 270px) 100vw, 270px" /></a><figcaption id="caption-attachment-2715" class="wp-caption-text">Sponsorimme matkalla</figcaption></figure>
+<figure id="attachment_2715" aria-describedby="caption-attachment-2715" style="width: 270px" class="wp-caption alignleft"><a href="http://titansoft.fi/"><img loading="lazy" decoding="async" class="wp-image-2715 size-full" src="/web/wp-content/uploads/2017/10/titansoft_logo.jpg" alt="" width="270" height="75" srcset="/web/wp-content/uploads/2017/10/titansoft_logo.jpg 270w, /web/wp-content/uploads/2017/10/titansoft_logo-150x0.jpg 150w" sizes="(max-width: 270px) 100vw, 270px" /></a><figcaption id="caption-attachment-2715" class="wp-caption-text">Sponsorimme matkalla</figcaption></figure>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <hr />
 <h3>Esitykset:</h3>
-<p>Citrix keynote: <strong><a href="/jussi-pesonen-citrix-keynote/">Missä mennään tällä hetkellä?</a> Jussi Pesonen Citrix</strong></p>
-<p><a href="/application-lifecycle-and-metadata-management/">Application lifecycle and metadata management</a> <strong>Jani Anttila <a href="http://janianttila.com/">http://janianttila.com/</a></strong></p>
-<p><a href="/cug-cruise-2017-titansoft-mideye-presentation-pptx-final/">Next Generation Two-Factor Authentcation</a>. <strong>Titansoft  Jan Sandbacka &amp; Mari Forsberg </strong></p>
-<p>The post <a href="/2017/11/05/2017-cug-fi-risteily/">2017 CUG.fi jäsenristeily</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>Citrix keynote: <strong><a href="/web/jussi-pesonen-citrix-keynote/">Missä mennään tällä hetkellä?</a> Jussi Pesonen Citrix</strong></p>
+<p><a href="/web/application-lifecycle-and-metadata-management/">Application lifecycle and metadata management</a> <strong>Jani Anttila <a href="http://janianttila.com/">http://janianttila.com/</a></strong></p>
+<p><a href="/web/cug-cruise-2017-titansoft-mideye-presentation-pptx-final/">Next Generation Two-Factor Authentcation</a>. <strong>Titansoft  Jan Sandbacka &amp; Mari Forsberg </strong></p>
+<p>The post <a href="/web/2017/11/05/2017-cug-fi-risteily/">2017 CUG.fi jäsenristeily</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -151,19 +151,19 @@ Päivän päätteeksi järjestetään vielä verkostoitumis/cocktail -osuus aina
 		<post-id xmlns="com-wordpress:feed-additions:1">2815</post-id>	</item>
 		<item>
 		<title>Apply to be a Synergy guest presenter</title>
-		<link>/2017/10/24/apply-synergy-guest-presenter/</link>
+		<link>/web/2017/10/24/apply-synergy-guest-presenter/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Tue, 24 Oct 2017 11:44:06 +0000</pubDate>
 				<category><![CDATA[Tapahtumat]]></category>
 		<category><![CDATA[Citrix Synergy]]></category>
 		<category><![CDATA[Tapahtuma]]></category>
-		<guid isPermaLink="false">/?p=2776</guid>
+		<guid isPermaLink="false">/web/?p=2776</guid>
 
-					<description><![CDATA[<p>Time is running out: apply to be a Synergy guest presenter You saw the future, and you built it. Tell us how you delivered the <a class="mh-excerpt-more" href="/2017/10/24/apply-synergy-guest-presenter/" title="Apply to be a Synergy guest presenter">[...]</a></p>
-<p>The post <a href="/2017/10/24/apply-synergy-guest-presenter/">Apply to be a Synergy guest presenter</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+					<description><![CDATA[<p>Time is running out: apply to be a Synergy guest presenter You saw the future, and you built it. Tell us how you delivered the <a class="mh-excerpt-more" href="/web/2017/10/24/apply-synergy-guest-presenter/" title="Apply to be a Synergy guest presenter">[...]</a></p>
+<p>The post <a href="/web/2017/10/24/apply-synergy-guest-presenter/">Apply to be a Synergy guest presenter</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" class="alignnone wp-image-2780 size-full" src="/wp-content/uploads/2017/10/syn18.jpg" alt="" width="602" height="197" srcset="/wp-content/uploads/2017/10/syn18.jpg 602w, /wp-content/uploads/2017/10/syn18-300x98.jpg 300w" sizes="(max-width: 602px) 100vw, 602px" /></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" class="alignnone wp-image-2780 size-full" src="/web/wp-content/uploads/2017/10/syn18.jpg" alt="" width="602" height="197" srcset="/web/wp-content/uploads/2017/10/syn18.jpg 602w, /web/wp-content/uploads/2017/10/syn18-300x98.jpg 300w" sizes="(max-width: 602px) 100vw, 602px" /></p>
 <table width="464">
 <tbody>
 <tr>
@@ -180,7 +180,7 @@ Päivän päätteeksi järjestetään vielä verkostoitumis/cocktail -osuus aina
 </table>
 <hr />
 <p>&nbsp;</p>
-<p>The post <a href="/2017/10/24/apply-synergy-guest-presenter/">Apply to be a Synergy guest presenter</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2017/10/24/apply-synergy-guest-presenter/">Apply to be a Synergy guest presenter</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -188,19 +188,19 @@ Päivän päätteeksi järjestetään vielä verkostoitumis/cocktail -osuus aina
 		<post-id xmlns="com-wordpress:feed-additions:1">2776</post-id>	</item>
 		<item>
 		<title>Vanha viholliseni Herra No Show</title>
-		<link>/2017/05/21/vanha-viholliseni-herra-no-show/</link>
+		<link>/web/2017/05/21/vanha-viholliseni-herra-no-show/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Sun, 21 May 2017 14:39:04 +0000</pubDate>
 				<category><![CDATA[Tapahtumat]]></category>
 		<category><![CDATA[no show]]></category>
 		<category><![CDATA[Tapahtuma]]></category>
-		<guid isPermaLink="false">/?p=2588</guid>
+		<guid isPermaLink="false">/web/?p=2588</guid>
 
-					<description><![CDATA[<p>Kolumni Iso kiitos teille kaikille, jotka osallistuitte viime viikolla järjestämäämme leffailtaan. Iso kiitos myös teille, jotka jo ehditte ilmoittautua mukaan, mutta peruutitte osallistumisenne, kun huomasitte <a class="mh-excerpt-more" href="/2017/05/21/vanha-viholliseni-herra-no-show/" title="Vanha viholliseni Herra No Show">[...]</a></p>
-<p>The post <a href="/2017/05/21/vanha-viholliseni-herra-no-show/">Vanha viholliseni Herra No Show</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+					<description><![CDATA[<p>Kolumni Iso kiitos teille kaikille, jotka osallistuitte viime viikolla järjestämäämme leffailtaan. Iso kiitos myös teille, jotka jo ehditte ilmoittautua mukaan, mutta peruutitte osallistumisenne, kun huomasitte <a class="mh-excerpt-more" href="/web/2017/05/21/vanha-viholliseni-herra-no-show/" title="Vanha viholliseni Herra No Show">[...]</a></p>
+<p>The post <a href="/web/2017/05/21/vanha-viholliseni-herra-no-show/">Vanha viholliseni Herra No Show</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<h4><strong><img loading="lazy" decoding="async" class="alignleft wp-image-2598" src="/wp-content/uploads/2017/05/Petri_Liekovuo-246x300.jpeg" alt="" width="112" height="137" srcset="/wp-content/uploads/2017/05/Petri_Liekovuo-246x300.jpeg 246w, /wp-content/uploads/2017/05/Petri_Liekovuo.jpeg 654w" sizes="(max-width: 112px) 100vw, 112px" />Kolumni</strong></h4>
+										<content:encoded><![CDATA[<h4><strong><img loading="lazy" decoding="async" class="alignleft wp-image-2598" src="/web/wp-content/uploads/2017/05/Petri_Liekovuo-246x300.jpeg" alt="" width="112" height="137" srcset="/web/wp-content/uploads/2017/05/Petri_Liekovuo-246x300.jpeg 246w, /web/wp-content/uploads/2017/05/Petri_Liekovuo.jpeg 654w" sizes="(max-width: 112px) 100vw, 112px" />Kolumni</strong></h4>
 <p>Iso kiitos teille kaikille, jotka osallistuitte viime viikolla järjestämäämme leffailtaan. Iso kiitos myös teille, jotka jo ehditte ilmoittautua mukaan, mutta peruutitte osallistumisenne, kun huomasitte ettette ehdikään mukaan. Kiitosta ja kunniaa ei sen sijaan heru yhtään herra no showlle.</p>
 <p>Herra no show on jokaisen tapahtumajärjestäjän inhokki numero 1.  Hän ilmoittautuu mukaan tapahtumaan, mutta ei peru, eikä koskaan ilmaannu paikalle. Siinä välissä tapahtuman järjestävä taho on ostanut ja maksanut tarjoilut, painattanut nimikortit, mitoittanut tilat, parkkipaikat ja henkilökunnan ilmoittautuneiden lukumäärän mukaan.</p>
 <p>Suomi on tunnetusti kallis maa, erityisen kallis se on silloin kun ostetaan palveluita, palasia joista tapahtumat rakennetaan.</p>
@@ -221,7 +221,7 @@ Päivän päätteeksi järjestetään vielä verkostoitumis/cocktail -osuus aina
 <p>Se, että olen kutsunut koko ajan tässä kolumnissani kuvaamaani hypoteettista hyypiötä miessukupuolen termein, pohjaa vain ja ainoastaan siihen tylsään tosiasiaan, että alamme on miesvaltainen. En missään tapauksessa halua luoda käsitystä, etteikö naispuolinen henkilö voisi toimia yhtä kylmästi ja vastuuntunnottomasti.</p>
 <h4><strong>Synninpäästö</strong></h4>
 <p>Sovitaanko niin herra no show, että jos tapahtumamme kiinnostavat jatkossa, olet tämän nuhtelunikin jälkeen tervetullut paikalle, paino kuitenkin sanalle paikalle. Citrix-aiheiset tilaisuudet ovat mukavia ja ammatillisesti mielenkiintoisia. Mutta jos haluat jatkaa vanhalla linjallasi, valitse seuraavan kerran vaikkapa VMWaren tapahtuma, ne eivät ole yhtä mielenkiintoisia.  <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
-<p>Ja hei herra no show, jos pieni musta omatuntosi buuttasi itsensä tämän luettuasi, niin voit sovittaa syntisi järkkäämällä edustamasi yrityksen meille <a href="/liity-yritysjaseneksi/">yritysjäseneksi</a>. Jäseniä kun ei koskaan ole liikaa.</p>
+<p>Ja hei herra no show, jos pieni musta omatuntosi buuttasi itsensä tämän luettuasi, niin voit sovittaa syntisi järkkäämällä edustamasi yrityksen meille <a href="/web/liity-yritysjaseneksi/">yritysjäseneksi</a>. Jäseniä kun ei koskaan ole liikaa.</p>
 <p>Me tykkäämme jäsenistämme.</p>
 <p><span style="font-size: 10pt;">Tallinnassa 21.5.2017,</span></p>
 <p><span style="font-size: 10pt;"><strong>Petri Liekovuo</strong></span></p>
@@ -232,7 +232,7 @@ Päivän päätteeksi järjestetään vielä verkostoitumis/cocktail -osuus aina
 
 
 </pre>
-<p>The post <a href="/2017/05/21/vanha-viholliseni-herra-no-show/">Vanha viholliseni Herra No Show</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2017/05/21/vanha-viholliseni-herra-no-show/">Vanha viholliseni Herra No Show</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -240,19 +240,19 @@ Päivän päätteeksi järjestetään vielä verkostoitumis/cocktail -osuus aina
 		<post-id xmlns="com-wordpress:feed-additions:1">2588</post-id>	</item>
 		<item>
 		<title>Citrix &#038; Microsoft – Road (to Cloud) Show</title>
-		<link>/2017/03/04/citrix-microsoft-road-to-cloud-show/</link>
+		<link>/web/2017/03/04/citrix-microsoft-road-to-cloud-show/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Sat, 04 Mar 2017 15:08:33 +0000</pubDate>
 				<category><![CDATA[Tapahtumat]]></category>
 		<category><![CDATA[Microsoft]]></category>
 		<category><![CDATA[Tapahtuma]]></category>
-		<guid isPermaLink="false">/?p=2316</guid>
+		<guid isPermaLink="false">/web/?p=2316</guid>
 
-					<description><![CDATA[<p>Citrix ja Microsoft ovat keskittyneet keskinäisen kilpailun sijaan tiiviiseen yhteistyöhön jo 25 vuoden ajan. Yhteistyön tarkoituksena on ollut varmistaa, että molempien toimijoiden ratkaisut täydentävät toisiaan ja integroituvat hyvin <a class="mh-excerpt-more" href="/2017/03/04/citrix-microsoft-road-to-cloud-show/" title="Citrix &#038; Microsoft – Road (to Cloud) Show">[...]</a></p>
-<p>The post <a href="/2017/03/04/citrix-microsoft-road-to-cloud-show/">Citrix &#038; Microsoft – Road (to Cloud) Show</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+					<description><![CDATA[<p>Citrix ja Microsoft ovat keskittyneet keskinäisen kilpailun sijaan tiiviiseen yhteistyöhön jo 25 vuoden ajan. Yhteistyön tarkoituksena on ollut varmistaa, että molempien toimijoiden ratkaisut täydentävät toisiaan ja integroituvat hyvin <a class="mh-excerpt-more" href="/web/2017/03/04/citrix-microsoft-road-to-cloud-show/" title="Citrix &#038; Microsoft – Road (to Cloud) Show">[...]</a></p>
+<p>The post <a href="/web/2017/03/04/citrix-microsoft-road-to-cloud-show/">Citrix &#038; Microsoft – Road (to Cloud) Show</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" class="alignnone wp-image-2315 size-full" src="/wp-content/uploads/2017/03/CTX_MS_RoadShow.jpg" alt="" width="717" height="278" srcset="/wp-content/uploads/2017/03/CTX_MS_RoadShow.jpg 717w, /wp-content/uploads/2017/03/CTX_MS_RoadShow-300x116.jpg 300w" sizes="(max-width: 717px) 100vw, 717px" /></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" class="alignnone wp-image-2315 size-full" src="/web/wp-content/uploads/2017/03/CTX_MS_RoadShow.jpg" alt="" width="717" height="278" srcset="/web/wp-content/uploads/2017/03/CTX_MS_RoadShow.jpg 717w, /web/wp-content/uploads/2017/03/CTX_MS_RoadShow-300x116.jpg 300w" sizes="(max-width: 717px) 100vw, 717px" /></p>
 <p>Citrix ja Microsoft ovat keskittyneet keskinäisen kilpailun sijaan tiiviiseen yhteistyöhön jo 25 vuoden ajan. Yhteistyön tarkoituksena on ollut varmistaa, että molempien toimijoiden ratkaisut täydentävät toisiaan ja integroituvat hyvin keskenään. Citrix XenApp ja XenDesktop Essentials korvaavat Microsoftin RemoteAppin. Netscaler integroitui EMS:iin, ja tulossa on lisäksi mielenkiintoisia uutisia mm. Intune ja XenMobile integraatiosta. Tule kuulemaan, mitä Citrixin ja Microsoftin yhteistyö mahdollistaa sinun liiketoiminnallesi!</p>
 <p><strong>Agenda:</strong><br />
 09.00 Tervetuloa! Tutkimustietoa ja näkymiä tulevaisuuteen<br />
@@ -270,7 +270,7 @@ Päivän päätteeksi järjestetään vielä verkostoitumis/cocktail -osuus aina
 <p>12.4. Kuopio, Scandic Kuopio</p>
 <p><a href="http://app.emarketeer.com/ext/form/survey.php?m=239439af5e2287747e4ba41be3dcf816325b33f&amp;sessid=v1--dublLwOc9F7yJ0VcMWnXLL~NcLJa1RR&amp;page=1"><strong>Ilmoittaudu mukaan &gt;</strong></a></p>
 <p>&nbsp;</p>
-<p>The post <a href="/2017/03/04/citrix-microsoft-road-to-cloud-show/">Citrix &#038; Microsoft – Road (to Cloud) Show</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2017/03/04/citrix-microsoft-road-to-cloud-show/">Citrix &#038; Microsoft – Road (to Cloud) Show</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -278,7 +278,7 @@ Päivän päätteeksi järjestetään vielä verkostoitumis/cocktail -osuus aina
 		<post-id xmlns="com-wordpress:feed-additions:1">2316</post-id>	</item>
 		<item>
 		<title>Citrix Synergy Arrow ECS ryhmämatka</title>
-		<link>/2017/03/04/citrix-synergy-arrow-ecs-ryhmamatka/</link>
+		<link>/web/2017/03/04/citrix-synergy-arrow-ecs-ryhmamatka/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Sat, 04 Mar 2017 14:50:34 +0000</pubDate>
@@ -286,12 +286,12 @@ Päivän päätteeksi järjestetään vielä verkostoitumis/cocktail -osuus aina
 		<category><![CDATA[Arrow]]></category>
 		<category><![CDATA[Citrix Synergy]]></category>
 		<category><![CDATA[Tapahtuma]]></category>
-		<guid isPermaLink="false">/?p=2310</guid>
+		<guid isPermaLink="false">/web/?p=2310</guid>
 
-					<description><![CDATA[<p>Citrix Synergy järjestetään tänä vuonna 21.5. – 25.5. Orlandossa. Arrow ECS on jälleen järjestämässä perinteisen ryhmämatkan tapahtumaan . Citrix Synergyssä pääset: kuulemaan viimeisimmät uutiset Citrixin <a class="mh-excerpt-more" href="/2017/03/04/citrix-synergy-arrow-ecs-ryhmamatka/" title="Citrix Synergy Arrow ECS ryhmämatka">[...]</a></p>
-<p>The post <a href="/2017/03/04/citrix-synergy-arrow-ecs-ryhmamatka/">Citrix Synergy Arrow ECS ryhmämatka</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+					<description><![CDATA[<p>Citrix Synergy järjestetään tänä vuonna 21.5. – 25.5. Orlandossa. Arrow ECS on jälleen järjestämässä perinteisen ryhmämatkan tapahtumaan . Citrix Synergyssä pääset: kuulemaan viimeisimmät uutiset Citrixin <a class="mh-excerpt-more" href="/web/2017/03/04/citrix-synergy-arrow-ecs-ryhmamatka/" title="Citrix Synergy Arrow ECS ryhmämatka">[...]</a></p>
+<p>The post <a href="/web/2017/03/04/citrix-synergy-arrow-ecs-ryhmamatka/">Citrix Synergy Arrow ECS ryhmämatka</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" class="alignnone wp-image-2308 size-full" src="/wp-content/uploads/2017/03/Citrix_Synergy_2017_MailTop2.jpg" alt="" width="620" height="400" srcset="/wp-content/uploads/2017/03/Citrix_Synergy_2017_MailTop2.jpg 620w, /wp-content/uploads/2017/03/Citrix_Synergy_2017_MailTop2-300x194.jpg 300w" sizes="(max-width: 620px) 100vw, 620px" /></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" class="alignnone wp-image-2308 size-full" src="/web/wp-content/uploads/2017/03/Citrix_Synergy_2017_MailTop2.jpg" alt="" width="620" height="400" srcset="/web/wp-content/uploads/2017/03/Citrix_Synergy_2017_MailTop2.jpg 620w, /web/wp-content/uploads/2017/03/Citrix_Synergy_2017_MailTop2-300x194.jpg 300w" sizes="(max-width: 620px) 100vw, 620px" /></p>
 <p>Citrix Synergy järjestetään tänä vuonna 21.5. – 25.5. Orlandossa.</p>
 <p>Arrow ECS on jälleen järjestämässä perinteisen ryhmämatkan tapahtumaan .</p>
 <p>Citrix <a href="https://www.citrixsynergy.com/">Synergyssä</a> pääset:</p>
@@ -313,9 +313,9 @@ Päivän päätteeksi järjestetään vielä verkostoitumis/cocktail -osuus aina
 <p>Tapahtumassa pääset myös tekemään yhden <strong>ilmaisen Citrix -sertifiointitestin</strong>. Tarkemmat ohjeet ilmaisen testin varaamisesta löydät Citrix Synergyn nettisivuilta.</p>
 <p><strong>Ryhmämatkalle ilmoittautuminen päättyy 15.4.2017! </strong></p>
 <p><a href="https://ecs-fi.arrow.com/edustukset/citrix/Sivut/L%C3%A4hde-mukaan-Arrow-ECS-n-j%C3%A4rjest%C3%A4m%C3%A4lle-Citrix-Synergy-ryhm%C3%A4matkalle.aspx"><strong>Ilmoittautuminen ja lisätiedot </strong></a></p>
-<p><img loading="lazy" decoding="async" class="aligncenter wp-image-2307 size-full" src="/wp-content/uploads/2017/03/arrow_2_Orlando.jpg" alt="" width="743" height="230" srcset="/wp-content/uploads/2017/03/arrow_2_Orlando.jpg 743w, /wp-content/uploads/2017/03/arrow_2_Orlando-300x93.jpg 300w" sizes="(max-width: 743px) 100vw, 743px" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter wp-image-2307 size-full" src="/web/wp-content/uploads/2017/03/arrow_2_Orlando.jpg" alt="" width="743" height="230" srcset="/web/wp-content/uploads/2017/03/arrow_2_Orlando.jpg 743w, /web/wp-content/uploads/2017/03/arrow_2_Orlando-300x93.jpg 300w" sizes="(max-width: 743px) 100vw, 743px" /></p>
 <p>&nbsp;</p>
-<p>The post <a href="/2017/03/04/citrix-synergy-arrow-ecs-ryhmamatka/">Citrix Synergy Arrow ECS ryhmämatka</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2017/03/04/citrix-synergy-arrow-ecs-ryhmamatka/">Citrix Synergy Arrow ECS ryhmämatka</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -323,17 +323,17 @@ Päivän päätteeksi järjestetään vielä verkostoitumis/cocktail -osuus aina
 		<post-id xmlns="com-wordpress:feed-additions:1">2310</post-id>	</item>
 		<item>
 		<title>Vuosikokouskutsu</title>
-		<link>/2017/02/03/vuosikokouskutsu/</link>
+		<link>/web/2017/02/03/vuosikokouskutsu/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Fri, 03 Feb 2017 19:00:56 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[CUG]]></category>
 		<category><![CDATA[Tapahtuma]]></category>
-		<guid isPermaLink="false">/?p=2277</guid>
+		<guid isPermaLink="false">/web/?p=2277</guid>
 
-					<description><![CDATA[<p>CUG.fi:n vuosikokous järjestetään maanantaina 20.2.2017 Espoossa. Vuosikokouksessa käsitellään sääntöjen mukaiset vuosikokousasiat ja valitaan hallitus vuodelle 2017. Vuosikokoukseen voivat osallistua kaikki jäsenet joiden tiedot löytyvät jäsenrekisteristä. <a class="mh-excerpt-more" href="/2017/02/03/vuosikokouskutsu/" title="Vuosikokouskutsu">[...]</a></p>
-<p>The post <a href="/2017/02/03/vuosikokouskutsu/">Vuosikokouskutsu</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+					<description><![CDATA[<p>CUG.fi:n vuosikokous järjestetään maanantaina 20.2.2017 Espoossa. Vuosikokouksessa käsitellään sääntöjen mukaiset vuosikokousasiat ja valitaan hallitus vuodelle 2017. Vuosikokoukseen voivat osallistua kaikki jäsenet joiden tiedot löytyvät jäsenrekisteristä. <a class="mh-excerpt-more" href="/web/2017/02/03/vuosikokouskutsu/" title="Vuosikokouskutsu">[...]</a></p>
+<p>The post <a href="/web/2017/02/03/vuosikokouskutsu/">Vuosikokouskutsu</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>CUG.fi:n vuosikokous järjestetään maanantaina 20.2.2017 Espoossa.</p>
 <p>Vuosikokouksessa käsitellään sääntöjen mukaiset vuosikokousasiat ja valitaan hallitus vuodelle 2017.</p>
@@ -343,7 +343,7 @@ Päivän päätteeksi järjestetään vielä verkostoitumis/cocktail -osuus aina
 <p>&nbsp;</p>
 <h3>Ilmoittaudun mukaan CUG.fi:n vuosikokoukseen 20.2.21017</h3>
 <p>Ilmoittautuminen on päättynyt.</p>
-<p>The post <a href="/2017/02/03/vuosikokouskutsu/">Vuosikokouskutsu</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2017/02/03/vuosikokouskutsu/">Vuosikokouskutsu</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		

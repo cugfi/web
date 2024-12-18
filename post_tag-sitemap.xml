@@ -1,159 +1,159 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/web/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/tag/arrow/</loc>
+		<loc>/web/tag/arrow/</loc>
 		<lastmod>2017-11-09T15:36:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/atea/</loc>
+		<loc>/web/tag/atea/</loc>
 		<lastmod>2017-03-30T11:03:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/ceo/</loc>
+		<loc>/web/tag/ceo/</loc>
 		<lastmod>2017-07-11T08:22:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/citrix/</loc>
+		<loc>/web/tag/citrix/</loc>
 		<lastmod>2017-11-14T10:11:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/citrix-synergy/</loc>
+		<loc>/web/tag/citrix-synergy/</loc>
 		<lastmod>2018-05-22T15:36:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/cloudready/</loc>
+		<loc>/web/tag/cloudready/</loc>
 		<lastmod>2017-03-31T13:33:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/comping/</loc>
+		<loc>/web/tag/comping/</loc>
 		<lastmod>2017-03-30T11:03:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/cug/</loc>
+		<loc>/web/tag/cug/</loc>
 		<lastmod>2017-03-11T20:59:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/cugc/</loc>
+		<loc>/web/tag/cugc/</loc>
 		<lastmod>2017-03-30T10:59:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/cygate/</loc>
+		<loc>/web/tag/cygate/</loc>
 		<lastmod>2017-03-30T11:03:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/dabcc/</loc>
+		<loc>/web/tag/dabcc/</loc>
 		<lastmod>2017-04-05T14:56:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/gdpr/</loc>
+		<loc>/web/tag/gdpr/</loc>
 		<lastmod>2017-11-14T10:19:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/goliath-technologies/</loc>
+		<loc>/web/tag/goliath-technologies/</loc>
 		<lastmod>2017-04-05T14:56:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/hyperkonvergenssi/</loc>
+		<loc>/web/tag/hyperkonvergenssi/</loc>
 		<lastmod>2017-03-30T10:58:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/it-voimala/</loc>
+		<loc>/web/tag/it-voimala/</loc>
 		<lastmod>2017-03-30T11:03:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/koulutus/</loc>
+		<loc>/web/tag/koulutus/</loc>
 		<lastmod>2017-11-09T15:36:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/microsoft/</loc>
+		<loc>/web/tag/microsoft/</loc>
 		<lastmod>2017-03-30T11:04:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/netscaler/</loc>
+		<loc>/web/tag/netscaler/</loc>
 		<lastmod>2017-11-05T14:57:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/neverware/</loc>
+		<loc>/web/tag/neverware/</loc>
 		<lastmod>2017-03-31T13:33:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/no-show/</loc>
+		<loc>/web/tag/no-show/</loc>
 		<lastmod>2017-10-13T20:39:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/nutanix/</loc>
+		<loc>/web/tag/nutanix/</loc>
 		<lastmod>2017-11-06T13:01:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/orlando/</loc>
+		<loc>/web/tag/orlando/</loc>
 		<lastmod>2017-03-30T11:03:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/osake/</loc>
+		<loc>/web/tag/osake/</loc>
 		<lastmod>2017-03-30T11:06:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/partner-awards/</loc>
+		<loc>/web/tag/partner-awards/</loc>
 		<lastmod>2017-03-30T11:03:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/podcast/</loc>
+		<loc>/web/tag/podcast/</loc>
 		<lastmod>2017-03-30T11:06:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/ponemon/</loc>
+		<loc>/web/tag/ponemon/</loc>
 		<lastmod>2017-06-20T12:05:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/president/</loc>
+		<loc>/web/tag/president/</loc>
 		<lastmod>2017-07-11T08:22:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/redbull/</loc>
+		<loc>/web/tag/redbull/</loc>
 		<lastmod>2017-03-30T11:01:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/samsung/</loc>
+		<loc>/web/tag/samsung/</loc>
 		<lastmod>2017-03-31T16:37:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/sertifikaatit/</loc>
+		<loc>/web/tag/sertifikaatit/</loc>
 		<lastmod>2017-11-09T15:36:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/summit/</loc>
+		<loc>/web/tag/summit/</loc>
 		<lastmod>2017-10-04T11:21:00+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/tapahtuma/</loc>
+		<loc>/web/tag/tapahtuma/</loc>
 		<lastmod>2018-05-22T15:36:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/tatarinov/</loc>
+		<loc>/web/tag/tatarinov/</loc>
 		<lastmod>2017-04-26T12:54:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/tietoturva/</loc>
+		<loc>/web/tag/tietoturva/</loc>
 		<lastmod>2017-10-17T13:02:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/titansoft/</loc>
+		<loc>/web/tag/titansoft/</loc>
 		<lastmod>2017-11-06T13:01:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/tutkimus/</loc>
+		<loc>/web/tag/tutkimus/</loc>
 		<lastmod>2017-06-20T12:05:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/verkko/</loc>
+		<loc>/web/tag/verkko/</loc>
 		<lastmod>2017-10-17T13:02:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/webinaari/</loc>
+		<loc>/web/tag/webinaari/</loc>
 		<lastmod>2017-12-13T14:14:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tag/xenmobile/</loc>
+		<loc>/web/tag/xenmobile/</loc>
 		<lastmod>2017-11-14T10:11:41+00:00</lastmod>
 	</url>
 </urlset>

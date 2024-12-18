@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Samsung Archives &#8902; Citrix User Group Finland</title>
-	<atom:link href="/tag/samsung/feed/" rel="self" type="application/rss+xml" />
-	<link>/tag/samsung/</link>
+	<atom:link href="/web/tag/samsung/feed/" rel="self" type="application/rss+xml" />
+	<link>/web/tag/samsung/</link>
 	<description>CUG.fi on voittoa tavoittelematon, yksityisten henkilöiden toimesta vuonna 2003 perustettu vapaaehtoisvoimin toimiva, rekisteröity yhdistys. Sen tavoitteena on tukea Citrix-ammattilaisten ja käyttäjien verkostoitumista, edistää tiedonvälitystä ja tarjota best practises-kokemuksia jäsenilleen järjestämällä erilaisia teemaseminaareja ja tapaamisia. Yhdistys on ensisijaisesti tarkoitettu henkilöille jotka työkseen kehittävät ja ylläpitävät Citrix- ympäristöjä.</description>
 	<lastBuildDate>Fri, 31 Mar 2017 16:37:49 +0000</lastBuildDate>
 	<language>fi</language>
@@ -21,30 +21,30 @@
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 	<item>
 		<title>Samsung DeX telakka laajentaa uuden Galaxy S8 -puhelimen työpöytäympäristöksi hyödyntäen Citrixin teknologiaa</title>
-		<link>/2017/03/31/samsung-dex-telakka-laajentaa-uuden-galaxy-s8-puhelimen-tyopoytaymparistoksi-hyodyntaen-citrixin-teknologiaa/</link>
+		<link>/web/2017/03/31/samsung-dex-telakka-laajentaa-uuden-galaxy-s8-puhelimen-tyopoytaymparistoksi-hyodyntaen-citrixin-teknologiaa/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Fri, 31 Mar 2017 13:38:25 +0000</pubDate>
 				<category><![CDATA[Uusi tuote]]></category>
 		<category><![CDATA[Citrix]]></category>
 		<category><![CDATA[Samsung]]></category>
-		<guid isPermaLink="false">/?p=2444</guid>
+		<guid isPermaLink="false">/web/?p=2444</guid>
 
-					<description><![CDATA[<p>Samsung DeX-telakka yhdistää uuden Galaxy S8:n tai S8+:n -puhelimen näyttöön, näppäimistöön ja hiireen, jolloin saadaan tietokoneen kaltainen käyttökokemus, jossa käyttäjä voi saumattomasti käyttää puhelimen omia <a class="mh-excerpt-more" href="/2017/03/31/samsung-dex-telakka-laajentaa-uuden-galaxy-s8-puhelimen-tyopoytaymparistoksi-hyodyntaen-citrixin-teknologiaa/" title="Samsung DeX telakka laajentaa uuden Galaxy S8 -puhelimen työpöytäympäristöksi hyödyntäen Citrixin teknologiaa">[...]</a></p>
-<p>The post <a href="/2017/03/31/samsung-dex-telakka-laajentaa-uuden-galaxy-s8-puhelimen-tyopoytaymparistoksi-hyodyntaen-citrixin-teknologiaa/">Samsung DeX telakka laajentaa uuden Galaxy S8 -puhelimen työpöytäympäristöksi hyödyntäen Citrixin teknologiaa</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+					<description><![CDATA[<p>Samsung DeX-telakka yhdistää uuden Galaxy S8:n tai S8+:n -puhelimen näyttöön, näppäimistöön ja hiireen, jolloin saadaan tietokoneen kaltainen käyttökokemus, jossa käyttäjä voi saumattomasti käyttää puhelimen omia <a class="mh-excerpt-more" href="/web/2017/03/31/samsung-dex-telakka-laajentaa-uuden-galaxy-s8-puhelimen-tyopoytaymparistoksi-hyodyntaen-citrixin-teknologiaa/" title="Samsung DeX telakka laajentaa uuden Galaxy S8 -puhelimen työpöytäympäristöksi hyödyntäen Citrixin teknologiaa">[...]</a></p>
+<p>The post <a href="/web/2017/03/31/samsung-dex-telakka-laajentaa-uuden-galaxy-s8-puhelimen-tyopoytaymparistoksi-hyodyntaen-citrixin-teknologiaa/">Samsung DeX telakka laajentaa uuden Galaxy S8 -puhelimen työpöytäympäristöksi hyödyntäen Citrixin teknologiaa</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-2441 " src="/wp-content/uploads/2017/03/dex.jpg" alt="" width="675" height="375" srcset="/wp-content/uploads/2017/03/dex.jpg 1334w, /wp-content/uploads/2017/03/dex-300x167.jpg 300w, /wp-content/uploads/2017/03/dex-768x427.jpg 768w, /wp-content/uploads/2017/03/dex-1024x570.jpg 1024w" sizes="(max-width: 675px) 100vw, 675px" /></p>
+										<content:encoded><![CDATA[<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-2441 " src="/web/wp-content/uploads/2017/03/dex.jpg" alt="" width="675" height="375" srcset="/web/wp-content/uploads/2017/03/dex.jpg 1334w, /web/wp-content/uploads/2017/03/dex-300x167.jpg 300w, /web/wp-content/uploads/2017/03/dex-768x427.jpg 768w, /web/wp-content/uploads/2017/03/dex-1024x570.jpg 1024w" sizes="(max-width: 675px) 100vw, 675px" /></p>
 <p>Samsung <strong><a href="http://www.samsung.com/global/galaxy/apps/samsung-dex/">DeX-telakka</a></strong> yhdistää uuden <strong><a href="http://www.samsung.com/fi/smartphones/galaxy-s8/">Galaxy S8</a></strong>:n tai S8+:n -puhelimen näyttöön, näppäimistöön ja hiireen, jolloin saadaan tietokoneen kaltainen käyttökokemus, jossa käyttäjä voi saumattomasti käyttää puhelimen omia sovelluksia, työstää Office-dokumentteja, selata internettiä, katsoa videoita ja kirjoittaa viestejä suurelta näytöltä hiiren ja näppäimistön avulla. Microsoftin Office-sovellukset sekä Adoben Acrobat Reader- ja Lightroom Mobile -sovellukset skaalautuvat suuremmalle näytölle ja tarjoavat samankaltaisen käyttökokemuksen kuin Windowsin työpöytäversiossa. Windows-pohjaisia sovelluksia voi käyttää erillisen virtuaalityöpöydän kautta. Tuettuja VDI- ympäristöjä ovat Citrix Receiver, VMware Horizon Client ja Amazon WorkSpaces.</p>
 <p>Kyseessä on Samsungin ja Citrixin yhteistyöprojekti. Valmistajan mukaan kokonaisuus sopii loistavasti esim. henkilöille jotka työskentelevät kentällä osan päivästä , ja haluavat sen jälkeen istua työpöydän ääreen jatkamaan töitään.</p>
 <p>Citrix tuo projektiin mukanaan myös mobiilia tietoturvaa ja hallintaominaisuuksia täydentämään Samsungin omaa <strong><a href="http://www.samsung.com/global/galaxy/what-is/samsung-knox/">Knox</a></strong> turvallisuuskokonaisuutta. Citrix XenMobile tukee myös Samsungin uutta Enterprise Firmware-Over-The- Air (E-FOTA) -ominaisuutta, joka tuo järjestelmän ylläpitäjille parempaa kontrollia mm. versionhallintaan.</p>
-<p><img decoding="async" class="aligncenter wp-image-2442 " src="/wp-content/uploads/2017/03/dex2.jpg" alt="" width="571" height="478" srcset="/wp-content/uploads/2017/03/dex2.jpg 845w, /wp-content/uploads/2017/03/dex2-300x251.jpg 300w, /wp-content/uploads/2017/03/dex2-768x643.jpg 768w" sizes="(max-width: 571px) 100vw, 571px" /></p>
+<p><img decoding="async" class="aligncenter wp-image-2442 " src="/web/wp-content/uploads/2017/03/dex2.jpg" alt="" width="571" height="478" srcset="/web/wp-content/uploads/2017/03/dex2.jpg 845w, /web/wp-content/uploads/2017/03/dex2-300x251.jpg 300w, /web/wp-content/uploads/2017/03/dex2-768x643.jpg 768w" sizes="(max-width: 571px) 100vw, 571px" /></p>
 <p>DeX myös lataa puhelimen sen ollessa siihen kiinnitettynä, sen hinta-arvio on suomessa n. 149 euroa.</p>
 <p>DeX-telakassa on kaksi USB 2.0 -liitäntää, Ethernet-portti, USB Type-C -liitäntä virransaantia varten ja tuuletin puhelimen jäähdyttämistä varten. Ollessaan telakoituna, puhelin toimii normaalisti puhelimena, tuoden sen käyttöliittymät ulkoiselle näytölle.</p>
-<p><img decoding="async" class="aligncenter wp-image-2443 size-full" src="/wp-content/uploads/2017/03/dex3.jpg" alt="" width="749" height="387" srcset="/wp-content/uploads/2017/03/dex3.jpg 749w, /wp-content/uploads/2017/03/dex3-300x155.jpg 300w" sizes="(max-width: 749px) 100vw, 749px" /></p>
+<p><img decoding="async" class="aligncenter wp-image-2443 size-full" src="/web/wp-content/uploads/2017/03/dex3.jpg" alt="" width="749" height="387" srcset="/web/wp-content/uploads/2017/03/dex3.jpg 749w, /web/wp-content/uploads/2017/03/dex3-300x155.jpg 300w" sizes="(max-width: 749px) 100vw, 749px" /></p>
 <p><a href="https://www.citrix.com/news/announcements/mar-2017/citrix-collaborates-with-samsung-to-deliver-desktop-experience.html">Lue lisää</a>.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>The post <a href="/2017/03/31/samsung-dex-telakka-laajentaa-uuden-galaxy-s8-puhelimen-tyopoytaymparistoksi-hyodyntaen-citrixin-teknologiaa/">Samsung DeX telakka laajentaa uuden Galaxy S8 -puhelimen työpöytäympäristöksi hyödyntäen Citrixin teknologiaa</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2017/03/31/samsung-dex-telakka-laajentaa-uuden-galaxy-s8-puhelimen-tyopoytaymparistoksi-hyodyntaen-citrixin-teknologiaa/">Samsung DeX telakka laajentaa uuden Galaxy S8 -puhelimen työpöytäympäristöksi hyödyntäen Citrixin teknologiaa</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		

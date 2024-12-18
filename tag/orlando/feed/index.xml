@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Orlando Archives &#8902; Citrix User Group Finland</title>
-	<atom:link href="/tag/orlando/feed/" rel="self" type="application/rss+xml" />
-	<link>/tag/orlando/</link>
+	<atom:link href="/web/tag/orlando/feed/" rel="self" type="application/rss+xml" />
+	<link>/web/tag/orlando/</link>
 	<description>CUG.fi on voittoa tavoittelematon, yksityisten henkilöiden toimesta vuonna 2003 perustettu vapaaehtoisvoimin toimiva, rekisteröity yhdistys. Sen tavoitteena on tukea Citrix-ammattilaisten ja käyttäjien verkostoitumista, edistää tiedonvälitystä ja tarjota best practises-kokemuksia jäsenilleen järjestämällä erilaisia teemaseminaareja ja tapaamisia. Yhdistys on ensisijaisesti tarkoitettu henkilöille jotka työkseen kehittävät ja ylläpitävät Citrix- ympäristöjä.</description>
 	<lastBuildDate>Thu, 30 Mar 2017 11:03:46 +0000</lastBuildDate>
 	<language>fi</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 	<item>
 		<title>CUG.fi Orlando opas</title>
-		<link>/2017/03/04/cug-fi-orlando-opas/</link>
+		<link>/web/2017/03/04/cug-fi-orlando-opas/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Sat, 04 Mar 2017 16:59:48 +0000</pubDate>
 				<category><![CDATA[Tapahtumat]]></category>
 		<category><![CDATA[Citrix Synergy]]></category>
 		<category><![CDATA[Orlando]]></category>
-		<guid isPermaLink="false">/?p=2329</guid>
+		<guid isPermaLink="false">/web/?p=2329</guid>
 
-					<description><![CDATA[<p>Taustatiedot Orlando on kaupunki Floridan osavaltiossa Yhdysvalloissa. Kaupungissa asuu noin 271 000 ihmistä, joten se on Floridan suurin sisämaakaupunki ja osavaltion kuudenneksi suurin kaupunki. Orlandossa sijaitsee <a class="mh-excerpt-more" href="/2017/03/04/cug-fi-orlando-opas/" title="CUG.fi Orlando opas">[...]</a></p>
-<p>The post <a href="/2017/03/04/cug-fi-orlando-opas/">CUG.fi Orlando opas</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+					<description><![CDATA[<p>Taustatiedot Orlando on kaupunki Floridan osavaltiossa Yhdysvalloissa. Kaupungissa asuu noin 271 000 ihmistä, joten se on Floridan suurin sisämaakaupunki ja osavaltion kuudenneksi suurin kaupunki. Orlandossa sijaitsee <a class="mh-excerpt-more" href="/web/2017/03/04/cug-fi-orlando-opas/" title="CUG.fi Orlando opas">[...]</a></p>
+<p>The post <a href="/web/2017/03/04/cug-fi-orlando-opas/">CUG.fi Orlando opas</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<h1><img fetchpriority="high" decoding="async" class="alignnone wp-image-2336 size-full" src="/wp-content/uploads/2017/03/orlando-map-pin.jpg" alt="" width="750" height="500" srcset="/wp-content/uploads/2017/03/orlando-map-pin.jpg 750w, /wp-content/uploads/2017/03/orlando-map-pin-300x200.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /></h1>
+										<content:encoded><![CDATA[<h1><img fetchpriority="high" decoding="async" class="alignnone wp-image-2336 size-full" src="/web/wp-content/uploads/2017/03/orlando-map-pin.jpg" alt="" width="750" height="500" srcset="/web/wp-content/uploads/2017/03/orlando-map-pin.jpg 750w, /web/wp-content/uploads/2017/03/orlando-map-pin-300x200.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" /></h1>
 <p><iframe src="http://free.timeanddate.com/countdown/i5nav79g/n867/cf100/cm0/cu4/ct0/cs0/ca0/cr0/ss0/cac000/cpc000/pcfff/tcfff/fs100/szw320/szh135/tatTime%20left%20to%20Event%20in/tac000/tptTime%20since%20Event%20started%20in/tpc000/mac000/mpc000/iso2017-05-23T00:00:00" width="320" height="135" frameborder="0"></iframe></p>
 <h1><strong>Taustatiedot</strong></h1>
 <p><strong>Orlando</strong> on kaupunki <a href="https://fi.wikipedia.org/wiki/Florida">Floridan</a> osavaltiossa <a href="https://fi.wikipedia.org/wiki/Yhdysvallat">Yhdysvalloissa</a>. Kaupungissa asuu noin 271 000 ihmistä, joten se on Floridan suurin sisämaakaupunki ja osavaltion kuudenneksi suurin kaupunki.</p>
@@ -60,7 +60,7 @@
 <p>Orlandolaisia urheilujoukkueita ovat muun muassa jalkapallon <a href="https://fi.wikipedia.org/wiki/Major_League_Soccer">MLS</a>-liigan <a href="https://fi.wikipedia.org/wiki/Orlando_City_SC">Orlando City SC</a>, koripallon <a href="https://fi.wikipedia.org/wiki/NBA">NBA</a>-liigan <a href="https://fi.wikipedia.org/wiki/Orlando_Magic">Orlando Magic</a> ja jääkiekon <a href="https://fi.wikipedia.org/wiki/ECHL">ECHL</a>-liigan <a href="https://fi.wikipedia.org/wiki/Orlando_Solar_Bears">Orlando Solar Bears</a>.</p>
 <p><span style="font-size: 8pt;"><strong>Lähde: Wikipedia</strong></span></p>
 <hr />
-<h2><img decoding="async" class="alignnone wp-image-2335 size-medium" src="/wp-content/uploads/2017/03/orlando-florida-300x203.jpg" alt="" width="300" height="203" srcset="/wp-content/uploads/2017/03/orlando-florida-300x203.jpg 300w, /wp-content/uploads/2017/03/orlando-florida-768x520.jpg 768w, /wp-content/uploads/2017/03/orlando-florida.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /></h2>
+<h2><img decoding="async" class="alignnone wp-image-2335 size-medium" src="/web/wp-content/uploads/2017/03/orlando-florida-300x203.jpg" alt="" width="300" height="203" srcset="/web/wp-content/uploads/2017/03/orlando-florida-300x203.jpg 300w, /web/wp-content/uploads/2017/03/orlando-florida-768x520.jpg 768w, /web/wp-content/uploads/2017/03/orlando-florida.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /></h2>
 <h2>CUG:n keräämät hyödylliset linkit</h2>
 <p>Tiesitkö muuten, että Orlando sijaitsee 8138 kilometrin eli 5057 mailin tai merimailina 4394 päässä Helsingistä linnuntietä?</p>
 <h3>Aika ja sää</h3>
@@ -74,7 +74,7 @@
 <h3>ESTA</h3>
 <p>Hyvissä ajoin ennen matkaamista tulee täyttää sähköinen matkustuslupa <a href="https://esta.cbp.dhs.gov/esta/application.html?execution=e1s1">ESTA</a>, joka on pakollinen kaikille ilman viisumia Yhdysvaltoihin saapuville vierailijoille. ESTA on automaattinen järjestelmä, jolla viranomaiset varmistavat henkilöiden kelpoisuuden matkustaa Yhdysvaltoihin.</p>
 <h3>Töpseli näyttää erilaiselta</h3>
-<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-2337" src="/wp-content/uploads/2017/03/usa_töpseli.jpg" alt="" width="132" height="165" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-2337" src="/web/wp-content/uploads/2017/03/usa_töpseli.jpg" alt="" width="132" height="165" /></p>
 <p><strong><span style="text-decoration: underline;">MUISTA ottaa mukaan riittävä määrä matka-adaptereita</span>. Toisena vinkkinä suositamme lataamaan puhelimeesi ohjelman joka muuntaa jenkkien mittayksiköt ymmärrettäviksi.</strong></p>
 <p>Sähköjärjestelmät, jännite (V) ja taajuus (Hz) ovat erilaisia eri maissa.  Eri maissa ja maanosissa pistotulpat ja pistorasiat voivat olla toisistaan poikkeava, ja eivätkä tällöin useinkaan ole yhteen sopivia. tarvitset matka-adapterin.<br />
 Sähköjärjestelmiä periaatteessa on ainoastaan kahta tyyppiä koko maailmassa:<br />
@@ -91,7 +91,7 @@ Myös taksikuskille, laukunkantajalle ja auton parkkeeraajalle annetaan tippiä.
 <p><span style="font-size: 8pt;"><strong>4.3.2017 Liekovuo</strong></span></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>The post <a href="/2017/03/04/cug-fi-orlando-opas/">CUG.fi Orlando opas</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2017/03/04/cug-fi-orlando-opas/">CUG.fi Orlando opas</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		

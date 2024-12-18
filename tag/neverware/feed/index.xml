@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Neverware Archives &#8902; Citrix User Group Finland</title>
-	<atom:link href="/tag/neverware/feed/" rel="self" type="application/rss+xml" />
-	<link>/tag/neverware/</link>
+	<atom:link href="/web/tag/neverware/feed/" rel="self" type="application/rss+xml" />
+	<link>/web/tag/neverware/</link>
 	<description>CUG.fi on voittoa tavoittelematon, yksityisten henkilöiden toimesta vuonna 2003 perustettu vapaaehtoisvoimin toimiva, rekisteröity yhdistys. Sen tavoitteena on tukea Citrix-ammattilaisten ja käyttäjien verkostoitumista, edistää tiedonvälitystä ja tarjota best practises-kokemuksia jäsenilleen järjestämällä erilaisia teemaseminaareja ja tapaamisia. Yhdistys on ensisijaisesti tarkoitettu henkilöille jotka työkseen kehittävät ja ylläpitävät Citrix- ympäristöjä.</description>
 	<lastBuildDate>Fri, 31 Mar 2017 13:33:46 +0000</lastBuildDate>
 	<language>fi</language>
@@ -21,48 +21,48 @@
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 	<item>
 		<title>CloudReady, uusi elämä vanhalle läppärille</title>
-		<link>/2017/03/30/cloudready-uusi-elama-vanhalle-lapparille/</link>
+		<link>/web/2017/03/30/cloudready-uusi-elama-vanhalle-lapparille/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Thu, 30 Mar 2017 10:49:17 +0000</pubDate>
 				<category><![CDATA[Testi]]></category>
 		<category><![CDATA[CloudReady]]></category>
 		<category><![CDATA[Neverware]]></category>
-		<guid isPermaLink="false">/?p=2430</guid>
+		<guid isPermaLink="false">/web/?p=2430</guid>
 
-					<description><![CDATA[<p>Googlen avoimen koodin Chromium OS käyttöjärjestelmä-alustalle rakennettu CloudReady antaa vanhalle läppärillesi uuden elämän muuntamalla sen helposti hallittavaksi webbi- ja pilvityökalut sisältäväksi työvälineeksi. Ohjelmisto on amerikkalaisen <a class="mh-excerpt-more" href="/2017/03/30/cloudready-uusi-elama-vanhalle-lapparille/" title="CloudReady, uusi elämä vanhalle läppärille">[...]</a></p>
-<p>The post <a href="/2017/03/30/cloudready-uusi-elama-vanhalle-lapparille/">CloudReady, uusi elämä vanhalle läppärille</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+					<description><![CDATA[<p>Googlen avoimen koodin Chromium OS käyttöjärjestelmä-alustalle rakennettu CloudReady antaa vanhalle läppärillesi uuden elämän muuntamalla sen helposti hallittavaksi webbi- ja pilvityökalut sisältäväksi työvälineeksi. Ohjelmisto on amerikkalaisen <a class="mh-excerpt-more" href="/web/2017/03/30/cloudready-uusi-elama-vanhalle-lapparille/" title="CloudReady, uusi elämä vanhalle läppärille">[...]</a></p>
+<p>The post <a href="/web/2017/03/30/cloudready-uusi-elama-vanhalle-lapparille/">CloudReady, uusi elämä vanhalle läppärille</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p><img decoding="async" class="alignnone wp-image-2421 size-full" src="/wp-content/uploads/2017/03/CloudReady_logo2.jpg" alt="" width="397" height="79" srcset="/wp-content/uploads/2017/03/CloudReady_logo2.jpg 397w, /wp-content/uploads/2017/03/CloudReady_logo2-300x60.jpg 300w" sizes="(max-width: 397px) 100vw, 397px" /></p>
+										<content:encoded><![CDATA[<p><img decoding="async" class="alignnone wp-image-2421 size-full" src="/web/wp-content/uploads/2017/03/CloudReady_logo2.jpg" alt="" width="397" height="79" srcset="/web/wp-content/uploads/2017/03/CloudReady_logo2.jpg 397w, /web/wp-content/uploads/2017/03/CloudReady_logo2-300x60.jpg 300w" sizes="(max-width: 397px) 100vw, 397px" /></p>
 <p>Googlen avoimen koodin Chromium OS käyttöjärjestelmä-alustalle rakennettu <strong>CloudReady</strong> antaa vanhalle läppärillesi uuden elämän muuntamalla sen helposti hallittavaksi webbi- ja pilvityökalut sisältäväksi työvälineeksi. Ohjelmisto on amerikkalaisen <strong>Neverware</strong>n kehittämä ja kotikäyttäjälle ilmainen. Rahansa Neverware tekee myymällä oppilaitoksille kohtuuhintaista lisenssipakettia tuotteesta. Yhtiön mukaan se on jo käytössä yli 800 koulussa.</p>
 <p>Paketissa tulee luonnollisesti automaattisesti linkitykset Googlen ekosysteemiin, mutta valmistaja on havainnut ettei pelkät Googlen ohjelmistot ole aina autuaaksi tekevä asia, sillä monet koulut ovat jo sitoutuneet Microsoftin Office365 palveluun. CloudReadyn uusin versio pitääkin sisällään valmiiksi rakennetun yhteensopivuuden Microsoftin pilvipalveluille, jolloin esimerkiksi tiedostot tallennetaan oletuksena OneDriveen Google Driven sijasta.</p>
 <p>CloudReady on saatavissa yhteensä viitenä eri <strong><a href="https://www.neverware.com/pricing">lisenssiversiona</a>: </strong>Education, Office 365, VDI, Enterprise ja jo mainittu Home, joka siis ilmainen eikä sisällä tukea.</p>
 <p><iframe src="//www.youtube.com/embed/bUBSvz4UkG4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <p>Neverware ketoo tuotteen toimivan todennäköisesti useimpien koneiden kanssa, jonka vakuudeksi on laadittu yli 200 laitteen <strong><a href="https://guide.neverware.com/supported-devices/">lista laitteista</a>,</strong> joiden kanssa toimivuus taataan. Listaan on myös merkitty saako kyseisestä mallista rakennettua myös alkuperäisen käyttöjärjestelmän säilyttävän dual boot laitteen.</p>
 <p>Testataampa nopeasti ilmaisen Home version asennus. Nurkista löytyy vanha Lenovo S10e Windows XP miniläppäri, joka löytyykin varmasti tuettujen laitteiden listalta. Tämä kyseinen malli on listattu alamerkinnällä: 32 bit only, eikä siihen saa rakennettua dual boottia.</p>
-<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-2422 size-full" src="/wp-content/uploads/2017/03/CloudReady1.jpg" alt="" width="987" height="688" srcset="/wp-content/uploads/2017/03/CloudReady1.jpg 987w, /wp-content/uploads/2017/03/CloudReady1-300x209.jpg 300w, /wp-content/uploads/2017/03/CloudReady1-768x535.jpg 768w" sizes="(max-width: 987px) 100vw, 987px" /></p>
+<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-2422 size-full" src="/web/wp-content/uploads/2017/03/CloudReady1.jpg" alt="" width="987" height="688" srcset="/web/wp-content/uploads/2017/03/CloudReady1.jpg 987w, /web/wp-content/uploads/2017/03/CloudReady1-300x209.jpg 300w, /web/wp-content/uploads/2017/03/CloudReady1-768x535.jpg 768w" sizes="(max-width: 987px) 100vw, 987px" /></p>
 <p>Asennusta varten ladataan sivustolta asennuspaketti, joka siirrettään selkeiden ohjeiden mukaisesti vähintään 4 Gt:n USB tikulle jolta asennus suoritetaan.</p>
 <p>Yksityiskohtaiset asennusohjeet asennustikun tekemieksi erikseen Windows, Mac ja ChromeBook ympäristöissä löytyvät asennussivulta.</p>
 <p>Windowsia käyttävän <strong><a href="https://guide.neverware.com/build-installer/working-windows/#unzip-the-cloudready-file">ohje</a></strong> jota tässä testaamme on rakennettu ajatukselle että käytössä on Chrome selain, no se löytyy kyllä.</p>
-<p><img loading="lazy" decoding="async" class="alignnone wp-image-2423 size-full" src="/wp-content/uploads/2017/03/CloudReady2.jpg" alt="" width="993" height="695" srcset="/wp-content/uploads/2017/03/CloudReady2.jpg 993w, /wp-content/uploads/2017/03/CloudReady2-300x210.jpg 300w, /wp-content/uploads/2017/03/CloudReady2-768x538.jpg 768w" sizes="(max-width: 993px) 100vw, 993px" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-2423 size-full" src="/web/wp-content/uploads/2017/03/CloudReady2.jpg" alt="" width="993" height="695" srcset="/web/wp-content/uploads/2017/03/CloudReady2.jpg 993w, /web/wp-content/uploads/2017/03/CloudReady2-300x210.jpg 300w, /web/wp-content/uploads/2017/03/CloudReady2-768x538.jpg 768w" sizes="(max-width: 993px) 100vw, 993px" /></p>
 <p>&nbsp;</p>
 <p>Kun asennustikku on ohjeiden mukaisesti tehty, käynnistyy varsinainen asennusvaihe muuttamalla koneen buuttausjärjestys siten että ensisijainen boottiväline on USB. Tähän(kin) löytyy selkeät merkkikohtaiset <strong><a href="https://guide.neverware.com/install-cloudready/">ohjeet</a>.</strong></p>
 <p>Loppu onkin sitten next next next -menetelmää puhtaimmillaan.</p>
-<p><img loading="lazy" decoding="async" class="alignnone wp-image-2425 size-full" src="/wp-content/uploads/2017/03/CloudReady3.jpg" alt="" width="472" height="692" srcset="/wp-content/uploads/2017/03/CloudReady3.jpg 472w, /wp-content/uploads/2017/03/CloudReady3-205x300.jpg 205w" sizes="(max-width: 472px) 100vw, 472px" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-2425 size-full" src="/web/wp-content/uploads/2017/03/CloudReady3.jpg" alt="" width="472" height="692" srcset="/web/wp-content/uploads/2017/03/CloudReady3.jpg 472w, /web/wp-content/uploads/2017/03/CloudReady3-205x300.jpg 205w" sizes="(max-width: 472px) 100vw, 472px" /></p>
 <p>Laite liitetään verkkoon ja luodaan tarvittavat linkit niihin ekosysteemeihin jotka halutaan käyttöön.</p>
-<p><img loading="lazy" decoding="async" class="alignnone wp-image-2424 size-full" src="/wp-content/uploads/2017/03/CloudReady2_2.jpg" alt="" width="476" height="688" srcset="/wp-content/uploads/2017/03/CloudReady2_2.jpg 476w, /wp-content/uploads/2017/03/CloudReady2_2-208x300.jpg 208w" sizes="(max-width: 476px) 100vw, 476px" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-2424 size-full" src="/web/wp-content/uploads/2017/03/CloudReady2_2.jpg" alt="" width="476" height="688" srcset="/web/wp-content/uploads/2017/03/CloudReady2_2.jpg 476w, /web/wp-content/uploads/2017/03/CloudReady2_2-208x300.jpg 208w" sizes="(max-width: 476px) 100vw, 476px" /></p>
 <p>Kirjautuminen Googlen Gmail tunnareilla</p>
-<p><img loading="lazy" decoding="async" class="alignnone wp-image-2426 size-full" src="/wp-content/uploads/2017/03/CloudReady4.jpg" alt="" width="473" height="523" srcset="/wp-content/uploads/2017/03/CloudReady4.jpg 473w, /wp-content/uploads/2017/03/CloudReady4-271x300.jpg 271w" sizes="(max-width: 473px) 100vw, 473px" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-2426 size-full" src="/web/wp-content/uploads/2017/03/CloudReady4.jpg" alt="" width="473" height="523" srcset="/web/wp-content/uploads/2017/03/CloudReady4.jpg 473w, /web/wp-content/uploads/2017/03/CloudReady4-271x300.jpg 271w" sizes="(max-width: 473px) 100vw, 473px" /></p>
 <p>&nbsp;</p>
 <p>Chrome WebStoresta voi myös <strong><a href="https://chrome.google.com/webstore/">täydentää</a></strong> koneen softavalikoimaa. Otimme käyttöön Office Online -ilmaisversion ja luonnollisesti Citrix Receiverin.</p>
-<p><img loading="lazy" decoding="async" class="alignnone wp-image-2428 size-full" src="/wp-content/uploads/2017/03/CloudReady6.jpg" alt="" width="1110" height="785" srcset="/wp-content/uploads/2017/03/CloudReady6.jpg 1110w, /wp-content/uploads/2017/03/CloudReady6-300x212.jpg 300w, /wp-content/uploads/2017/03/CloudReady6-768x543.jpg 768w, /wp-content/uploads/2017/03/CloudReady6-1024x724.jpg 1024w" sizes="(max-width: 1110px) 100vw, 1110px" /></p>
-<p><img loading="lazy" decoding="async" class="alignnone wp-image-2427 size-full" src="/wp-content/uploads/2017/03/CloudReady5.jpg" alt="" width="1340" height="558" srcset="/wp-content/uploads/2017/03/CloudReady5.jpg 1340w, /wp-content/uploads/2017/03/CloudReady5-300x125.jpg 300w, /wp-content/uploads/2017/03/CloudReady5-768x320.jpg 768w, /wp-content/uploads/2017/03/CloudReady5-1024x426.jpg 1024w" sizes="(max-width: 1340px) 100vw, 1340px" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-2428 size-full" src="/web/wp-content/uploads/2017/03/CloudReady6.jpg" alt="" width="1110" height="785" srcset="/web/wp-content/uploads/2017/03/CloudReady6.jpg 1110w, /web/wp-content/uploads/2017/03/CloudReady6-300x212.jpg 300w, /web/wp-content/uploads/2017/03/CloudReady6-768x543.jpg 768w, /web/wp-content/uploads/2017/03/CloudReady6-1024x724.jpg 1024w" sizes="(max-width: 1110px) 100vw, 1110px" /></p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-2427 size-full" src="/web/wp-content/uploads/2017/03/CloudReady5.jpg" alt="" width="1340" height="558" srcset="/web/wp-content/uploads/2017/03/CloudReady5.jpg 1340w, /web/wp-content/uploads/2017/03/CloudReady5-300x125.jpg 300w, /web/wp-content/uploads/2017/03/CloudReady5-768x320.jpg 768w, /web/wp-content/uploads/2017/03/CloudReady5-1024x426.jpg 1024w" sizes="(max-width: 1340px) 100vw, 1340px" /></p>
 <p><strong>Loppupäätelmä:</strong> hyvin suunniteltu tuote, jonka asentaminen sujui ongelmitta. Olettaa että omaat jo Googlen GMail tunnukset ja koneessa jolla teet asennustikun löytyy Chrome selain.</p>
 <p>Oppilaitosversioista kiinnostuneiden kannattaa tutustua sivuston <strong><a href="https://www.neverware.com/case-studies">asiakaskertomuksiin</a></strong>. Tukifoorumi löytyy <strong><a href="https://neverware.zendesk.com/hc/en-us/community/topics">täältä</a> </strong></p>
 <p>Itseäni jäi vaivaamaan kaksi asiaa eli, mitkä oikeastaan ovat CloudReadyn ja ChromeBookin erot ja <strong><a href="http://go.neverware.com/knowndifferences">selvitys</a> </strong>asiaan löytyikin sivustolta, samoin kuin järjestelmän <strong><a href="http://go.neverware.com/adminconsole">oheislaite tuki</a></strong>.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>The post <a href="/2017/03/30/cloudready-uusi-elama-vanhalle-lapparille/">CloudReady, uusi elämä vanhalle läppärille</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2017/03/30/cloudready-uusi-elama-vanhalle-lapparille/">CloudReady, uusi elämä vanhalle läppärille</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		

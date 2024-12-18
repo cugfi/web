@@ -9,8 +9,8 @@
 
 <channel>
 	<title>CEO Archives &#8902; Citrix User Group Finland</title>
-	<atom:link href="/tag/ceo/feed/" rel="self" type="application/rss+xml" />
-	<link>/tag/ceo/</link>
+	<atom:link href="/web/tag/ceo/feed/" rel="self" type="application/rss+xml" />
+	<link>/web/tag/ceo/</link>
 	<description>CUG.fi on voittoa tavoittelematon, yksityisten henkilöiden toimesta vuonna 2003 perustettu vapaaehtoisvoimin toimiva, rekisteröity yhdistys. Sen tavoitteena on tukea Citrix-ammattilaisten ja käyttäjien verkostoitumista, edistää tiedonvälitystä ja tarjota best practises-kokemuksia jäsenilleen järjestämällä erilaisia teemaseminaareja ja tapaamisia. Yhdistys on ensisijaisesti tarkoitettu henkilöille jotka työkseen kehittävät ja ylläpitävät Citrix- ympäristöjä.</description>
 	<lastBuildDate>Tue, 11 Jul 2017 08:22:37 +0000</lastBuildDate>
 	<language>fi</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 	<item>
 		<title>Citrix vaihtaa toimitusjohtajaa -jälleen</title>
-		<link>/2017/07/11/citrix-vaihtaa-toimitusjohtajaa-jalleen/</link>
+		<link>/web/2017/07/11/citrix-vaihtaa-toimitusjohtajaa-jalleen/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Tue, 11 Jul 2017 08:22:37 +0000</pubDate>
@@ -29,16 +29,16 @@
 		<category><![CDATA[Talous]]></category>
 		<category><![CDATA[CEO]]></category>
 		<category><![CDATA[President]]></category>
-		<guid isPermaLink="false">/?p=2651</guid>
+		<guid isPermaLink="false">/web/?p=2651</guid>
 
-					<description><![CDATA[<p>Citrix ilmoitti nimittäneensä uudeksi toimitusjohtajaksi ja hallituksen puheenjohtajaksi yhtiössä aiemmin talous- ja operatiivisena johtajana työskennelleen David J. Henshallin. Henshall seuraa hieman yli vuosi sitten Microsoftilta <a class="mh-excerpt-more" href="/2017/07/11/citrix-vaihtaa-toimitusjohtajaa-jalleen/" title="Citrix vaihtaa toimitusjohtajaa -jälleen">[...]</a></p>
-<p>The post <a href="/2017/07/11/citrix-vaihtaa-toimitusjohtajaa-jalleen/">Citrix vaihtaa toimitusjohtajaa -jälleen</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+					<description><![CDATA[<p>Citrix ilmoitti nimittäneensä uudeksi toimitusjohtajaksi ja hallituksen puheenjohtajaksi yhtiössä aiemmin talous- ja operatiivisena johtajana työskennelleen David J. Henshallin. Henshall seuraa hieman yli vuosi sitten Microsoftilta <a class="mh-excerpt-more" href="/web/2017/07/11/citrix-vaihtaa-toimitusjohtajaa-jalleen/" title="Citrix vaihtaa toimitusjohtajaa -jälleen">[...]</a></p>
+<p>The post <a href="/web/2017/07/11/citrix-vaihtaa-toimitusjohtajaa-jalleen/">Citrix vaihtaa toimitusjohtajaa -jälleen</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Citrix ilmoitti nimittäneensä uudeksi toimitusjohtajaksi ja hallituksen puheenjohtajaksi yhtiössä aiemmin talous- ja operatiivisena johtajana työskennelleen <strong>David J. Henshall</strong>in.</p>
 <p>Henshall seuraa hieman yli vuosi sitten Microsoftilta siirtynyttä <strong>Kirill Tatarinov</strong>ia. Citrix ei kertonut syytä vaihdokselle tahi kommentoinut vaihdosta mitenkään. Toimitusjohtajan vaihdos vahvistaa huhuja yrityksen omistajanvaihdoksesta ja sen vaikutus Citrixin pörssikurssiin oli vain &#8211; 4 %:n luokkaa.</p>
 <p>&nbsp;</p>
-<p><img decoding="async" class="aligncenter wp-image-1731 size-full" src="/wp-content/uploads/2016/05/CTX_logo2011.jpg" alt="" width="295" height="133" /></p>
-<p>The post <a href="/2017/07/11/citrix-vaihtaa-toimitusjohtajaa-jalleen/">Citrix vaihtaa toimitusjohtajaa -jälleen</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p><img decoding="async" class="aligncenter wp-image-1731 size-full" src="/web/wp-content/uploads/2016/05/CTX_logo2011.jpg" alt="" width="295" height="133" /></p>
+<p>The post <a href="/web/2017/07/11/citrix-vaihtaa-toimitusjohtajaa-jalleen/">Citrix vaihtaa toimitusjohtajaa -jälleen</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		

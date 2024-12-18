@@ -9,8 +9,8 @@
 
 <channel>
 	<title>GDPR Archives &#8902; Citrix User Group Finland</title>
-	<atom:link href="/tag/gdpr/feed/" rel="self" type="application/rss+xml" />
-	<link>/tag/gdpr/</link>
+	<atom:link href="/web/tag/gdpr/feed/" rel="self" type="application/rss+xml" />
+	<link>/web/tag/gdpr/</link>
 	<description>CUG.fi on voittoa tavoittelematon, yksityisten henkilöiden toimesta vuonna 2003 perustettu vapaaehtoisvoimin toimiva, rekisteröity yhdistys. Sen tavoitteena on tukea Citrix-ammattilaisten ja käyttäjien verkostoitumista, edistää tiedonvälitystä ja tarjota best practises-kokemuksia jäsenilleen järjestämällä erilaisia teemaseminaareja ja tapaamisia. Yhdistys on ensisijaisesti tarkoitettu henkilöille jotka työkseen kehittävät ja ylläpitävät Citrix- ympäristöjä.</description>
 	<lastBuildDate>Tue, 14 Nov 2017 10:19:46 +0000</lastBuildDate>
 	<language>fi</language>
@@ -21,22 +21,22 @@
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 	<item>
 		<title>Webinaari: Taking charge of the GDPR</title>
-		<link>/2017/11/14/webinaari-taking-charge-gdpr/</link>
+		<link>/web/2017/11/14/webinaari-taking-charge-gdpr/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Tue, 14 Nov 2017 10:18:44 +0000</pubDate>
 				<category><![CDATA[Koulutus]]></category>
 		<category><![CDATA[Webinaari]]></category>
 		<category><![CDATA[GDPR]]></category>
-		<guid isPermaLink="false">/?p=2865</guid>
+		<guid isPermaLink="false">/web/?p=2865</guid>
 
 					<description><![CDATA[<p>&#160;</p>
-<p>The post <a href="/2017/11/14/webinaari-taking-charge-gdpr/">Webinaari: Taking charge of the GDPR</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2017/11/14/webinaari-taking-charge-gdpr/">Webinaari: Taking charge of the GDPR</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p><a href="https://insight.scmagazineuk.com/taking-charge-of-the-gdpr?utm_source=americasemail%20&amp;mkt_tok=eyJpIjoiT0RWbFkyRXlPREkwWW1SaCIsInQiOiJBT1JsXC9zU1FoUWVrVkNtSkVlVUYrd25JbW9ldFo5YksxVDZPSXY2VjFsNjZIeHdLbjYyaGo1SVFSWVYyd2htSE1wdDRxbVwvZVpTWEhycWJGQ1VEMmNCZnNBUmhiTUhOSm5IMHRrS2RzdnFwczNpNWcwN011NDBUN3FhWWRBeGM0In0="><img fetchpriority="high" decoding="async" class="aligncenter wp-image-2864 size-full" src="/wp-content/uploads/2017/11/GDPR_webinar.jpg" alt="" width="600" height="711" srcset="/wp-content/uploads/2017/11/GDPR_webinar.jpg 600w, /wp-content/uploads/2017/11/GDPR_webinar-253x300.jpg 253w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+										<content:encoded><![CDATA[<p><a href="https://insight.scmagazineuk.com/taking-charge-of-the-gdpr?utm_source=americasemail%20&amp;mkt_tok=eyJpIjoiT0RWbFkyRXlPREkwWW1SaCIsInQiOiJBT1JsXC9zU1FoUWVrVkNtSkVlVUYrd25JbW9ldFo5YksxVDZPSXY2VjFsNjZIeHdLbjYyaGo1SVFSWVYyd2htSE1wdDRxbVwvZVpTWEhycWJGQ1VEMmNCZnNBUmhiTUhOSm5IMHRrS2RzdnFwczNpNWcwN011NDBUN3FhWWRBeGM0In0="><img fetchpriority="high" decoding="async" class="aligncenter wp-image-2864 size-full" src="/web/wp-content/uploads/2017/11/GDPR_webinar.jpg" alt="" width="600" height="711" srcset="/web/wp-content/uploads/2017/11/GDPR_webinar.jpg 600w, /web/wp-content/uploads/2017/11/GDPR_webinar-253x300.jpg 253w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
 <hr />
 <p>&nbsp;</p>
-<p>The post <a href="/2017/11/14/webinaari-taking-charge-gdpr/">Webinaari: Taking charge of the GDPR</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2017/11/14/webinaari-taking-charge-gdpr/">Webinaari: Taking charge of the GDPR</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		

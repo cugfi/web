@@ -1,342 +1,342 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/web/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/</loc>
+		<loc>/web/</loc>
 		<lastmod>2017-04-25T10:28:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/cug-fi-2/1943-2/</loc>
+		<loc>/web/cug-fi-2/1943-2/</loc>
 		<lastmod>2016-05-29T15:08:35+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/previ66ew_jfif.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/previ66ew_jfif.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/previ66ew_jfif.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/previ66ew_jfif.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/preeview_jfif.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/preeview_jfif.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/previe2w_jfif.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/previe2w_jfif.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/cugf_logo1200.png</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/cugf_logo1200.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/cugf_logo600.png</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/cugf_logo600.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/cugf_logo300.png</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/cugf_logo300.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/cug_logo_txt.png</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/cug_logo_txt.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/cug_logo_pieni.png</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/cug_logo_pieni.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/tapahtumat/webinaarit/</loc>
+		<loc>/web/tapahtumat/webinaarit/</loc>
 		<lastmod>2016-05-29T15:08:36+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/Webinar.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/Webinar.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/Webinar.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/Webinar.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/tapahtumat/arrow-citrix-synergy-update/</loc>
+		<loc>/web/tapahtumat/arrow-citrix-synergy-update/</loc>
 		<lastmod>2016-05-29T15:08:36+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/arrow_logo.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/arrow_logo.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/arrow_logo.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/arrow_logo.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/yritysjasenemme-arrow/</loc>
+		<loc>/web/yritysjasenemme-arrow/</loc>
 		<lastmod>2016-05-29T15:09:59+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/arrow_logo.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/arrow_logo.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/arrow_logo.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/arrow_logo.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/english/</loc>
+		<loc>/web/english/</loc>
 		<lastmod>2016-05-30T18:51:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/citrix/historia/</loc>
+		<loc>/web/citrix/historia/</loc>
 		<lastmod>2016-06-02T10:31:25+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/04/citrussign.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/04/citrussign.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/04/citrussign.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/04/citrussign.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/04/packaging_citrix_1.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/04/packaging_citrix_1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/04/Iacobucci.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/04/Iacobucci.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/04/Citrix_Logos_1989-2008.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/04/Citrix_Logos_1989-2008.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/tapahtumat/citrixin-salattu-puoli-networking/</loc>
+		<loc>/web/tapahtumat/citrixin-salattu-puoli-networking/</loc>
 		<lastmod>2016-06-02T10:35:24+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/CTX_logo2011.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/CTX_logo2011.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/CTX_logo2011.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/CTX_logo2011.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/tapahtumat/</loc>
+		<loc>/web/tapahtumat/</loc>
 		<lastmod>2016-06-02T17:14:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/cug-fi-2/uudistettu-kayttajakerho/</loc>
+		<loc>/web/cug-fi-2/uudistettu-kayttajakerho/</loc>
 		<lastmod>2016-06-05T12:35:42+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/logo.png</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/logo.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/previ66ew_jfif.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/previ66ew_jfif.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/tapahtumat/cug-tech-event-2016-paikka/</loc>
+		<loc>/web/tapahtumat/cug-tech-event-2016-paikka/</loc>
 		<lastmod>2016-06-05T13:32:46+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/Rpuisto.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/Rpuisto.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/Rpuisto.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/Rpuisto.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/Fireplace_HotelRantapuisto-1160x360.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/Fireplace_HotelRantapuisto-1160x360.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/Auditorium_3_web-700x373.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/Auditorium_3_web-700x373.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/linkit/</loc>
+		<loc>/web/linkit/</loc>
 		<lastmod>2016-06-05T15:06:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/cug-tech-event-2016-english/</loc>
+		<loc>/web/cug-tech-event-2016-english/</loc>
 		<lastmod>2016-06-07T17:05:12+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/06/2016_05_CUG_Tech_Event_mail_top_V4.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/06/2016_05_CUG_Tech_Event_mail_top_V4.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/2016_05_CUG_Tech_Event_logos_V2.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/2016_05_CUG_Tech_Event_logos_V2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/cugc/</loc>
+		<loc>/web/cugc/</loc>
 		<lastmod>2016-06-07T18:41:26+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/04/cug_logo_pieni.png</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/04/cug_logo_pieni.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/04/cugc.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/04/cugc.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/testtest/</loc>
+		<loc>/web/testtest/</loc>
 		<lastmod>2016-06-29T04:50:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tapahtumat/2016-cug-tech-event-seminaarin-esiintyjat/</loc>
+		<loc>/web/tapahtumat/2016-cug-tech-event-seminaarin-esiintyjat/</loc>
 		<lastmod>2016-08-02T11:25:57+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/Peter-Eriksoon-Photo.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/Peter-Eriksoon-Photo.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/08/Alexander_Ervik_Johnsen_ArrowECS.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/08/Alexander_Ervik_Johnsen_ArrowECS.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/08/Bjorn_Riiber_Citrix.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/08/Bjorn_Riiber_Citrix.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/08/ingmar_verheij_citrix.png</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/08/ingmar_verheij_citrix.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/08/Kees_Baggerman_Nutanix.png</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/08/Kees_Baggerman_Nutanix.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/08/Ruben_Spruijt_Atlantis_Computing.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/08/Ruben_Spruijt_Atlantis_Computing.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/08/Tommi_Kopra_Citrix.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/08/Tommi_Kopra_Citrix.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/median-akkreditointi/</loc>
+		<loc>/web/median-akkreditointi/</loc>
 		<lastmod>2016-08-17T14:33:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/2016-cug-tech-event-seminaariohjelma/</loc>
+		<loc>/web/2016-cug-tech-event-seminaariohjelma/</loc>
 		<lastmod>2016-08-21T08:04:52+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/06/2016_05_CUG_Tech_Event_mail_top_V4.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/06/2016_05_CUG_Tech_Event_mail_top_V4.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/2016_05_CUG_Tech_Event_logos_V2.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/2016_05_CUG_Tech_Event_logos_V2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/tapahtumat/cug-tech-event-2016/</loc>
+		<loc>/web/tapahtumat/cug-tech-event-2016/</loc>
 		<lastmod>2017-03-05T12:09:48+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/2016_05_CUG_Tech_Event_mail_top_V1.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/2016_05_CUG_Tech_Event_mail_top_V1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/06/2016_05_CUG_Tech_Event_mail_top_V4.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/06/2016_05_CUG_Tech_Event_mail_top_V4.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/2016_05_CUG_Tech_Event_logos_V2.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/2016_05_CUG_Tech_Event_logos_V2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/alien-covenant/</loc>
+		<loc>/web/alien-covenant/</loc>
 		<lastmod>2017-03-11T21:04:34+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/03/alien_covenant.png</image:loc>
+			<image:loc>/web/wp-content/uploads/2017/03/alien_covenant.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/cug-fi-2/cug-fi-historia/</loc>
+		<loc>/web/cug-fi-2/cug-fi-historia/</loc>
 		<lastmod>2017-04-17T19:04:33+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/BBp12.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/BBp12.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/BBp12.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/BBp12.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/pk2.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/pk2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/Pk1.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/Pk1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/rekisteriseloste/</loc>
+		<loc>/web/rekisteriseloste/</loc>
 		<lastmod>2017-04-24T08:57:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/cug-fi-2/</loc>
+		<loc>/web/cug-fi-2/</loc>
 		<lastmod>2017-04-24T18:27:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/yhdistyksen-saannot-2/</loc>
+		<loc>/web/yhdistyksen-saannot-2/</loc>
 		<lastmod>2017-04-24T18:45:46+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/kierre.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/kierre.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/kierre.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/kierre.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/cug-fi-2/cug-rekisteritiedot/</loc>
+		<loc>/web/cug-fi-2/cug-rekisteritiedot/</loc>
 		<lastmod>2017-04-24T18:48:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/cug-fi-2/cug-yhteystiedot/</loc>
+		<loc>/web/cug-fi-2/cug-yhteystiedot/</loc>
 		<lastmod>2017-04-24T18:49:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/yrityssivu-datalounges/</loc>
+		<loc>/web/yrityssivu-datalounges/</loc>
 		<lastmod>2017-04-24T19:06:19+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/Datalounges_logo.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/Datalounges_logo.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2016/05/Datalounges_logo.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2016/05/Datalounges_logo.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/citrix/</loc>
+		<loc>/web/citrix/</loc>
 		<lastmod>2017-04-25T09:25:00+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/cug-fi-leffailta/</loc>
+		<loc>/web/cug-fi-leffailta/</loc>
 		<lastmod>2017-04-26T08:23:08+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/04/alien_header.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2017/04/alien_header.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/04/alien_dwn.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2017/04/alien_dwn.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/palautesivu/</loc>
+		<loc>/web/palautesivu/</loc>
 		<lastmod>2017-10-09T19:03:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/vastaanotettu/</loc>
+		<loc>/web/vastaanotettu/</loc>
 		<lastmod>2017-10-13T09:03:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/seminaariristeily-2017ilmo/</loc>
+		<loc>/web/seminaariristeily-2017ilmo/</loc>
 		<lastmod>2017-10-19T14:10:29+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/10/titansoft_logo.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2017/10/titansoft_logo.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/seminaari2017/</loc>
+		<loc>/web/seminaari2017/</loc>
 		<lastmod>2017-11-01T18:53:16+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/10/xprs-ship-12104-1130x369.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2017/10/xprs-ship-12104-1130x369.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/10/titansoft_logo.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2017/10/titansoft_logo.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/10/titansoft_logo.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2017/10/titansoft_logo.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/10/kokousosasto2.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2017/10/kokousosasto2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/eroa-sahkopostilistalta/</loc>
+		<loc>/web/eroa-sahkopostilistalta/</loc>
 		<lastmod>2018-05-24T19:48:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/cookie-policy/</loc>
+		<loc>/web/cookie-policy/</loc>
 		<lastmod>2018-05-24T20:08:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/hallitus/</loc>
+		<loc>/web/hallitus/</loc>
 		<lastmod>2021-04-28T19:01:13+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2017/04/kokoushuone.jpg</image:loc>
+			<image:loc>/web/wp-content/uploads/2017/04/kokoushuone.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/eroaminen/</loc>
+		<loc>/web/eroaminen/</loc>
 		<lastmod>2024-04-04T06:24:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/jasenhakemus/</loc>
+		<loc>/web/jasenhakemus/</loc>
 		<lastmod>2024-04-04T06:26:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/liity-yritysjaseneksi/</loc>
+		<loc>/web/liity-yritysjaseneksi/</loc>
 		<lastmod>2024-04-05T07:23:10+00:00</lastmod>
 	</url>
 </urlset>

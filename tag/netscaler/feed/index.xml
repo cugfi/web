@@ -9,8 +9,8 @@
 
 <channel>
 	<title>NetScaler Archives &#8902; Citrix User Group Finland</title>
-	<atom:link href="/tag/netscaler/feed/" rel="self" type="application/rss+xml" />
-	<link>/tag/netscaler/</link>
+	<atom:link href="/web/tag/netscaler/feed/" rel="self" type="application/rss+xml" />
+	<link>/web/tag/netscaler/</link>
 	<description>CUG.fi on voittoa tavoittelematon, yksityisten henkilöiden toimesta vuonna 2003 perustettu vapaaehtoisvoimin toimiva, rekisteröity yhdistys. Sen tavoitteena on tukea Citrix-ammattilaisten ja käyttäjien verkostoitumista, edistää tiedonvälitystä ja tarjota best practises-kokemuksia jäsenilleen järjestämällä erilaisia teemaseminaareja ja tapaamisia. Yhdistys on ensisijaisesti tarkoitettu henkilöille jotka työkseen kehittävät ja ylläpitävät Citrix- ympäristöjä.</description>
 	<lastBuildDate>Sun, 05 Nov 2017 14:57:58 +0000</lastBuildDate>
 	<language>fi</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 	<item>
 		<title>NetScaler Connect 23.11.2017 Espoossa</title>
-		<link>/2017/11/05/2829/</link>
+		<link>/web/2017/11/05/2829/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Sun, 05 Nov 2017 14:52:06 +0000</pubDate>
@@ -29,16 +29,16 @@
 		<category><![CDATA[Citrix]]></category>
 		<category><![CDATA[NetScaler]]></category>
 		<category><![CDATA[Tapahtuma]]></category>
-		<guid isPermaLink="false">/?p=2829</guid>
+		<guid isPermaLink="false">/web/?p=2829</guid>
 
 					<description><![CDATA[<p>&#160;</p>
-<p>The post <a href="/2017/11/05/2829/">NetScaler Connect 23.11.2017 Espoossa</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2017/11/05/2829/">NetScaler Connect 23.11.2017 Espoossa</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p><img fetchpriority="high" decoding="async" class="aligncenter wp-image-2827 size-full" src="/wp-content/uploads/2017/11/ncrs1.jpg" alt="" width="595" height="491" srcset="/wp-content/uploads/2017/11/ncrs1.jpg 595w, /wp-content/uploads/2017/11/ncrs1-300x248.jpg 300w" sizes="(max-width: 595px) 100vw, 595px" /></p>
-<p><a href="http://www.citrixnetscalerconnect.com/event/netscaler-connect-finland-espoo-november-23/"><img decoding="async" class="aligncenter wp-image-2828 size-full" src="/wp-content/uploads/2017/11/ncrs2.jpg" alt="" width="599" height="525" srcset="/wp-content/uploads/2017/11/ncrs2.jpg 599w, /wp-content/uploads/2017/11/ncrs2-300x263.jpg 300w" sizes="(max-width: 599px) 100vw, 599px" /></a></p>
+										<content:encoded><![CDATA[<p><img fetchpriority="high" decoding="async" class="aligncenter wp-image-2827 size-full" src="/web/wp-content/uploads/2017/11/ncrs1.jpg" alt="" width="595" height="491" srcset="/web/wp-content/uploads/2017/11/ncrs1.jpg 595w, /web/wp-content/uploads/2017/11/ncrs1-300x248.jpg 300w" sizes="(max-width: 595px) 100vw, 595px" /></p>
+<p><a href="http://www.citrixnetscalerconnect.com/event/netscaler-connect-finland-espoo-november-23/"><img decoding="async" class="aligncenter wp-image-2828 size-full" src="/web/wp-content/uploads/2017/11/ncrs2.jpg" alt="" width="599" height="525" srcset="/web/wp-content/uploads/2017/11/ncrs2.jpg 599w, /web/wp-content/uploads/2017/11/ncrs2-300x263.jpg 300w" sizes="(max-width: 599px) 100vw, 599px" /></a></p>
 <hr />
 <p>&nbsp;</p>
-<p>The post <a href="/2017/11/05/2829/">NetScaler Connect 23.11.2017 Espoossa</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2017/11/05/2829/">NetScaler Connect 23.11.2017 Espoossa</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -46,19 +46,19 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">2829</post-id>	</item>
 		<item>
 		<title>Nordic Webinar Program</title>
-		<link>/2017/04/26/nordic-webinar-program/</link>
+		<link>/web/2017/04/26/nordic-webinar-program/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Wed, 26 Apr 2017 09:03:05 +0000</pubDate>
 				<category><![CDATA[Tapahtumat]]></category>
 		<category><![CDATA[NetScaler]]></category>
 		<category><![CDATA[Webinaari]]></category>
-		<guid isPermaLink="false">/?p=2561</guid>
+		<guid isPermaLink="false">/web/?p=2561</guid>
 
-					<description><![CDATA[<p>Nordic Webinar Program: Improve end user experience using Citrix NetScaler SD-WAN Are your bandwidth demands growing faster than your telecom budget? As more desktops, applications, <a class="mh-excerpt-more" href="/2017/04/26/nordic-webinar-program/" title="Nordic Webinar Program">[...]</a></p>
-<p>The post <a href="/2017/04/26/nordic-webinar-program/">Nordic Webinar Program</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+					<description><![CDATA[<p>Nordic Webinar Program: Improve end user experience using Citrix NetScaler SD-WAN Are your bandwidth demands growing faster than your telecom budget? As more desktops, applications, <a class="mh-excerpt-more" href="/web/2017/04/26/nordic-webinar-program/" title="Nordic Webinar Program">[...]</a></p>
+<p>The post <a href="/web/2017/04/26/nordic-webinar-program/">Nordic Webinar Program</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p><img decoding="async" class="alignnone wp-image-2509 size-full" src="/wp-content/uploads/2017/04/Nordic-Desktop.jpg" alt="" width="650" height="250" srcset="/wp-content/uploads/2017/04/Nordic-Desktop.jpg 650w, /wp-content/uploads/2017/04/Nordic-Desktop-300x115.jpg 300w" sizes="(max-width: 650px) 100vw, 650px" /></p>
+										<content:encoded><![CDATA[<p><img decoding="async" class="alignnone wp-image-2509 size-full" src="/web/wp-content/uploads/2017/04/Nordic-Desktop.jpg" alt="" width="650" height="250" srcset="/web/wp-content/uploads/2017/04/Nordic-Desktop.jpg 650w, /web/wp-content/uploads/2017/04/Nordic-Desktop-300x115.jpg 300w" sizes="(max-width: 650px) 100vw, 650px" /></p>
 <h2>Nordic Webinar Program: Improve end user experience using Citrix NetScaler SD-WAN</h2>
 <p>Are your bandwidth demands growing faster than your telecom budget? As more desktops, applications, and services move into the cloud, reliance on the wide area network (WAN) is higher than ever—outages are no longer acceptable.</p>
 <p>Citrix NetScaler SD-WAN is a fully integrated platform that virtualizes enterprise WANs to help you reduce bandwidth requirements, increase application performance, simplify branch office networking and gain flexibility through a hybrid WAN architecture.</p>
@@ -74,7 +74,7 @@
 <strong>Time</strong> 10.00 - 11.00 CET
 <strong>Speaker </strong>Jimmy Sandberg Senior System Engineer,Citrix
 This webinar will be held in English</pre>
-<p>The post <a href="/2017/04/26/nordic-webinar-program/">Nordic Webinar Program</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2017/04/26/nordic-webinar-program/">Nordic Webinar Program</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -82,19 +82,19 @@ This webinar will be held in English</pre>
 		<post-id xmlns="com-wordpress:feed-additions:1">2561</post-id>	</item>
 		<item>
 		<title>NetScaler Connect -tapahtuma</title>
-		<link>/2017/04/17/netscaler-connect-tapahtuma/</link>
+		<link>/web/2017/04/17/netscaler-connect-tapahtuma/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Mon, 17 Apr 2017 12:41:58 +0000</pubDate>
 				<category><![CDATA[Tapahtumat]]></category>
 		<category><![CDATA[Citrix]]></category>
 		<category><![CDATA[NetScaler]]></category>
-		<guid isPermaLink="false">/?p=2472</guid>
+		<guid isPermaLink="false">/web/?p=2472</guid>
 
-					<description><![CDATA[<p>Perjantaina 12. toukokuuta 08:30 &#8211; 12:00 Glo Hotel Sello Leppävaarankatu 1 02600 Espoo Citrixillä ”software-defined networking” oikeasti tarkoittaa samaa ohjelmistopohjaista verkkoratkaisuja sekä pilvessä että omassa <a class="mh-excerpt-more" href="/2017/04/17/netscaler-connect-tapahtuma/" title="NetScaler Connect -tapahtuma">[...]</a></p>
-<p>The post <a href="/2017/04/17/netscaler-connect-tapahtuma/">NetScaler Connect -tapahtuma</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+					<description><![CDATA[<p>Perjantaina 12. toukokuuta 08:30 &#8211; 12:00 Glo Hotel Sello Leppävaarankatu 1 02600 Espoo Citrixillä ”software-defined networking” oikeasti tarkoittaa samaa ohjelmistopohjaista verkkoratkaisuja sekä pilvessä että omassa <a class="mh-excerpt-more" href="/web/2017/04/17/netscaler-connect-tapahtuma/" title="NetScaler Connect -tapahtuma">[...]</a></p>
+<p>The post <a href="/web/2017/04/17/netscaler-connect-tapahtuma/">NetScaler Connect -tapahtuma</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" class="alignnone wp-image-2471 size-full" src="/wp-content/uploads/2017/04/2017-05-12-NSConnect-FI.jpg" alt="" width="650" height="250" srcset="/wp-content/uploads/2017/04/2017-05-12-NSConnect-FI.jpg 650w, /wp-content/uploads/2017/04/2017-05-12-NSConnect-FI-300x115.jpg 300w" sizes="(max-width: 650px) 100vw, 650px" /></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" class="alignnone wp-image-2471 size-full" src="/web/wp-content/uploads/2017/04/2017-05-12-NSConnect-FI.jpg" alt="" width="650" height="250" srcset="/web/wp-content/uploads/2017/04/2017-05-12-NSConnect-FI.jpg 650w, /web/wp-content/uploads/2017/04/2017-05-12-NSConnect-FI-300x115.jpg 300w" sizes="(max-width: 650px) 100vw, 650px" /></p>
 <p><strong>Perjantaina 12. toukokuuta<br />
 08:30 &#8211; 12:00</strong></p>
 <p>Glo Hotel Sello<br />
@@ -113,7 +113,7 @@ Leppävaarankatu 1<br />
 <p><strong><a href="http://mkto.deliver.citrix.com/kM0QT0H00hM03B8QbT0V60K">Ilmoittaudu mukaan tänään.</a></strong> Osallistujamäärä on rajoitettu.</p>
 <hr />
 <p>&nbsp;</p>
-<p>The post <a href="/2017/04/17/netscaler-connect-tapahtuma/">NetScaler Connect -tapahtuma</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2017/04/17/netscaler-connect-tapahtuma/">NetScaler Connect -tapahtuma</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -121,19 +121,19 @@ Leppävaarankatu 1<br />
 		<post-id xmlns="com-wordpress:feed-additions:1">2472</post-id>	</item>
 		<item>
 		<title>Opas luotettavan ja tulevaisuudenkestävän verkkoratkaisun valintaan</title>
-		<link>/2017/03/04/opas-luotettavan-tulevaisuuden-ja-kestavan-verkkoratkaisun-valintaan/</link>
+		<link>/web/2017/03/04/opas-luotettavan-tulevaisuuden-ja-kestavan-verkkoratkaisun-valintaan/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Sat, 04 Mar 2017 15:41:55 +0000</pubDate>
 				<category><![CDATA[Verkot]]></category>
 		<category><![CDATA[NetScaler]]></category>
 		<category><![CDATA[Verkko]]></category>
-		<guid isPermaLink="false">/?p=2320</guid>
+		<guid isPermaLink="false">/web/?p=2320</guid>
 
-					<description><![CDATA[<p>Kun valitaan parasta verkkoratkaisua sovellusjakeluun on kyse muustakin kuin pelkästä suorituskyvystä. Lataa Citrixin ilmainen infografiikka oppiaksesi mitä johtavat verkkoyritykset pohtivat valitetussaan verkkoteknologiaa. Mitkä ovat: suurimmat <a class="mh-excerpt-more" href="/2017/03/04/opas-luotettavan-tulevaisuuden-ja-kestavan-verkkoratkaisun-valintaan/" title="Opas luotettavan ja tulevaisuudenkestävän verkkoratkaisun valintaan">[...]</a></p>
-<p>The post <a href="/2017/03/04/opas-luotettavan-tulevaisuuden-ja-kestavan-verkkoratkaisun-valintaan/">Opas luotettavan ja tulevaisuudenkestävän verkkoratkaisun valintaan</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+					<description><![CDATA[<p>Kun valitaan parasta verkkoratkaisua sovellusjakeluun on kyse muustakin kuin pelkästä suorituskyvystä. Lataa Citrixin ilmainen infografiikka oppiaksesi mitä johtavat verkkoyritykset pohtivat valitetussaan verkkoteknologiaa. Mitkä ovat: suurimmat <a class="mh-excerpt-more" href="/web/2017/03/04/opas-luotettavan-tulevaisuuden-ja-kestavan-verkkoratkaisun-valintaan/" title="Opas luotettavan ja tulevaisuudenkestävän verkkoratkaisun valintaan">[...]</a></p>
+<p>The post <a href="/web/2017/03/04/opas-luotettavan-tulevaisuuden-ja-kestavan-verkkoratkaisun-valintaan/">Opas luotettavan ja tulevaisuudenkestävän verkkoratkaisun valintaan</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" class="alignnone wp-image-2323 size-full" src="/wp-content/uploads/2017/03/NetworkSolutions_NetScaler_banner.jpg" alt="" width="592" height="225" srcset="/wp-content/uploads/2017/03/NetworkSolutions_NetScaler_banner.jpg 592w, /wp-content/uploads/2017/03/NetworkSolutions_NetScaler_banner-300x114.jpg 300w" sizes="(max-width: 592px) 100vw, 592px" /></p>
+										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" class="alignnone wp-image-2323 size-full" src="/web/wp-content/uploads/2017/03/NetworkSolutions_NetScaler_banner.jpg" alt="" width="592" height="225" srcset="/web/wp-content/uploads/2017/03/NetworkSolutions_NetScaler_banner.jpg 592w, /web/wp-content/uploads/2017/03/NetworkSolutions_NetScaler_banner-300x114.jpg 300w" sizes="(max-width: 592px) 100vw, 592px" /></p>
 <p>Kun valitaan parasta verkkoratkaisua sovellusjakeluun on kyse muustakin kuin pelkästä suorituskyvystä.</p>
 <p>Lataa Citrixin ilmainen infografiikka oppiaksesi mitä johtavat verkkoyritykset pohtivat valitetussaan verkkoteknologiaa.</p>
 <p>Mitkä ovat:</p>
@@ -146,7 +146,7 @@ Leppävaarankatu 1<br />
 <p>ja huomaat miksi 80% IT johtajista uskoo Citrix NetScalerin pärjäävän tässä kilpailussa</p>
 <p>Lataa <a href="https://deliver.citrix.com/EM-0217-NS-WhitePaper-ADCredefined2_MKTO_EM-0217-NS-WhitePaper-ADCredefined2-EN-TYP.html?aliId=298283922">tästä</a></p>
 <p>&nbsp;</p>
-<p>The post <a href="/2017/03/04/opas-luotettavan-tulevaisuuden-ja-kestavan-verkkoratkaisun-valintaan/">Opas luotettavan ja tulevaisuudenkestävän verkkoratkaisun valintaan</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2017/03/04/opas-luotettavan-tulevaisuuden-ja-kestavan-verkkoratkaisun-valintaan/">Opas luotettavan ja tulevaisuudenkestävän verkkoratkaisun valintaan</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		

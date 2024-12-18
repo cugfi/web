@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Artikkelin Webinar kommentit	</title>
-	<atom:link href="/2011/05/25/webinaari/webinar/feed/" rel="self" type="application/rss+xml" />
-	<link>/2011/05/25/webinaari/webinar/</link>
+	<atom:link href="/web/2011/05/25/webinaari/webinar/feed/" rel="self" type="application/rss+xml" />
+	<link>/web/2011/05/25/webinaari/webinar/</link>
 	<description>CUG.fi on voittoa tavoittelematon, yksityisten henkilöiden toimesta vuonna 2003 perustettu vapaaehtoisvoimin toimiva, rekisteröity yhdistys. Sen tavoitteena on tukea Citrix-ammattilaisten ja käyttäjien verkostoitumista, edistää tiedonvälitystä ja tarjota best practises-kokemuksia jäsenilleen järjestämällä erilaisia teemaseminaareja ja tapaamisia. Yhdistys on ensisijaisesti tarkoitettu henkilöille jotka työkseen kehittävät ja ylläpitävät Citrix- ympäristöjä.</description>
 	<lastBuildDate>Wed, 25 May 2011 09:48:00 +0000</lastBuildDate>
 	<sy:updatePeriod>

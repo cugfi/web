@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Hyperkonvergenssi Archives &#8902; Citrix User Group Finland</title>
-	<atom:link href="/tag/hyperkonvergenssi/feed/" rel="self" type="application/rss+xml" />
-	<link>/tag/hyperkonvergenssi/</link>
+	<atom:link href="/web/tag/hyperkonvergenssi/feed/" rel="self" type="application/rss+xml" />
+	<link>/web/tag/hyperkonvergenssi/</link>
 	<description>CUG.fi on voittoa tavoittelematon, yksityisten henkilöiden toimesta vuonna 2003 perustettu vapaaehtoisvoimin toimiva, rekisteröity yhdistys. Sen tavoitteena on tukea Citrix-ammattilaisten ja käyttäjien verkostoitumista, edistää tiedonvälitystä ja tarjota best practises-kokemuksia jäsenilleen järjestämällä erilaisia teemaseminaareja ja tapaamisia. Yhdistys on ensisijaisesti tarkoitettu henkilöille jotka työkseen kehittävät ja ylläpitävät Citrix- ympäristöjä.</description>
 	<lastBuildDate>Thu, 30 Mar 2017 10:58:38 +0000</lastBuildDate>
 	<language>fi</language>
@@ -21,24 +21,24 @@
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 	<item>
 		<title>Päivän termi: Hyperkonvergenssi</title>
-		<link>/2017/03/30/paivan-termi-hyperkonvergenssi/</link>
+		<link>/web/2017/03/30/paivan-termi-hyperkonvergenssi/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Thu, 30 Mar 2017 08:45:49 +0000</pubDate>
 				<category><![CDATA[Uutisjuttu]]></category>
 		<category><![CDATA[Hyperkonvergenssi]]></category>
 		<category><![CDATA[Nutanix]]></category>
-		<guid isPermaLink="false">/?p=2416</guid>
+		<guid isPermaLink="false">/web/?p=2416</guid>
 
-					<description><![CDATA[<p>Nutanix on julkaissut kätevän *hyperkonvergenssi opaskirjan: HOW NUTANIX WORKS, The Definitive Guide to Hyperconverged Infrastructure, joka on ladattavissa ilman pakkorekisteröitymistä PDF muodossa Nutanixin sivuilta. Ilman <a class="mh-excerpt-more" href="/2017/03/30/paivan-termi-hyperkonvergenssi/" title="Päivän termi: Hyperkonvergenssi">[...]</a></p>
-<p>The post <a href="/2017/03/30/paivan-termi-hyperkonvergenssi/">Päivän termi: Hyperkonvergenssi</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+					<description><![CDATA[<p>Nutanix on julkaissut kätevän *hyperkonvergenssi opaskirjan: HOW NUTANIX WORKS, The Definitive Guide to Hyperconverged Infrastructure, joka on ladattavissa ilman pakkorekisteröitymistä PDF muodossa Nutanixin sivuilta. Ilman <a class="mh-excerpt-more" href="/web/2017/03/30/paivan-termi-hyperkonvergenssi/" title="Päivän termi: Hyperkonvergenssi">[...]</a></p>
+<p>The post <a href="/web/2017/03/30/paivan-termi-hyperkonvergenssi/">Päivän termi: Hyperkonvergenssi</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p><img decoding="async" class="alignnone size-full wp-image-1859" src="/wp-content/uploads/2016/05/nutanix-logo-180x90-1.jpg" alt="" width="180" height="90" /></p>
+										<content:encoded><![CDATA[<p><img decoding="async" class="alignnone size-full wp-image-1859" src="/web/wp-content/uploads/2016/05/nutanix-logo-180x90-1.jpg" alt="" width="180" height="90" /></p>
 <p>Nutanix on julkaissut kätevän *hyperkonvergenssi opaskirjan: <strong><em>HOW NUTANIX WORKS, The Definitive Guide to Hyperconverged Infrastructure,</em></strong> joka on <strong><a href="http://info.nutanix.com/R00O5rnVd80000u0GTQc750">ladattavissa</a></strong> ilman pakkorekisteröitymistä PDF muodossa Nutanixin sivuilta.</p>
 <p>Ilman tuotesidonnaisuutta voi asiaan perehtyä vaikkapa<strong> <a href="http://www.hyperconverged.org/dummies-book-download/">tämän</a></strong> opuksen avulla.</p>
 <p><span style="font-size: 8pt;"><strong>*</strong>Hyperkonvergenssi on nerokkaan yksinkertainen ratkaisu: se puristaa koko datakeskuksen muutamaan palvelimeen, joihin on integroitu palvelimet, tallennus, verkko ja virtualisointi. Kokonaisuutta ylläpidetään yhdellä hallintaohjelmistolla. Erillisiä tallennusjärjestelmiä ei tarvita, koska hyperkonvergenssipalvelimissa on tehokkaat levyjärjestelmät. Niitä ohjaa dataa reaaliajassa pakkaava ja varmistava älykäs ohjelmisto.</span></p>
-<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-2415 size-full" src="/wp-content/uploads/2017/03/Nutanix_book.jpg" alt="" width="574" height="199" srcset="/wp-content/uploads/2017/03/Nutanix_book.jpg 574w, /wp-content/uploads/2017/03/Nutanix_book-300x104.jpg 300w" sizes="(max-width: 574px) 100vw, 574px" /></p>
-<p>The post <a href="/2017/03/30/paivan-termi-hyperkonvergenssi/">Päivän termi: Hyperkonvergenssi</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-2415 size-full" src="/web/wp-content/uploads/2017/03/Nutanix_book.jpg" alt="" width="574" height="199" srcset="/web/wp-content/uploads/2017/03/Nutanix_book.jpg 574w, /web/wp-content/uploads/2017/03/Nutanix_book-300x104.jpg 300w" sizes="(max-width: 574px) 100vw, 574px" /></p>
+<p>The post <a href="/web/2017/03/30/paivan-termi-hyperkonvergenssi/">Päivän termi: Hyperkonvergenssi</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		

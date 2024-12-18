@@ -9,8 +9,8 @@
 
 <channel>
 	<title>no show Archives &#8902; Citrix User Group Finland</title>
-	<atom:link href="/tag/no-show/feed/" rel="self" type="application/rss+xml" />
-	<link>/tag/no-show/</link>
+	<atom:link href="/web/tag/no-show/feed/" rel="self" type="application/rss+xml" />
+	<link>/web/tag/no-show/</link>
 	<description>CUG.fi on voittoa tavoittelematon, yksityisten henkilöiden toimesta vuonna 2003 perustettu vapaaehtoisvoimin toimiva, rekisteröity yhdistys. Sen tavoitteena on tukea Citrix-ammattilaisten ja käyttäjien verkostoitumista, edistää tiedonvälitystä ja tarjota best practises-kokemuksia jäsenilleen järjestämällä erilaisia teemaseminaareja ja tapaamisia. Yhdistys on ensisijaisesti tarkoitettu henkilöille jotka työkseen kehittävät ja ylläpitävät Citrix- ympäristöjä.</description>
 	<lastBuildDate>Fri, 13 Oct 2017 20:39:42 +0000</lastBuildDate>
 	<language>fi</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 	<item>
 		<title>Vanha viholliseni Herra No Show</title>
-		<link>/2017/05/21/vanha-viholliseni-herra-no-show/</link>
+		<link>/web/2017/05/21/vanha-viholliseni-herra-no-show/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Sun, 21 May 2017 14:39:04 +0000</pubDate>
 				<category><![CDATA[Tapahtumat]]></category>
 		<category><![CDATA[no show]]></category>
 		<category><![CDATA[Tapahtuma]]></category>
-		<guid isPermaLink="false">/?p=2588</guid>
+		<guid isPermaLink="false">/web/?p=2588</guid>
 
-					<description><![CDATA[<p>Kolumni Iso kiitos teille kaikille, jotka osallistuitte viime viikolla järjestämäämme leffailtaan. Iso kiitos myös teille, jotka jo ehditte ilmoittautua mukaan, mutta peruutitte osallistumisenne, kun huomasitte <a class="mh-excerpt-more" href="/2017/05/21/vanha-viholliseni-herra-no-show/" title="Vanha viholliseni Herra No Show">[...]</a></p>
-<p>The post <a href="/2017/05/21/vanha-viholliseni-herra-no-show/">Vanha viholliseni Herra No Show</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+					<description><![CDATA[<p>Kolumni Iso kiitos teille kaikille, jotka osallistuitte viime viikolla järjestämäämme leffailtaan. Iso kiitos myös teille, jotka jo ehditte ilmoittautua mukaan, mutta peruutitte osallistumisenne, kun huomasitte <a class="mh-excerpt-more" href="/web/2017/05/21/vanha-viholliseni-herra-no-show/" title="Vanha viholliseni Herra No Show">[...]</a></p>
+<p>The post <a href="/web/2017/05/21/vanha-viholliseni-herra-no-show/">Vanha viholliseni Herra No Show</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<h4><strong><img decoding="async" class="alignleft wp-image-2598" src="/wp-content/uploads/2017/05/Petri_Liekovuo-246x300.jpeg" alt="" width="112" height="137" srcset="/wp-content/uploads/2017/05/Petri_Liekovuo-246x300.jpeg 246w, /wp-content/uploads/2017/05/Petri_Liekovuo.jpeg 654w" sizes="(max-width: 112px) 100vw, 112px" />Kolumni</strong></h4>
+										<content:encoded><![CDATA[<h4><strong><img decoding="async" class="alignleft wp-image-2598" src="/web/wp-content/uploads/2017/05/Petri_Liekovuo-246x300.jpeg" alt="" width="112" height="137" srcset="/web/wp-content/uploads/2017/05/Petri_Liekovuo-246x300.jpeg 246w, /web/wp-content/uploads/2017/05/Petri_Liekovuo.jpeg 654w" sizes="(max-width: 112px) 100vw, 112px" />Kolumni</strong></h4>
 <p>Iso kiitos teille kaikille, jotka osallistuitte viime viikolla järjestämäämme leffailtaan. Iso kiitos myös teille, jotka jo ehditte ilmoittautua mukaan, mutta peruutitte osallistumisenne, kun huomasitte ettette ehdikään mukaan. Kiitosta ja kunniaa ei sen sijaan heru yhtään herra no showlle.</p>
 <p>Herra no show on jokaisen tapahtumajärjestäjän inhokki numero 1.  Hän ilmoittautuu mukaan tapahtumaan, mutta ei peru, eikä koskaan ilmaannu paikalle. Siinä välissä tapahtuman järjestävä taho on ostanut ja maksanut tarjoilut, painattanut nimikortit, mitoittanut tilat, parkkipaikat ja henkilökunnan ilmoittautuneiden lukumäärän mukaan.</p>
 <p>Suomi on tunnetusti kallis maa, erityisen kallis se on silloin kun ostetaan palveluita, palasia joista tapahtumat rakennetaan.</p>
@@ -54,7 +54,7 @@
 <p>Se, että olen kutsunut koko ajan tässä kolumnissani kuvaamaani hypoteettista hyypiötä miessukupuolen termein, pohjaa vain ja ainoastaan siihen tylsään tosiasiaan, että alamme on miesvaltainen. En missään tapauksessa halua luoda käsitystä, etteikö naispuolinen henkilö voisi toimia yhtä kylmästi ja vastuuntunnottomasti.</p>
 <h4><strong>Synninpäästö</strong></h4>
 <p>Sovitaanko niin herra no show, että jos tapahtumamme kiinnostavat jatkossa, olet tämän nuhtelunikin jälkeen tervetullut paikalle, paino kuitenkin sanalle paikalle. Citrix-aiheiset tilaisuudet ovat mukavia ja ammatillisesti mielenkiintoisia. Mutta jos haluat jatkaa vanhalla linjallasi, valitse seuraavan kerran vaikkapa VMWaren tapahtuma, ne eivät ole yhtä mielenkiintoisia.  <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
-<p>Ja hei herra no show, jos pieni musta omatuntosi buuttasi itsensä tämän luettuasi, niin voit sovittaa syntisi järkkäämällä edustamasi yrityksen meille <a href="/liity-yritysjaseneksi/">yritysjäseneksi</a>. Jäseniä kun ei koskaan ole liikaa.</p>
+<p>Ja hei herra no show, jos pieni musta omatuntosi buuttasi itsensä tämän luettuasi, niin voit sovittaa syntisi järkkäämällä edustamasi yrityksen meille <a href="/web/liity-yritysjaseneksi/">yritysjäseneksi</a>. Jäseniä kun ei koskaan ole liikaa.</p>
 <p>Me tykkäämme jäsenistämme.</p>
 <p><span style="font-size: 10pt;">Tallinnassa 21.5.2017,</span></p>
 <p><span style="font-size: 10pt;"><strong>Petri Liekovuo</strong></span></p>
@@ -65,7 +65,7 @@
 
 
 </pre>
-<p>The post <a href="/2017/05/21/vanha-viholliseni-herra-no-show/">Vanha viholliseni Herra No Show</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2017/05/21/vanha-viholliseni-herra-no-show/">Vanha viholliseni Herra No Show</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		

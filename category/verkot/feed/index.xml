@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Verkot Archives &#8902; Citrix User Group Finland</title>
-	<atom:link href="/category/verkot/feed/" rel="self" type="application/rss+xml" />
-	<link>/category/verkot/</link>
+	<atom:link href="/web/category/verkot/feed/" rel="self" type="application/rss+xml" />
+	<link>/web/category/verkot/</link>
 	<description>CUG.fi on voittoa tavoittelematon, yksityisten henkilöiden toimesta vuonna 2003 perustettu vapaaehtoisvoimin toimiva, rekisteröity yhdistys. Sen tavoitteena on tukea Citrix-ammattilaisten ja käyttäjien verkostoitumista, edistää tiedonvälitystä ja tarjota best practises-kokemuksia jäsenilleen järjestämällä erilaisia teemaseminaareja ja tapaamisia. Yhdistys on ensisijaisesti tarkoitettu henkilöille jotka työkseen kehittävät ja ylläpitävät Citrix- ympäristöjä.</description>
 	<lastBuildDate>Tue, 17 Oct 2017 13:02:04 +0000</lastBuildDate>
 	<language>fi</language>
@@ -21,24 +21,24 @@
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 	<item>
 		<title>WiFi-verkkojen salausmenetelmä WPA2 on murrettu</title>
-		<link>/2017/10/17/wifi-verkkojen-salausmenetelma-wpa2-murrettu/</link>
+		<link>/web/2017/10/17/wifi-verkkojen-salausmenetelma-wpa2-murrettu/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Tue, 17 Oct 2017 13:02:04 +0000</pubDate>
 				<category><![CDATA[Tietoturva]]></category>
 		<category><![CDATA[Verkot]]></category>
 		<category><![CDATA[Verkko]]></category>
-		<guid isPermaLink="false">/?p=2764</guid>
+		<guid isPermaLink="false">/web/?p=2764</guid>
 
-					<description><![CDATA[<p>Viestintäviraston Kyberturvallisuuskeskus varoittaa, että laajasti käytetty langattomien lähiverkkojen (WiFi) WPA2-salausmenetelmä on murrettu ja neuvoo, miten tässä vaiheessa kannattaa suojautua korjauspäivityksiä odotellessa. Haavoittuvuuden löysivät belgialaisen KU <a class="mh-excerpt-more" href="/2017/10/17/wifi-verkkojen-salausmenetelma-wpa2-murrettu/" title="WiFi-verkkojen salausmenetelmä WPA2 on murrettu">[...]</a></p>
-<p>The post <a href="/2017/10/17/wifi-verkkojen-salausmenetelma-wpa2-murrettu/">WiFi-verkkojen salausmenetelmä WPA2 on murrettu</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+					<description><![CDATA[<p>Viestintäviraston Kyberturvallisuuskeskus varoittaa, että laajasti käytetty langattomien lähiverkkojen (WiFi) WPA2-salausmenetelmä on murrettu ja neuvoo, miten tässä vaiheessa kannattaa suojautua korjauspäivityksiä odotellessa. Haavoittuvuuden löysivät belgialaisen KU <a class="mh-excerpt-more" href="/web/2017/10/17/wifi-verkkojen-salausmenetelma-wpa2-murrettu/" title="WiFi-verkkojen salausmenetelmä WPA2 on murrettu">[...]</a></p>
+<p>The post <a href="/web/2017/10/17/wifi-verkkojen-salausmenetelma-wpa2-murrettu/">WiFi-verkkojen salausmenetelmä WPA2 on murrettu</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p><img fetchpriority="high" decoding="async" class="size-medium wp-image-2615" src="/wp-content/uploads/2017/06/data-security2-300x200.jpg" alt="" width="300" height="200" srcset="/wp-content/uploads/2017/06/data-security2-300x200.jpg 300w, /wp-content/uploads/2017/06/data-security2-768x511.jpg 768w, /wp-content/uploads/2017/06/data-security2.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+										<content:encoded><![CDATA[<p><img fetchpriority="high" decoding="async" class="size-medium wp-image-2615" src="/web/wp-content/uploads/2017/06/data-security2-300x200.jpg" alt="" width="300" height="200" srcset="/web/wp-content/uploads/2017/06/data-security2-300x200.jpg 300w, /web/wp-content/uploads/2017/06/data-security2-768x511.jpg 768w, /web/wp-content/uploads/2017/06/data-security2.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <p>Viestintäviraston Kyberturvallisuuskeskus <strong><a href="https://www.viestintavirasto.fi/kyberturvallisuus/varoitukset/2017/varoitus-2017-03.html">varoittaa</a></strong>, että laajasti käytetty langattomien lähiverkkojen (WiFi) WPA2-salausmenetelmä on murrettu ja neuvoo, miten tässä vaiheessa kannattaa suojautua korjauspäivityksiä odotellessa. Haavoittuvuuden löysivät belgialaisen KU Leuvenin yliopiston tutkijat, jotka julkistivat sen maanantaina.</p>
 <p>Osa valmistajista on jo julkaissut päivityksiä, mutta menee viikkoja ennen kuin päivitykset ovat laajasti saatavana, eikä osalle vanhoista laitteista välttämättä saa korjauspäivitystä lainkaan. Kyberturvallisuuskeskus neuvoo, että kunnes haavoittuvuus on korjattu, langattomissa verkoissa on syytä käyttää täydentäviä salausmenetelmiä, eli SSL-/TLS-salattuja verkkopalveluita tai VPN-tunnelointia.</p>
 <hr />
 <p>&nbsp;</p>
-<p>The post <a href="/2017/10/17/wifi-verkkojen-salausmenetelma-wpa2-murrettu/">WiFi-verkkojen salausmenetelmä WPA2 on murrettu</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2017/10/17/wifi-verkkojen-salausmenetelma-wpa2-murrettu/">WiFi-verkkojen salausmenetelmä WPA2 on murrettu</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -46,19 +46,19 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">2764</post-id>	</item>
 		<item>
 		<title>Opas luotettavan ja tulevaisuudenkestävän verkkoratkaisun valintaan</title>
-		<link>/2017/03/04/opas-luotettavan-tulevaisuuden-ja-kestavan-verkkoratkaisun-valintaan/</link>
+		<link>/web/2017/03/04/opas-luotettavan-tulevaisuuden-ja-kestavan-verkkoratkaisun-valintaan/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Sat, 04 Mar 2017 15:41:55 +0000</pubDate>
 				<category><![CDATA[Verkot]]></category>
 		<category><![CDATA[NetScaler]]></category>
 		<category><![CDATA[Verkko]]></category>
-		<guid isPermaLink="false">/?p=2320</guid>
+		<guid isPermaLink="false">/web/?p=2320</guid>
 
-					<description><![CDATA[<p>Kun valitaan parasta verkkoratkaisua sovellusjakeluun on kyse muustakin kuin pelkästä suorituskyvystä. Lataa Citrixin ilmainen infografiikka oppiaksesi mitä johtavat verkkoyritykset pohtivat valitetussaan verkkoteknologiaa. Mitkä ovat: suurimmat <a class="mh-excerpt-more" href="/2017/03/04/opas-luotettavan-tulevaisuuden-ja-kestavan-verkkoratkaisun-valintaan/" title="Opas luotettavan ja tulevaisuudenkestävän verkkoratkaisun valintaan">[...]</a></p>
-<p>The post <a href="/2017/03/04/opas-luotettavan-tulevaisuuden-ja-kestavan-verkkoratkaisun-valintaan/">Opas luotettavan ja tulevaisuudenkestävän verkkoratkaisun valintaan</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+					<description><![CDATA[<p>Kun valitaan parasta verkkoratkaisua sovellusjakeluun on kyse muustakin kuin pelkästä suorituskyvystä. Lataa Citrixin ilmainen infografiikka oppiaksesi mitä johtavat verkkoyritykset pohtivat valitetussaan verkkoteknologiaa. Mitkä ovat: suurimmat <a class="mh-excerpt-more" href="/web/2017/03/04/opas-luotettavan-tulevaisuuden-ja-kestavan-verkkoratkaisun-valintaan/" title="Opas luotettavan ja tulevaisuudenkestävän verkkoratkaisun valintaan">[...]</a></p>
+<p>The post <a href="/web/2017/03/04/opas-luotettavan-tulevaisuuden-ja-kestavan-verkkoratkaisun-valintaan/">Opas luotettavan ja tulevaisuudenkestävän verkkoratkaisun valintaan</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p><img decoding="async" class="alignnone wp-image-2323 size-full" src="/wp-content/uploads/2017/03/NetworkSolutions_NetScaler_banner.jpg" alt="" width="592" height="225" srcset="/wp-content/uploads/2017/03/NetworkSolutions_NetScaler_banner.jpg 592w, /wp-content/uploads/2017/03/NetworkSolutions_NetScaler_banner-300x114.jpg 300w" sizes="(max-width: 592px) 100vw, 592px" /></p>
+										<content:encoded><![CDATA[<p><img decoding="async" class="alignnone wp-image-2323 size-full" src="/web/wp-content/uploads/2017/03/NetworkSolutions_NetScaler_banner.jpg" alt="" width="592" height="225" srcset="/web/wp-content/uploads/2017/03/NetworkSolutions_NetScaler_banner.jpg 592w, /web/wp-content/uploads/2017/03/NetworkSolutions_NetScaler_banner-300x114.jpg 300w" sizes="(max-width: 592px) 100vw, 592px" /></p>
 <p>Kun valitaan parasta verkkoratkaisua sovellusjakeluun on kyse muustakin kuin pelkästä suorituskyvystä.</p>
 <p>Lataa Citrixin ilmainen infografiikka oppiaksesi mitä johtavat verkkoyritykset pohtivat valitetussaan verkkoteknologiaa.</p>
 <p>Mitkä ovat:</p>
@@ -71,7 +71,7 @@
 <p>ja huomaat miksi 80% IT johtajista uskoo Citrix NetScalerin pärjäävän tässä kilpailussa</p>
 <p>Lataa <a href="https://deliver.citrix.com/EM-0217-NS-WhitePaper-ADCredefined2_MKTO_EM-0217-NS-WhitePaper-ADCredefined2-EN-TYP.html?aliId=298283922">tästä</a></p>
 <p>&nbsp;</p>
-<p>The post <a href="/2017/03/04/opas-luotettavan-tulevaisuuden-ja-kestavan-verkkoratkaisun-valintaan/">Opas luotettavan ja tulevaisuudenkestävän verkkoratkaisun valintaan</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2017/03/04/opas-luotettavan-tulevaisuuden-ja-kestavan-verkkoratkaisun-valintaan/">Opas luotettavan ja tulevaisuudenkestävän verkkoratkaisun valintaan</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		

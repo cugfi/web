@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/web/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>/post-sitemap.xml</loc>
+		<loc>/web/post-sitemap.xml</loc>
 		<lastmod>2023-08-01T12:49:04+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/page-sitemap.xml</loc>
+		<loc>/web/page-sitemap.xml</loc>
 		<lastmod>2024-04-05T07:23:10+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/attachment-sitemap.xml</loc>
+		<loc>/web/attachment-sitemap.xml</loc>
 		<lastmod>2018-05-22T15:24:50+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/category-sitemap.xml</loc>
+		<loc>/web/category-sitemap.xml</loc>
 		<lastmod>2023-08-01T12:49:04+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/post_tag-sitemap.xml</loc>
+		<loc>/web/post_tag-sitemap.xml</loc>
 		<lastmod>2018-05-22T15:36:03+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/author-sitemap.xml</loc>
+		<loc>/web/author-sitemap.xml</loc>
 		<lastmod>2024-04-19T07:51:58+00:00</lastmod>
 	</sitemap>
 </sitemapindex>

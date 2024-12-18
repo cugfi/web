@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Sami S., Author at Citrix User Group Finland</title>
-	<atom:link href="/author/samppa/feed/" rel="self" type="application/rss+xml" />
-	<link>/author/samppa/</link>
+	<atom:link href="/web/author/samppa/feed/" rel="self" type="application/rss+xml" />
+	<link>/web/author/samppa/</link>
 	<description>CUG.fi on voittoa tavoittelematon, yksityisten henkilöiden toimesta vuonna 2003 perustettu vapaaehtoisvoimin toimiva, rekisteröity yhdistys. Sen tavoitteena on tukea Citrix-ammattilaisten ja käyttäjien verkostoitumista, edistää tiedonvälitystä ja tarjota best practises-kokemuksia jäsenilleen järjestämällä erilaisia teemaseminaareja ja tapaamisia. Yhdistys on ensisijaisesti tarkoitettu henkilöille jotka työkseen kehittävät ja ylläpitävät Citrix- ympäristöjä.</description>
 	<lastBuildDate>Tue, 01 Aug 2023 12:49:04 +0000</lastBuildDate>
 	<language>fi</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 	<item>
 		<title>CUG.fi Aamiaistilaisuus 15.8.2023</title>
-		<link>/2023/08/01/cug-fi-aamiaistilaisuus-15-8-2023/</link>
+		<link>/web/2023/08/01/cug-fi-aamiaistilaisuus-15-8-2023/</link>
 		
 		<dc:creator><![CDATA[Sami S.]]></dc:creator>
 		<pubDate>Tue, 01 Aug 2023 12:49:01 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=2978</guid>
+		<guid isPermaLink="false">/web/?p=2978</guid>
 
-					<description><![CDATA[<p>Tervetuloa CUG.fi aamiaistilaisuuteen 15.8.2023 kello 9 alkaen hotelli Lilla Robertsiin! Yhdistys järjestää vapaamuotoisen info + keskustelutilaisuuden yhdistyksen toiminnasta ja sen tulevaisuudesta, maittavan aamiaisbuffetin yhteydessä. Tule <a class="mh-excerpt-more" href="/2023/08/01/cug-fi-aamiaistilaisuus-15-8-2023/" title="CUG.fi Aamiaistilaisuus 15.8.2023">[...]</a></p>
-<p>The post <a href="/2023/08/01/cug-fi-aamiaistilaisuus-15-8-2023/">CUG.fi Aamiaistilaisuus 15.8.2023</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+					<description><![CDATA[<p>Tervetuloa CUG.fi aamiaistilaisuuteen 15.8.2023 kello 9 alkaen hotelli Lilla Robertsiin! Yhdistys järjestää vapaamuotoisen info + keskustelutilaisuuden yhdistyksen toiminnasta ja sen tulevaisuudesta, maittavan aamiaisbuffetin yhteydessä. Tule <a class="mh-excerpt-more" href="/web/2023/08/01/cug-fi-aamiaistilaisuus-15-8-2023/" title="CUG.fi Aamiaistilaisuus 15.8.2023">[...]</a></p>
+<p>The post <a href="/web/2023/08/01/cug-fi-aamiaistilaisuus-15-8-2023/">CUG.fi Aamiaistilaisuus 15.8.2023</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Tervetuloa CUG.fi aamiaistilaisuuteen 15.8.2023 kello 9 alkaen hotelli Lilla Robertsiin!</p>
@@ -57,7 +57,7 @@
 
 
 <p>https://www.lillaroberts.com/kokoustilat/emmy</p>
-<p>The post <a href="/2023/08/01/cug-fi-aamiaistilaisuus-15-8-2023/">CUG.fi Aamiaistilaisuus 15.8.2023</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2023/08/01/cug-fi-aamiaistilaisuus-15-8-2023/">CUG.fi Aamiaistilaisuus 15.8.2023</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		

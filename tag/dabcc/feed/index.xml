@@ -9,8 +9,8 @@
 
 <channel>
 	<title>DABCC Archives &#8902; Citrix User Group Finland</title>
-	<atom:link href="/tag/dabcc/feed/" rel="self" type="application/rss+xml" />
-	<link>/tag/dabcc/</link>
+	<atom:link href="/web/tag/dabcc/feed/" rel="self" type="application/rss+xml" />
+	<link>/web/tag/dabcc/</link>
 	<description>CUG.fi on voittoa tavoittelematon, yksityisten henkilöiden toimesta vuonna 2003 perustettu vapaaehtoisvoimin toimiva, rekisteröity yhdistys. Sen tavoitteena on tukea Citrix-ammattilaisten ja käyttäjien verkostoitumista, edistää tiedonvälitystä ja tarjota best practises-kokemuksia jäsenilleen järjestämällä erilaisia teemaseminaareja ja tapaamisia. Yhdistys on ensisijaisesti tarkoitettu henkilöille jotka työkseen kehittävät ja ylläpitävät Citrix- ympäristöjä.</description>
 	<lastBuildDate>Wed, 05 Apr 2017 14:56:46 +0000</lastBuildDate>
 	<language>fi</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 	<item>
 		<title>Tässä teille DABCC:n listaamana vaihteeksi Goliath Technologies&#8217;in Citrix aiheisia webinaareja:</title>
-		<link>/2017/04/05/tassa-teille-dabccn-listaamana-vaihteeksi-goliath-technologiesin-citrix-aiheisia-webinaareja/</link>
+		<link>/web/2017/04/05/tassa-teille-dabccn-listaamana-vaihteeksi-goliath-technologiesin-citrix-aiheisia-webinaareja/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Wed, 05 Apr 2017 14:40:30 +0000</pubDate>
@@ -29,12 +29,12 @@
 		<category><![CDATA[DABCC]]></category>
 		<category><![CDATA[Goliath Technologies]]></category>
 		<category><![CDATA[Webinaari]]></category>
-		<guid isPermaLink="false">/?p=2448</guid>
+		<guid isPermaLink="false">/web/?p=2448</guid>
 
-					<description><![CDATA[<p>How to Troubleshoot &#38; Fix the Root Cause of High Citrix ICA Latency on HDX Channels Wednesday, April 5th at 12:30 pm ET &#124; 9:30 <a class="mh-excerpt-more" href="/2017/04/05/tassa-teille-dabccn-listaamana-vaihteeksi-goliath-technologiesin-citrix-aiheisia-webinaareja/" title="Tässä teille DABCC:n listaamana vaihteeksi Goliath Technologies&#8217;in Citrix aiheisia webinaareja:">[...]</a></p>
-<p>The post <a href="/2017/04/05/tassa-teille-dabccn-listaamana-vaihteeksi-goliath-technologiesin-citrix-aiheisia-webinaareja/">Tässä teille DABCC:n listaamana vaihteeksi Goliath Technologies&#8217;in Citrix aiheisia webinaareja:</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+					<description><![CDATA[<p>How to Troubleshoot &#38; Fix the Root Cause of High Citrix ICA Latency on HDX Channels Wednesday, April 5th at 12:30 pm ET &#124; 9:30 <a class="mh-excerpt-more" href="/web/2017/04/05/tassa-teille-dabccn-listaamana-vaihteeksi-goliath-technologiesin-citrix-aiheisia-webinaareja/" title="Tässä teille DABCC:n listaamana vaihteeksi Goliath Technologies&#8217;in Citrix aiheisia webinaareja:">[...]</a></p>
+<p>The post <a href="/web/2017/04/05/tassa-teille-dabccn-listaamana-vaihteeksi-goliath-technologiesin-citrix-aiheisia-webinaareja/">Tässä teille DABCC:n listaamana vaihteeksi Goliath Technologies&#8217;in Citrix aiheisia webinaareja:</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p><a href="http://dabcc.us5.list-manage.com/track/click?u=beced98deb964ca9941f6c9d0&amp;id=9b2d99bbec&amp;e=2afa373c7a"><strong>How to Troubleshoot &amp; Fix the Root Cause of High Citrix ICA Latency on HDX Channels</strong></a><a href="http://dabcc.us5.list-manage.com/track/click?u=beced98deb964ca9941f6c9d0&amp;id=9b2d99bbec&amp;e=2afa373c7a"><img fetchpriority="high" decoding="async" class="wp-image-1975 alignleft" src="/wp-content/uploads/2016/05/Webinar.jpg" alt="" width="297" height="183" /></a><strong><br />
+										<content:encoded><![CDATA[<p><a href="http://dabcc.us5.list-manage.com/track/click?u=beced98deb964ca9941f6c9d0&amp;id=9b2d99bbec&amp;e=2afa373c7a"><strong>How to Troubleshoot &amp; Fix the Root Cause of High Citrix ICA Latency on HDX Channels</strong></a><a href="http://dabcc.us5.list-manage.com/track/click?u=beced98deb964ca9941f6c9d0&amp;id=9b2d99bbec&amp;e=2afa373c7a"><img fetchpriority="high" decoding="async" class="wp-image-1975 alignleft" src="/web/wp-content/uploads/2016/05/Webinar.jpg" alt="" width="297" height="183" /></a><strong><br />
 </strong>Wednesday, April 5th at 12:30 pm ET | 9:30 am PT</p>
 <p>On the free webinar, a Citrix Engineer will hold a live ICA latency troubleshooting session, showing you how to get real-time performance metrics on any of the 50 Citrix HDX channels <a href="http://dabcc.us5.list-manage1.com/track/click?u=beced98deb964ca9941f6c9d0&amp;id=2ab9d139de&amp;e=2afa373c7a">REGISTER NOW</a></p>
 <p>&nbsp;</p>
@@ -52,7 +52,7 @@ Wednesday, April 12th at 12:30 pm ET | 9:30 am PT</p>
 <strong>How to Proactively Prevent Citrix Logon Issues &amp; Improve the End User Experience</strong></a><br />
 Thursday, April 20th at 12:30 pm ET | 9:30 am PT</p>
 <p>On this free live webinar, you will see how to proactively prevent Citrix logon slowness and failure issues before end users are affected by using Citrix Ready technology that tests and confirms end user logons and launches of business-critical apps will occur when needed. <a href="http://dabcc.us5.list-manage1.com/track/click?u=beced98deb964ca9941f6c9d0&amp;id=a8de574bbb&amp;e=2afa373c7a">REGISTER NOW</a></p>
-<p>The post <a href="/2017/04/05/tassa-teille-dabccn-listaamana-vaihteeksi-goliath-technologiesin-citrix-aiheisia-webinaareja/">Tässä teille DABCC:n listaamana vaihteeksi Goliath Technologies&#8217;in Citrix aiheisia webinaareja:</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2017/04/05/tassa-teille-dabccn-listaamana-vaihteeksi-goliath-technologiesin-citrix-aiheisia-webinaareja/">Tässä teille DABCC:n listaamana vaihteeksi Goliath Technologies&#8217;in Citrix aiheisia webinaareja:</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		

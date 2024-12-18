@@ -9,8 +9,8 @@
 
 <channel>
 	<title>SCKY Archives &#8902; Citrix User Group Finland</title>
-	<atom:link href="/category/scky/feed/" rel="self" type="application/rss+xml" />
-	<link>/category/scky/</link>
+	<atom:link href="/web/category/scky/feed/" rel="self" type="application/rss+xml" />
+	<link>/web/category/scky/</link>
 	<description>CUG.fi on voittoa tavoittelematon, yksityisten henkilöiden toimesta vuonna 2003 perustettu vapaaehtoisvoimin toimiva, rekisteröity yhdistys. Sen tavoitteena on tukea Citrix-ammattilaisten ja käyttäjien verkostoitumista, edistää tiedonvälitystä ja tarjota best practises-kokemuksia jäsenilleen järjestämällä erilaisia teemaseminaareja ja tapaamisia. Yhdistys on ensisijaisesti tarkoitettu henkilöille jotka työkseen kehittävät ja ylläpitävät Citrix- ympäristöjä.</description>
 	<lastBuildDate>Sun, 29 May 2016 14:50:22 +0000</lastBuildDate>
 	<language>fi</language>
@@ -21,24 +21,24 @@
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 	<item>
 		<title>Citrix Synergy 2015 konferenssin esiintyjälista on julkaistu</title>
-		<link>/2015/03/14/citrix-synergy-2015-konferenssin-esiintyjalista-on-julkaistu/</link>
+		<link>/web/2015/03/14/citrix-synergy-2015-konferenssin-esiintyjalista-on-julkaistu/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Sat, 14 Mar 2015 13:46:00 +0000</pubDate>
 				<category><![CDATA[SCKY]]></category>
-		<guid isPermaLink="false">/2015/03/14/citrix-synergy-2015-konferenssin-esiintyjalista-on-julkaistu/</guid>
+		<guid isPermaLink="false">/web/2015/03/14/citrix-synergy-2015-konferenssin-esiintyjalista-on-julkaistu/</guid>
 
-					<description><![CDATA[<p>Toukokuun 12-14 Orlandossa Floridassa järjestettävässä Citrix Synergy 2015 konferenssin esiintyjälista on julkaistu. Mukana on myös Oulun Tietotekniikan Mikko Sortti ja Soforin Jukka Hieta aiheella: &#8221;City <a class="mh-excerpt-more" href="/2015/03/14/citrix-synergy-2015-konferenssin-esiintyjalista-on-julkaistu/" title="Citrix Synergy 2015 konferenssin esiintyjälista on julkaistu">[...]</a></p>
-<p>The post <a href="/2015/03/14/citrix-synergy-2015-konferenssin-esiintyjalista-on-julkaistu/">Citrix Synergy 2015 konferenssin esiintyjälista on julkaistu</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+					<description><![CDATA[<p>Toukokuun 12-14 Orlandossa Floridassa järjestettävässä Citrix Synergy 2015 konferenssin esiintyjälista on julkaistu. Mukana on myös Oulun Tietotekniikan Mikko Sortti ja Soforin Jukka Hieta aiheella: &#8221;City <a class="mh-excerpt-more" href="/web/2015/03/14/citrix-synergy-2015-konferenssin-esiintyjalista-on-julkaistu/" title="Citrix Synergy 2015 konferenssin esiintyjälista on julkaistu">[...]</a></p>
+<p>The post <a href="/web/2015/03/14/citrix-synergy-2015-konferenssin-esiintyjalista-on-julkaistu/">Citrix Synergy 2015 konferenssin esiintyjälista on julkaistu</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p><body></p>
 <p>Toukokuun 12-14 Orlandossa Floridassa järjestettävässä <strong>Citrix Synergy 2015</strong> konferenssin <a href="http://blogs.citrix.com/2015/03/12/announcing-the-citrix-synergy-2015-guest-speakers/" target="_blank"><strong>esiintyjälista</strong></a> on julkaistu.</p>
 <p>Mukana on myös Oulun Tietotekniikan <strong><em>Mikko Sortti</em></strong> ja Soforin <strong><em>Jukka Hieta</em></strong> aiheella: <strong>&#8221;City of Oulu, Finland, high-tech hotbed.&#8221;</strong> Esityksessä kerrotaan Soforin toteuttamasta Oulun Tietotekniikan mobiililaitteiden etähallinta -projektista.</p>
 <p>Lue lisää Oulun mobiililaitteiden etähallinta -projektista<a href="http://www.sofor.fi/web/-Oulunkaupunkietahallinta" target="_blank"><strong> täältä</strong></a>.</p>
 <div class="kuvateksti">
-<img decoding="async" src="/wp-content/uploads/2015/03/synergy2015_22i.jpg" alt=""/></div>
+<img decoding="async" src="/web/wp-content/uploads/2015/03/synergy2015_22i.jpg" alt=""/></div>
 <p>	</body></p>
-<p>The post <a href="/2015/03/14/citrix-synergy-2015-konferenssin-esiintyjalista-on-julkaistu/">Citrix Synergy 2015 konferenssin esiintyjälista on julkaistu</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2015/03/14/citrix-synergy-2015-konferenssin-esiintyjalista-on-julkaistu/">Citrix Synergy 2015 konferenssin esiintyjälista on julkaistu</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -46,19 +46,19 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">1449</post-id>	</item>
 		<item>
 		<title>Citrix esitteli carrier-luokan NetScaler 25000 sarjan</title>
-		<link>/2015/03/13/citrix-esitteli-carrier-luokan-netscaler-25000-sarjan/</link>
+		<link>/web/2015/03/13/citrix-esitteli-carrier-luokan-netscaler-25000-sarjan/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Fri, 13 Mar 2015 12:07:00 +0000</pubDate>
 				<category><![CDATA[SCKY]]></category>
-		<guid isPermaLink="false">/2015/03/13/citrix-esitteli-carrier-luokan-netscaler-25000-sarjan/</guid>
+		<guid isPermaLink="false">/web/2015/03/13/citrix-esitteli-carrier-luokan-netscaler-25000-sarjan/</guid>
 
-					<description><![CDATA[<p>Citrix laajentaa NetScaler tuotevalikoimaansa esittelemällä uuden MPX 25000 sarjan. Uusi 25000 sarja on kahden räkkiyksikön kokoinen ja varustettu 32:lla 10 GbE portilla. Tehon tuovat dual <a class="mh-excerpt-more" href="/2015/03/13/citrix-esitteli-carrier-luokan-netscaler-25000-sarjan/" title="Citrix esitteli carrier-luokan NetScaler 25000 sarjan">[...]</a></p>
-<p>The post <a href="/2015/03/13/citrix-esitteli-carrier-luokan-netscaler-25000-sarjan/">Citrix esitteli carrier-luokan NetScaler 25000 sarjan</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+					<description><![CDATA[<p>Citrix laajentaa NetScaler tuotevalikoimaansa esittelemällä uuden MPX 25000 sarjan. Uusi 25000 sarja on kahden räkkiyksikön kokoinen ja varustettu 32:lla 10 GbE portilla. Tehon tuovat dual <a class="mh-excerpt-more" href="/web/2015/03/13/citrix-esitteli-carrier-luokan-netscaler-25000-sarjan/" title="Citrix esitteli carrier-luokan NetScaler 25000 sarjan">[...]</a></p>
+<p>The post <a href="/web/2015/03/13/citrix-esitteli-carrier-luokan-netscaler-25000-sarjan/">Citrix esitteli carrier-luokan NetScaler 25000 sarjan</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p><body></p>
 <div class="kuvateksti">
-<img decoding="async" src="/wp-content/uploads/2015/03/NetScaler-MPX-25000-470x249.jpg" alt=""/></div>
+<img decoding="async" src="/web/wp-content/uploads/2015/03/NetScaler-MPX-25000-470x249.jpg" alt=""/></div>
 <p>Citrix laajentaa NetScaler tuotevalikoimaansa esittelemällä uuden <strong>MPX 25000</strong> sarjan. Uusi 25000 sarja on kahden räkkiyksikön kokoinen ja varustettu 32:lla 10 GbE portilla. Tehon tuovat dual Intel E502680v2 prosessorit.</p>
 <p>Sarjassa on kaksi mallia: <strong>MPX 25160T</strong> ja <strong>MPX 25100T</strong>. Näistä MPX 25160T mallin läpäisykyky on 160 gigaa sekunnissa ja se kykenee 4,6 miljoonaan layer 7:n HTTP-kyselyyn sekunnissa. MPX 25100T :n vastaavat numerot ovat 100 gigaa ja 3,2 miljoonaa layer 7:n HTTP kyselyä sekunnissa. MPX 25160T  on klusteroitavissa jolloin kapasiteetti on 3,5 teraa sekunnissa.</p>
 <p>Citrixin mukaan MPX 25000  on täydennys Citrixin tuotevalikoimaan, eikä siten korvaa markkinoilla olevia malleja.</p>
@@ -67,7 +67,7 @@
 <hr/>
 <p><span style="font-size:10px;"><strong>13.3.2015 Liekovuo</strong></span></p>
 <p>	</body></p>
-<p>The post <a href="/2015/03/13/citrix-esitteli-carrier-luokan-netscaler-25000-sarjan/">Citrix esitteli carrier-luokan NetScaler 25000 sarjan</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2015/03/13/citrix-esitteli-carrier-luokan-netscaler-25000-sarjan/">Citrix esitteli carrier-luokan NetScaler 25000 sarjan</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -75,15 +75,15 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">1452</post-id>	</item>
 		<item>
 		<title>2015 Innovation Award for Partners äänestys on käynnistynyt</title>
-		<link>/2015/01/09/2015-innovation-award-for-partners-aanestys-on-kaynnistynyt/</link>
+		<link>/web/2015/01/09/2015-innovation-award-for-partners-aanestys-on-kaynnistynyt/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Fri, 09 Jan 2015 21:32:00 +0000</pubDate>
 				<category><![CDATA[SCKY]]></category>
-		<guid isPermaLink="false">/2015/01/09/2015-innovation-award-for-partners-aanestys-on-kaynnistynyt/</guid>
+		<guid isPermaLink="false">/web/2015/01/09/2015-innovation-award-for-partners-aanestys-on-kaynnistynyt/</guid>
 
-					<description><![CDATA[<p>2015 Innovation Award for Partners Äänestys on käynnistynyt, käy äänestämässä! Kilpailusta tekee tällä kertaa kiinnostavamman se että Enterprise sarjassa on ehdokkaana Fujitsu &#8211; Finland Terveystalo <a class="mh-excerpt-more" href="/2015/01/09/2015-innovation-award-for-partners-aanestys-on-kaynnistynyt/" title="2015 Innovation Award for Partners äänestys on käynnistynyt">[...]</a></p>
-<p>The post <a href="/2015/01/09/2015-innovation-award-for-partners-aanestys-on-kaynnistynyt/">2015 Innovation Award for Partners äänestys on käynnistynyt</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+					<description><![CDATA[<p>2015 Innovation Award for Partners Äänestys on käynnistynyt, käy äänestämässä! Kilpailusta tekee tällä kertaa kiinnostavamman se että Enterprise sarjassa on ehdokkaana Fujitsu &#8211; Finland Terveystalo <a class="mh-excerpt-more" href="/web/2015/01/09/2015-innovation-award-for-partners-aanestys-on-kaynnistynyt/" title="2015 Innovation Award for Partners äänestys on käynnistynyt">[...]</a></p>
+<p>The post <a href="/web/2015/01/09/2015-innovation-award-for-partners-aanestys-on-kaynnistynyt/">2015 Innovation Award for Partners äänestys on käynnistynyt</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p><body></p>
 <h1>2015 Innovation Award for Partners </h1>
@@ -93,11 +93,11 @@
 <p>Katso muut kilpailijat ja äänestä <a href="http://www.citrix.com/go/customer/partners.html?refid=social" target="_blank"><strong>tämän linkin</strong></a> kautta.</p>
 <p>Peukut pystyyn Fujitsulle!</p>
 <div class="kuvateksti">
-<img decoding="async" src="/wp-content/uploads/2015/01/fujitsu200px.jpg" alt=""/></div>
+<img decoding="async" src="/web/wp-content/uploads/2015/01/fujitsu200px.jpg" alt=""/></div>
 <hr/>
 <p> </p>
 <p>	</body></p>
-<p>The post <a href="/2015/01/09/2015-innovation-award-for-partners-aanestys-on-kaynnistynyt/">2015 Innovation Award for Partners äänestys on käynnistynyt</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2015/01/09/2015-innovation-award-for-partners-aanestys-on-kaynnistynyt/">2015 Innovation Award for Partners äänestys on käynnistynyt</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -105,19 +105,19 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">1431</post-id>	</item>
 		<item>
 		<title>Joustavat työjärjestelyt voisivat lisätä 11,5 miljardia puntaa Britannian talouteen vuosittain</title>
-		<link>/2014/12/20/joustavat-tyojarjestelyt-voisivat-lisata-115-miljardia-puntaa-britannian-talouteen-vuosittain/</link>
+		<link>/web/2014/12/20/joustavat-tyojarjestelyt-voisivat-lisata-115-miljardia-puntaa-britannian-talouteen-vuosittain/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Sat, 20 Dec 2014 17:59:00 +0000</pubDate>
 				<category><![CDATA[SCKY]]></category>
-		<guid isPermaLink="false">/2014/12/20/joustavat-tyojarjestelyt-voisivat-lisata-115-miljardia-puntaa-britannian-talouteen-vuosittain/</guid>
+		<guid isPermaLink="false">/web/2014/12/20/joustavat-tyojarjestelyt-voisivat-lisata-115-miljardia-puntaa-britannian-talouteen-vuosittain/</guid>
 
-					<description><![CDATA[<p>Citrix tutki yhdessä CEBR:n (Centre for Economics and Business Research) kanssa &#8221;työskentele missä vain&#8221; &#8211; työtavan vaikutusta Britannian työkulttuurissa.  Tutkimuksen mukaan 96% niistä joilla on <a class="mh-excerpt-more" href="/2014/12/20/joustavat-tyojarjestelyt-voisivat-lisata-115-miljardia-puntaa-britannian-talouteen-vuosittain/" title="Joustavat työjärjestelyt voisivat lisätä 11,5 miljardia puntaa Britannian talouteen vuosittain">[...]</a></p>
-<p>The post <a href="/2014/12/20/joustavat-tyojarjestelyt-voisivat-lisata-115-miljardia-puntaa-britannian-talouteen-vuosittain/">Joustavat työjärjestelyt voisivat lisätä 11,5 miljardia puntaa Britannian talouteen vuosittain</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+					<description><![CDATA[<p>Citrix tutki yhdessä CEBR:n (Centre for Economics and Business Research) kanssa &#8221;työskentele missä vain&#8221; &#8211; työtavan vaikutusta Britannian työkulttuurissa.  Tutkimuksen mukaan 96% niistä joilla on <a class="mh-excerpt-more" href="/web/2014/12/20/joustavat-tyojarjestelyt-voisivat-lisata-115-miljardia-puntaa-britannian-talouteen-vuosittain/" title="Joustavat työjärjestelyt voisivat lisätä 11,5 miljardia puntaa Britannian talouteen vuosittain">[...]</a></p>
+<p>The post <a href="/web/2014/12/20/joustavat-tyojarjestelyt-voisivat-lisata-115-miljardia-puntaa-britannian-talouteen-vuosittain/">Joustavat työjärjestelyt voisivat lisätä 11,5 miljardia puntaa Britannian talouteen vuosittain</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p><body></p>
 <div class="kuvateksti" style="float: left; margin-right: 10px;">
-<img decoding="async" src="/wp-content/uploads/2014/12/research.jpg" alt="" title=""/></div>
+<img decoding="async" src="/web/wp-content/uploads/2014/12/research.jpg" alt="" title=""/></div>
 <p>Citrix <strong><a href="http://www.citrix.com/news/announcements/dec-2014/greater-flexible-working-could-add-p11-5-billion-annually-to-the.html" target="_blank">tutki</a></strong> yhdessä CEBR:n (<strong><a href="http://www.cebr.com/" target="_blank">Centre for Economics and Business Research</a></strong>) kanssa &#8221;työskentele missä vain&#8221; &#8211; työtavan vaikutusta Britannian työkulttuurissa.  Tutkimuksen mukaan 96% niistä joilla on mahdollisuus etätyöskennellä myös hyödyntävät mahdollisuutta arjessaan. Niistä joilla vastaavaa mahdollisuutta ei ole, 83% tekisi niin, jos se olisi mahdollista. Se mahdollistaisi jopa 11,5 miljardin punnan lisäyksen Britannian talouteen vuositasolla tehokkaimmin käytettyjen työtuntien muodossa. Summa vastaa 0,7% Britannian BKT:sta. Joustavampi työajan käyttö voisi myös säästää työntekijöiltä 7,1 miljardia puntaa vähentyneinä työmatkakustannuksina ja ajansäästöinä vuositasolla.</p>
 <p><strong>Hyödyt tämän päivän työvoimalle</strong></p>
 <p>Tutkimuksen mukaan työntekijät haluaisivat suurempaa joustoa ja joustavuutta työntekoon. 94% Britannian tietotyöntekijöistä haluaisi työskennellä kotoa käsin kaksi työpäivää viikossa. Jos Britannian työkulttuuri sallisi tämän kaikille vuosisäästöt olisivat 3,8 miljardia puntaa. Tällöin säästyisi myös työmatkoihin kuluvana aikana yhteensä 533 miljoonaa tuntia. Ruuhkissa istumisen sijaan nuo tunnit parantaisivat työntekijöiden mahdollisuuksia balansoida työ-vapaa-aika suhdetta ja toisivat lisäksi huomattavat säästöt matkakuluissa.</p>
@@ -130,7 +130,7 @@
 <li>60% osa-aikatyötä tekevistä vastanneista haluaisi työskennellä enemmän jos työ olisi etätyöskentelyä. Britanniassa on 745.000 osa-aikatyötä tekevää</li>
 </ul>
 <p></body></p>
-<p>The post <a href="/2014/12/20/joustavat-tyojarjestelyt-voisivat-lisata-115-miljardia-puntaa-britannian-talouteen-vuosittain/">Joustavat työjärjestelyt voisivat lisätä 11,5 miljardia puntaa Britannian talouteen vuosittain</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2014/12/20/joustavat-tyojarjestelyt-voisivat-lisata-115-miljardia-puntaa-britannian-talouteen-vuosittain/">Joustavat työjärjestelyt voisivat lisätä 11,5 miljardia puntaa Britannian talouteen vuosittain</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -138,15 +138,15 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">1479</post-id>	</item>
 		<item>
 		<title>Citrix India: Happy@Citrix</title>
-		<link>/2014/12/02/citrix-india-happycitrix/</link>
+		<link>/web/2014/12/02/citrix-india-happycitrix/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Tue, 02 Dec 2014 13:56:00 +0000</pubDate>
 				<category><![CDATA[SCKY]]></category>
-		<guid isPermaLink="false">/2014/12/02/citrix-india-happycitrix/</guid>
+		<guid isPermaLink="false">/web/2014/12/02/citrix-india-happycitrix/</guid>
 
 					<description><![CDATA[<p>&#160; Team Citrix India: Happy@Citrix SCKY jää odottamaan Citrix Finlandin vastaavaa videota.. Citrix Work better. Live better.</p>
-<p>The post <a href="/2014/12/02/citrix-india-happycitrix/">Citrix India: Happy@Citrix</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2014/12/02/citrix-india-happycitrix/">Citrix India: Happy@Citrix</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>&nbsp;</p>
 <h1>Team Citrix India: Happy@Citrix</h1>
@@ -155,10 +155,10 @@
 <p style="text-align: center;"><span style="font-size: 16px;"><strong>Citrix </strong></span></p>
 <p style="text-align: center;"><span style="font-size: 16px;"><strong>Work better. Live better.</strong></span></p>
 <div class="kuvateksti">
-<img decoding="async" src="/wp-content/uploads/2014/11/CTX_logo2011.jpg" alt="" />
+<img decoding="async" src="/web/wp-content/uploads/2014/11/CTX_logo2011.jpg" alt="" />
 </div>
 <p></iframe></p>
-<p>The post <a href="/2014/12/02/citrix-india-happycitrix/">Citrix India: Happy@Citrix</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2014/12/02/citrix-india-happycitrix/">Citrix India: Happy@Citrix</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -166,15 +166,15 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">1441</post-id>	</item>
 		<item>
 		<title>Asiayhteyteen pohjautuva tietoturva on avain yrityksen mobiiliteettiin</title>
-		<link>/2014/11/23/asiayhteyteen-pohjautuva-tietoturva-on-avain-yrityksen-mobiiliteettiin/</link>
+		<link>/web/2014/11/23/asiayhteyteen-pohjautuva-tietoturva-on-avain-yrityksen-mobiiliteettiin/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Sun, 23 Nov 2014 11:55:00 +0000</pubDate>
 				<category><![CDATA[SCKY]]></category>
-		<guid isPermaLink="false">/2014/11/23/asiayhteyteen-pohjautuva-tietoturva-on-avain-yrityksen-mobiiliteettiin/</guid>
+		<guid isPermaLink="false">/web/2014/11/23/asiayhteyteen-pohjautuva-tietoturva-on-avain-yrityksen-mobiiliteettiin/</guid>
 
-					<description><![CDATA[<p>Citrix on julkistanut rahoituspalveluiden ja terveydenhuollon asiakkailleen jotka ovat laajentamassa mobiilien työskentelytilojensa käyttöä asiayhteyteen pohjautuvan tietoturva-arkkitehtuurin, joka pitää sisällään täyden valikoiman Citrix tuotteita.  Citrix yhdistää <a class="mh-excerpt-more" href="/2014/11/23/asiayhteyteen-pohjautuva-tietoturva-on-avain-yrityksen-mobiiliteettiin/" title="Asiayhteyteen pohjautuva tietoturva on avain yrityksen mobiiliteettiin">[...]</a></p>
-<p>The post <a href="/2014/11/23/asiayhteyteen-pohjautuva-tietoturva-on-avain-yrityksen-mobiiliteettiin/">Asiayhteyteen pohjautuva tietoturva on avain yrityksen mobiiliteettiin</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+					<description><![CDATA[<p>Citrix on julkistanut rahoituspalveluiden ja terveydenhuollon asiakkailleen jotka ovat laajentamassa mobiilien työskentelytilojensa käyttöä asiayhteyteen pohjautuvan tietoturva-arkkitehtuurin, joka pitää sisällään täyden valikoiman Citrix tuotteita.  Citrix yhdistää <a class="mh-excerpt-more" href="/web/2014/11/23/asiayhteyteen-pohjautuva-tietoturva-on-avain-yrityksen-mobiiliteettiin/" title="Asiayhteyteen pohjautuva tietoturva on avain yrityksen mobiiliteettiin">[...]</a></p>
+<p>The post <a href="/web/2014/11/23/asiayhteyteen-pohjautuva-tietoturva-on-avain-yrityksen-mobiiliteettiin/">Asiayhteyteen pohjautuva tietoturva on avain yrityksen mobiiliteettiin</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p><body></p>
 <p>Citrix on julkistanut rahoituspalveluiden ja terveydenhuollon asiakkailleen jotka ovat laajentamassa mobiilien työskentelytilojensa käyttöä asiayhteyteen pohjautuvan tietoturva-arkkitehtuurin, joka pitää sisällään täyden valikoiman Citrix tuotteita. </p>
@@ -200,9 +200,9 @@
 <li>Case Study: <a href="http://cts.businesswire.com/ct/CT?id=smartlink&amp;url=http%3A%2F%2Fwww.citrix.com%2Fcustomers%2Fsouthcoast-health-system-en.html&amp;esheet=50986121&amp;newsitemid=20141118005291&amp;lan=en-US&amp;anchor=Southcoast+Health+System&amp;index=10&amp;md5=615b468542b37f2a0cbd0d1516e7aab2">Southcoast Health System</a></li>
 </ul>
 <div class="kuvateksti">
-<img decoding="async" src="/wp-content/uploads/2014/11/CTX_logo2011.jpg" alt=""/></div>
+<img decoding="async" src="/web/wp-content/uploads/2014/11/CTX_logo2011.jpg" alt=""/></div>
 <p>	</body></p>
-<p>The post <a href="/2014/11/23/asiayhteyteen-pohjautuva-tietoturva-on-avain-yrityksen-mobiiliteettiin/">Asiayhteyteen pohjautuva tietoturva on avain yrityksen mobiiliteettiin</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2014/11/23/asiayhteyteen-pohjautuva-tietoturva-on-avain-yrityksen-mobiiliteettiin/">Asiayhteyteen pohjautuva tietoturva on avain yrityksen mobiiliteettiin</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -210,18 +210,18 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">1433</post-id>	</item>
 		<item>
 		<title>Goliath Logon Simulator for Citrix</title>
-		<link>/2014/11/14/goliath-logon-simulator-for-citrix/</link>
+		<link>/web/2014/11/14/goliath-logon-simulator-for-citrix/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Fri, 14 Nov 2014 08:07:00 +0000</pubDate>
 				<category><![CDATA[SCKY]]></category>
-		<guid isPermaLink="false">/2014/11/14/goliath-logon-simulator-for-citrix/</guid>
+		<guid isPermaLink="false">/web/2014/11/14/goliath-logon-simulator-for-citrix/</guid>
 
-					<description><![CDATA[<p>Goliath Technologies julkaisi ensimmäisen logon simulaattori-ohjelmansa Citrixille. Ohjelmisto on suunnattu tietohallintoyksiköille jotka haluavat ennakoivasti lyhentää XenApp ja XenDesktop kirjautumisaikoja ja siten parantaa loppukäyttäjäkokemusta. Goliath Logon <a class="mh-excerpt-more" href="/2014/11/14/goliath-logon-simulator-for-citrix/" title="Goliath Logon Simulator for Citrix">[...]</a></p>
-<p>The post <a href="/2014/11/14/goliath-logon-simulator-for-citrix/">Goliath Logon Simulator for Citrix</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+					<description><![CDATA[<p>Goliath Technologies julkaisi ensimmäisen logon simulaattori-ohjelmansa Citrixille. Ohjelmisto on suunnattu tietohallintoyksiköille jotka haluavat ennakoivasti lyhentää XenApp ja XenDesktop kirjautumisaikoja ja siten parantaa loppukäyttäjäkokemusta. Goliath Logon <a class="mh-excerpt-more" href="/web/2014/11/14/goliath-logon-simulator-for-citrix/" title="Goliath Logon Simulator for Citrix">[...]</a></p>
+<p>The post <a href="/web/2014/11/14/goliath-logon-simulator-for-citrix/">Goliath Logon Simulator for Citrix</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="kuvateksti">
-<img decoding="async" src="/wp-content/uploads/2014/11/goliath_logo.jpg" alt=""/></div>
+<img decoding="async" src="/web/wp-content/uploads/2014/11/goliath_logo.jpg" alt=""/></div>
 <p>Goliath Technologies julkaisi ensimmäisen logon simulaattori-ohjelmansa Citrixille.</p>
 <p>Ohjelmisto on suunnattu tietohallintoyksiköille jotka haluavat ennakoivasti lyhentää <strong>XenApp</strong> ja <strong>XenDesktop </strong>kirjautumisaikoja ja siten parantaa loppukäyttäjäkokemusta.</p>
 <p>Goliath Logon Simulator on markkinoiden ainoa tuote joka varmistaa loppukäyttäjän onnistuneen kirjautumisen aloittamalla aidon Citrix session jossa simuloidaan kaikki samat vaiheet kuin aidon käyttäjän logon prosessissa tapahtuu. Se on suunniteltu jatkuvasti arvioimaan reaaliajassa että Citrix sessio mukaan lukien <strong>NetScaler</strong>, toimivat oikein ja että sovellus on julkaistu loppukäyttäjälle ongelmitta.</p>
@@ -232,7 +232,7 @@
 <p><strong><a href="http://goliathtechnologies.com/software/" target="_blank">Lisätietoa</a> </strong>Goliath Technologies.</p>
 <hr/>
 <p><span style="font-size:10px;">14.11.2014 Liekovuo</span></p>
-<p>The post <a href="/2014/11/14/goliath-logon-simulator-for-citrix/">Goliath Logon Simulator for Citrix</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2014/11/14/goliath-logon-simulator-for-citrix/">Goliath Logon Simulator for Citrix</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -240,19 +240,19 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">1475</post-id>	</item>
 		<item>
 		<title>GoToMeeting Free -ota käyttöön ilmaiseksi</title>
-		<link>/2014/11/08/gotomeeting-free-ota-kayttoon-ilmaiseksi/</link>
+		<link>/web/2014/11/08/gotomeeting-free-ota-kayttoon-ilmaiseksi/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Sat, 08 Nov 2014 14:26:00 +0000</pubDate>
 				<category><![CDATA[SCKY]]></category>
-		<guid isPermaLink="false">/2014/11/08/gotomeeting-free-ota-kayttoon-ilmaiseksi/</guid>
+		<guid isPermaLink="false">/web/2014/11/08/gotomeeting-free-ota-kayttoon-ilmaiseksi/</guid>
 
-					<description><![CDATA[<p>GoToMeeting Free on yksinkertainen ja nopea tapa ottaa yhteyttä kollegoihisi tai ystäviisi verkkopohjaisella videokeskustelulla. Voit synkronoida nopeasti projektin tai ottaa yhteyttä ystävääsi. Näytön tai asiakirjan <a class="mh-excerpt-more" href="/2014/11/08/gotomeeting-free-ota-kayttoon-ilmaiseksi/" title="GoToMeeting Free -ota käyttöön ilmaiseksi">[...]</a></p>
-<p>The post <a href="/2014/11/08/gotomeeting-free-ota-kayttoon-ilmaiseksi/">GoToMeeting Free -ota käyttöön ilmaiseksi</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+					<description><![CDATA[<p>GoToMeeting Free on yksinkertainen ja nopea tapa ottaa yhteyttä kollegoihisi tai ystäviisi verkkopohjaisella videokeskustelulla. Voit synkronoida nopeasti projektin tai ottaa yhteyttä ystävääsi. Näytön tai asiakirjan <a class="mh-excerpt-more" href="/web/2014/11/08/gotomeeting-free-ota-kayttoon-ilmaiseksi/" title="GoToMeeting Free -ota käyttöön ilmaiseksi">[...]</a></p>
+<p>The post <a href="/web/2014/11/08/gotomeeting-free-ota-kayttoon-ilmaiseksi/">GoToMeeting Free -ota käyttöön ilmaiseksi</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p><body></p>
 <div class="kuvateksti">
-<img decoding="async" src="/wp-content/uploads/2014/11/gotoM_free_logo.jpg" alt=""/></div>
+<img decoding="async" src="/web/wp-content/uploads/2014/11/gotoM_free_logo.jpg" alt=""/></div>
 <p>GoToMeeting Free on yksinkertainen ja nopea tapa ottaa yhteyttä kollegoihisi tai ystäviisi verkkopohjaisella videokeskustelulla. Voit synkronoida nopeasti projektin tai ottaa yhteyttä ystävääsi.</p>
 <p>Näytön tai asiakirjan jakaminen onnistuu vain yhdellä napsautuksella (Google Chromessa).</p>
 <p><strong>Ei sisäänkirjautumista</strong></p>
@@ -298,7 +298,7 @@
 <hr/>
 <p><span style="font-size:10px;"><strong>8.11.2014</strong></span></p>
 <p>	</body></p>
-<p>The post <a href="/2014/11/08/gotomeeting-free-ota-kayttoon-ilmaiseksi/">GoToMeeting Free -ota käyttöön ilmaiseksi</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2014/11/08/gotomeeting-free-ota-kayttoon-ilmaiseksi/">GoToMeeting Free -ota käyttöön ilmaiseksi</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -306,15 +306,15 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">1470</post-id>	</item>
 		<item>
 		<title>Citrix Summit 2015 koostesivu</title>
-		<link>/2014/11/05/citrix-summit-2015-koostesivu/</link>
+		<link>/web/2014/11/05/citrix-summit-2015-koostesivu/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Wed, 05 Nov 2014 16:24:00 +0000</pubDate>
 				<category><![CDATA[SCKY]]></category>
-		<guid isPermaLink="false">/2014/11/05/citrix-summit-2015-koostesivu/</guid>
+		<guid isPermaLink="false">/web/2014/11/05/citrix-summit-2015-koostesivu/</guid>
 
-					<description><![CDATA[<p>Citrix Summit 2015 Las Vegas The Venetian &#124; The Palazzo, Las Vegas  13-14 tammikuuta 2015 Tapahtuman sivut Rekisteröityminen käynnissä Citrix Summit 2015 Las Vegas ryhmämatka <a class="mh-excerpt-more" href="/2014/11/05/citrix-summit-2015-koostesivu/" title="Citrix Summit 2015 koostesivu">[...]</a></p>
-<p>The post <a href="/2014/11/05/citrix-summit-2015-koostesivu/">Citrix Summit 2015 koostesivu</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+					<description><![CDATA[<p>Citrix Summit 2015 Las Vegas The Venetian &#124; The Palazzo, Las Vegas  13-14 tammikuuta 2015 Tapahtuman sivut Rekisteröityminen käynnissä Citrix Summit 2015 Las Vegas ryhmämatka <a class="mh-excerpt-more" href="/web/2014/11/05/citrix-summit-2015-koostesivu/" title="Citrix Summit 2015 koostesivu">[...]</a></p>
+<p>The post <a href="/web/2014/11/05/citrix-summit-2015-koostesivu/">Citrix Summit 2015 koostesivu</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<h1>Citrix Summit 2015 Las Vegas</h1>
 <p><span style="font-size:14px;"><strong>The Venetian | The Palazzo, Las Vegas  13-14 tammikuuta 2015</strong></span></p>
@@ -344,10 +344,10 @@
 <p> </p>
 <div style="clear: both;"><iframe width="640" height="360" src="//www.youtube.com/embed/V6kZQshRGtA?rel=0" frameborder="0" allowfullscreen=""/></div>
 <div class="kuvateksti">
-<img decoding="async" src="/wp-content/uploads/2014/11/venetianPalazzoHotel.jpg" alt="The Venetian | The Palazzo"/><br />The Venetian | The Palazzo
+<img decoding="async" src="/web/wp-content/uploads/2014/11/venetianPalazzoHotel.jpg" alt="The Venetian | The Palazzo"/><br />The Venetian | The Palazzo
 </div>
 <div style="clear: both;"><iframe loading="lazy" width="640" height="360" src="//www.youtube.com/embed/vzhSDptMbck?rel=0" frameborder="0" allowfullscreen=""></iframe></div>
-<p>The post <a href="/2014/11/05/citrix-summit-2015-koostesivu/">Citrix Summit 2015 koostesivu</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2014/11/05/citrix-summit-2015-koostesivu/">Citrix Summit 2015 koostesivu</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -355,24 +355,24 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">1448</post-id>	</item>
 		<item>
 		<title>Citrix 2019 Technology Landscape</title>
-		<link>/2014/11/04/citrix-2019-technology-landscape/</link>
+		<link>/web/2014/11/04/citrix-2019-technology-landscape/</link>
 		
 		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
 		<pubDate>Tue, 04 Nov 2014 14:27:00 +0000</pubDate>
 				<category><![CDATA[SCKY]]></category>
-		<guid isPermaLink="false">/2014/11/04/citrix-2019-technology-landscape/</guid>
+		<guid isPermaLink="false">/web/2014/11/04/citrix-2019-technology-landscape/</guid>
 
-					<description><![CDATA[<p>Citrix julkaisee vuosittain viiden vuoden vision siitä mihin teknologia vie meidät ja mikä sen vaikutus on ihmiseen ja yhteiskuntaan. Viime vuoden teema oli Insights for <a class="mh-excerpt-more" href="/2014/11/04/citrix-2019-technology-landscape/" title="Citrix 2019 Technology Landscape">[...]</a></p>
-<p>The post <a href="/2014/11/04/citrix-2019-technology-landscape/">Citrix 2019 Technology Landscape</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+					<description><![CDATA[<p>Citrix julkaisee vuosittain viiden vuoden vision siitä mihin teknologia vie meidät ja mikä sen vaikutus on ihmiseen ja yhteiskuntaan. Viime vuoden teema oli Insights for <a class="mh-excerpt-more" href="/web/2014/11/04/citrix-2019-technology-landscape/" title="Citrix 2019 Technology Landscape">[...]</a></p>
+<p>The post <a href="/web/2014/11/04/citrix-2019-technology-landscape/">Citrix 2019 Technology Landscape</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="kuvateksti">
-<img decoding="async" src="/wp-content/uploads/2014/11/technologyLandscape2014.jpg" alt=""/></div>
+<img decoding="async" src="/web/wp-content/uploads/2014/11/technologyLandscape2014.jpg" alt=""/></div>
 <p>Citrix julkaisee vuosittain viiden vuoden vision siitä mihin teknologia vie meidät ja mikä sen vaikutus on ihmiseen ja yhteiskuntaan. Viime vuoden teema oli <em>Insights for Inspiration</em> ja tämän vuoden nimenä on rankankielinen <strong><em>Joie De Vivre</em></strong> jolla on Citrixin mukaan kaksi merkitystä: elämän ilo ja itsensä toteuttaminen. Visio ulottuu vuoteen 2019 ja sivuaa koko teknologia-alaa.</p>
 <p><strong><em>2019 Technology Landscape</em></strong> -julkaisulla Citrix haluaa auttaa yrityksiä ja yksitöitä saavuttamaan täyden potentiaalinsa. Tämän vuoden julkaisu päivittää ajan tasalle kehittymässä olevat trendit ja pohtii työn käsitettä tulevaisuudessa. Julkaisu on taitettu lehtimuotoon erillisiksi helposti luettaviksi artikkeleiksi. Teemat ovat koulutus, rahoitus ,terveydenhuolto, vähittäiskauppa, valmistus ja talous.</p>
 <p>Lataa n.40 Mb PDF ja lue julkaisu<strong> <a href="http://www.citrix.com/articles-and-insights/trends-and-innovation/jul-2014/citrix-cto-office-2019-technology-landscape.html" target="_blank">tämän linkin </a></strong>kautta (ei vaadi rekisteröitymistä).</p>
 <div style="clear: both;"><iframe loading="lazy" width="640" height="360" src="//www.youtube.com/embed/JBfedRgSQbw?list=PL9DnA74jj24ac6qko4ahwz0lyTFVY41ZW" frameborder="0" allowfullscreen=""></iframe></div>
 <p><span style="font-size:10px;"><strong>4.11.2014 Liekovuo</strong></span></p>
-<p>The post <a href="/2014/11/04/citrix-2019-technology-landscape/">Citrix 2019 Technology Landscape</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+<p>The post <a href="/web/2014/11/04/citrix-2019-technology-landscape/">Citrix 2019 Technology Landscape</a> appeared first on <a href="/web/">Citrix User Group Finland</a>.</p>
 ]]></content:encoded>
 					
 		
