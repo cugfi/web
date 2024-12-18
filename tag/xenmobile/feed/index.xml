@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>XenMobile Archives &#8902; Citrix User Group Finland</title>
+	<atom:link href="/tag/xenmobile/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/xenmobile/</link>
+	<description>CUG.fi on voittoa tavoittelematon, yksityisten henkilöiden toimesta vuonna 2003 perustettu vapaaehtoisvoimin toimiva, rekisteröity yhdistys. Sen tavoitteena on tukea Citrix-ammattilaisten ja käyttäjien verkostoitumista, edistää tiedonvälitystä ja tarjota best practises-kokemuksia jäsenilleen järjestämällä erilaisia teemaseminaareja ja tapaamisia. Yhdistys on ensisijaisesti tarkoitettu henkilöille jotka työkseen kehittävät ja ylläpitävät Citrix- ympäristöjä.</description>
+	<lastBuildDate>Tue, 14 Nov 2017 10:11:41 +0000</lastBuildDate>
+	<language>fi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Nordic Webinaari: Citrix XenMobile integrated with Microsoft EMS</title>
+		<link>/2017/11/14/nordic-webinaari-citrix-xenmobile-integrated-microsoft-ems/</link>
+		
+		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
+		<pubDate>Tue, 14 Nov 2017 10:11:41 +0000</pubDate>
+				<category><![CDATA[Koulutus]]></category>
+		<category><![CDATA[Citrix]]></category>
+		<category><![CDATA[Webinaari]]></category>
+		<category><![CDATA[XenMobile]]></category>
+		<guid isPermaLink="false">/?p=2859</guid>
+
+					<description><![CDATA[<p>&#160;</p>
+<p>The post <a href="/2017/11/14/nordic-webinaari-citrix-xenmobile-integrated-microsoft-ems/">Nordic Webinaari: Citrix XenMobile integrated with Microsoft EMS</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://register.gotowebinar.com/register/6293369648074288643?utm_campaign=EMDK-1117-XA-XD-WebinarLive-NWPXMIntegratedWithMSEMS&amp;utm_medium=Email&amp;utm_source=NWPXMintegratedwithMSEMS&amp;utm_content=cta&amp;ctm_programid=emdk-1117-xa-xd-webinarlive-nwpxmintegratedwithmsems&amp;mkt_tok=eyJpIjoiWm1Ga1kyUTJPV0ZpWmpZMCIsInQiOiIzVFhcL0d1ZHh1QXdJaVNGZnd6elVsM2NaNUJ2VCtEcFdRVW5MWnhyb2t3Z0pkTG9QYmpYUVRqWWZrdEVCanFkU1wvcnJJWCtRU2JEMDJwaGdkelZQNXFPdEZ2U0U4NkdqQk1ESEJIZ29PeGg1dnAxXC9Ic3RGNkNTS05hdCtPcTRHMSJ9"><img fetchpriority="high" decoding="async" class="alignnone wp-image-2858 size-full" src="/wp-content/uploads/2017/11/webinariN.jpg" alt="" width="602" height="822" srcset="/wp-content/uploads/2017/11/webinariN.jpg 602w, /wp-content/uploads/2017/11/webinariN-220x300.jpg 220w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
+<hr />
+<p>&nbsp;</p>
+<p>The post <a href="/2017/11/14/nordic-webinaari-citrix-xenmobile-integrated-microsoft-ems/">Nordic Webinaari: Citrix XenMobile integrated with Microsoft EMS</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2859</post-id>	</item>
+	</channel>
+</rss>

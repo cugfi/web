@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CUG Archives &#8902; Citrix User Group Finland</title>
+	<atom:link href="/tag/cug/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/cug/</link>
+	<description>CUG.fi on voittoa tavoittelematon, yksityisten henkilöiden toimesta vuonna 2003 perustettu vapaaehtoisvoimin toimiva, rekisteröity yhdistys. Sen tavoitteena on tukea Citrix-ammattilaisten ja käyttäjien verkostoitumista, edistää tiedonvälitystä ja tarjota best practises-kokemuksia jäsenilleen järjestämällä erilaisia teemaseminaareja ja tapaamisia. Yhdistys on ensisijaisesti tarkoitettu henkilöille jotka työkseen kehittävät ja ylläpitävät Citrix- ympäristöjä.</description>
+	<lastBuildDate>Sat, 11 Mar 2017 20:59:52 +0000</lastBuildDate>
+	<language>fi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Vuosikokouskutsu</title>
+		<link>/2017/02/03/vuosikokouskutsu/</link>
+		
+		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
+		<pubDate>Fri, 03 Feb 2017 19:00:56 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[CUG]]></category>
+		<category><![CDATA[Tapahtuma]]></category>
+		<guid isPermaLink="false">/?p=2277</guid>
+
+					<description><![CDATA[<p>CUG.fi:n vuosikokous järjestetään maanantaina 20.2.2017 Espoossa. Vuosikokouksessa käsitellään sääntöjen mukaiset vuosikokousasiat ja valitaan hallitus vuodelle 2017. Vuosikokoukseen voivat osallistua kaikki jäsenet joiden tiedot löytyvät jäsenrekisteristä. <a class="mh-excerpt-more" href="/2017/02/03/vuosikokouskutsu/" title="Vuosikokouskutsu">[...]</a></p>
+<p>The post <a href="/2017/02/03/vuosikokouskutsu/">Vuosikokouskutsu</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>CUG.fi:n vuosikokous järjestetään maanantaina 20.2.2017 Espoossa.</p>
+<p>Vuosikokouksessa käsitellään sääntöjen mukaiset vuosikokousasiat ja valitaan hallitus vuodelle 2017.</p>
+<p>Vuosikokoukseen voivat osallistua kaikki jäsenet joiden tiedot löytyvät jäsenrekisteristä. Ilmoittaudu vuosikokoukseen alla olevalla lomakkeella. Ilmoittautuneille toimitamme tarkemmat tiedot ja kokousmateriaalin etukäteen sähköpostitse.</p>
+<p><em>Tervetuloa.</em></p>
+<p><em>CUG.fi Hallitus</em></p>
+<p>&nbsp;</p>
+<h3>Ilmoittaudun mukaan CUG.fi:n vuosikokoukseen 20.2.21017</h3>
+<p>Ilmoittautuminen on päättynyt.</p>
+<p>The post <a href="/2017/02/03/vuosikokouskutsu/">Vuosikokouskutsu</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2277</post-id>	</item>
+	</channel>
+</rss>

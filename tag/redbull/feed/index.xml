@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>RedBull Archives &#8902; Citrix User Group Finland</title>
+	<atom:link href="/tag/redbull/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/redbull/</link>
+	<description>CUG.fi on voittoa tavoittelematon, yksityisten henkilöiden toimesta vuonna 2003 perustettu vapaaehtoisvoimin toimiva, rekisteröity yhdistys. Sen tavoitteena on tukea Citrix-ammattilaisten ja käyttäjien verkostoitumista, edistää tiedonvälitystä ja tarjota best practises-kokemuksia jäsenilleen järjestämällä erilaisia teemaseminaareja ja tapaamisia. Yhdistys on ensisijaisesti tarkoitettu henkilöille jotka työkseen kehittävät ja ylläpitävät Citrix- ympäristöjä.</description>
+	<lastBuildDate>Thu, 30 Mar 2017 11:01:03 +0000</lastBuildDate>
+	<language>fi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Citrix &#038; RedBull F1 Racing RB13</title>
+		<link>/2017/03/12/citrix-redbull-f1-racing-rb13/</link>
+		
+		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
+		<pubDate>Sun, 12 Mar 2017 18:04:26 +0000</pubDate>
+				<category><![CDATA[Uutisjuttu]]></category>
+		<category><![CDATA[Citrix]]></category>
+		<category><![CDATA[RedBull]]></category>
+		<guid isPermaLink="false">/?p=2370</guid>
+
+					<description><![CDATA[<p>Tavoistaan poiketen Citrix mainostaa kuluvalla kaudella. Mainoksen uskoisi myös tavoittavan suomalaisen kohderyhmän hyvinkin. Se nimittäin löytyy RedBull Racing tiimin uusimman F1 auton RB13:n kyljestä. Kuskina <a class="mh-excerpt-more" href="/2017/03/12/citrix-redbull-f1-racing-rb13/" title="Citrix &#038; RedBull F1 Racing RB13">[...]</a></p>
+<p>The post <a href="/2017/03/12/citrix-redbull-f1-racing-rb13/">Citrix &#038; RedBull F1 Racing RB13</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Tavoistaan poiketen Citrix mainostaa kuluvalla kaudella. <a href="http://www.redbullracing.com/article/team-and-citrix-virtually-unstoppable">Mainoksen</a> uskoisi myös tavoittavan suomalaisen kohderyhmän hyvinkin. Se nimittäin löytyy <a href="https://fi.wikipedia.org/wiki/Red_Bull_Racing">RedBull Racing </a>tiimin uusimman F1 auton <a href="http://www.redbullracing.com/car/rb13">RB13</a>:n kyljestä. Kuskina autolla on australialainen <a href="https://fi.wikipedia.org/wiki/Daniel_Ricciardo">Daniel Ricciardo</a>.</p>
+<blockquote><p><strong><em>&#8221;Citrix and Red Bull are two global brands that share and believe in high-quality performance and innovation. The ability to take advantage of this innovative technological advantage is the difference between being on the podium or seeing from far away the victory of other teams. At Citrix, we&#8217;ve been delivering state-of-the-art technology to Red Bull Racing for ten years, and now we&#8217;re taking that productive relationship to the next level.</em></strong> <strong><em>&#8221;</em></strong></p>
+<p style="text-align: center;"><strong><em> </em></strong><strong><em>Kirill Tatarinov </em></strong></p>
+<p style="text-align: center;"><strong><em>President &amp; CEO Citrix</em></strong></p>
+</blockquote>
+<p style="text-align: center;"><iframe src="//www.youtube.com/embed/alNbtYs8m_Y" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: center;">
+<p>The post <a href="/2017/03/12/citrix-redbull-f1-racing-rb13/">Citrix &#038; RedBull F1 Racing RB13</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2370</post-id>	</item>
+	</channel>
+</rss>

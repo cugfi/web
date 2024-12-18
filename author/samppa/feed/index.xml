@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sami S., Author at Citrix User Group Finland</title>
+	<atom:link href="/author/samppa/feed/" rel="self" type="application/rss+xml" />
+	<link>/author/samppa/</link>
+	<description>CUG.fi on voittoa tavoittelematon, yksityisten henkilöiden toimesta vuonna 2003 perustettu vapaaehtoisvoimin toimiva, rekisteröity yhdistys. Sen tavoitteena on tukea Citrix-ammattilaisten ja käyttäjien verkostoitumista, edistää tiedonvälitystä ja tarjota best practises-kokemuksia jäsenilleen järjestämällä erilaisia teemaseminaareja ja tapaamisia. Yhdistys on ensisijaisesti tarkoitettu henkilöille jotka työkseen kehittävät ja ylläpitävät Citrix- ympäristöjä.</description>
+	<lastBuildDate>Tue, 01 Aug 2023 12:49:04 +0000</lastBuildDate>
+	<language>fi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>CUG.fi Aamiaistilaisuus 15.8.2023</title>
+		<link>/2023/08/01/cug-fi-aamiaistilaisuus-15-8-2023/</link>
+		
+		<dc:creator><![CDATA[Sami S.]]></dc:creator>
+		<pubDate>Tue, 01 Aug 2023 12:49:01 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=2978</guid>
+
+					<description><![CDATA[<p>Tervetuloa CUG.fi aamiaistilaisuuteen 15.8.2023 kello 9 alkaen hotelli Lilla Robertsiin! Yhdistys järjestää vapaamuotoisen info + keskustelutilaisuuden yhdistyksen toiminnasta ja sen tulevaisuudesta, maittavan aamiaisbuffetin yhteydessä. Tule <a class="mh-excerpt-more" href="/2023/08/01/cug-fi-aamiaistilaisuus-15-8-2023/" title="CUG.fi Aamiaistilaisuus 15.8.2023">[...]</a></p>
+<p>The post <a href="/2023/08/01/cug-fi-aamiaistilaisuus-15-8-2023/">CUG.fi Aamiaistilaisuus 15.8.2023</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Tervetuloa CUG.fi aamiaistilaisuuteen 15.8.2023 kello 9 alkaen hotelli Lilla Robertsiin!</p>
+
+
+
+<p>Yhdistys järjestää vapaamuotoisen info + keskustelutilaisuuden yhdistyksen toiminnasta ja sen tulevaisuudesta, maittavan aamiaisbuffetin yhteydessä. Tule näkemään pitkästä aikaa, myös uudet jäsenet tervetulleita! Citrixin edustus myös paikalla.</p>
+
+
+
+<p>Ilmoittautumiset 8.8. mennessä lomakkeen kautta <a href="https://forms.gle/vcfRBKBb3yzfZPPr8">https://forms.gle/vcfRBKBb3yzfZPPr8</a></p>
+
+
+
+<p></p>
+
+
+
+<p>Lisätiedot aamiaispaikasta:</p>
+
+
+
+<p>Osoite Pieni Roobertinkatu 1-3, Helsinki</p>
+
+
+
+<p>https://www.lillaroberts.com/kokoustilat/emmy</p>
+<p>The post <a href="/2023/08/01/cug-fi-aamiaistilaisuus-15-8-2023/">CUG.fi Aamiaistilaisuus 15.8.2023</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2978</post-id>	</item>
+	</channel>
+</rss>

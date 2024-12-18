@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Microsoft Archives &#8902; Citrix User Group Finland</title>
+	<atom:link href="/tag/microsoft/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/microsoft/</link>
+	<description>CUG.fi on voittoa tavoittelematon, yksityisten henkilöiden toimesta vuonna 2003 perustettu vapaaehtoisvoimin toimiva, rekisteröity yhdistys. Sen tavoitteena on tukea Citrix-ammattilaisten ja käyttäjien verkostoitumista, edistää tiedonvälitystä ja tarjota best practises-kokemuksia jäsenilleen järjestämällä erilaisia teemaseminaareja ja tapaamisia. Yhdistys on ensisijaisesti tarkoitettu henkilöille jotka työkseen kehittävät ja ylläpitävät Citrix- ympäristöjä.</description>
+	<lastBuildDate>Thu, 30 Mar 2017 11:04:30 +0000</lastBuildDate>
+	<language>fi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Ostaako Microsoft Citrixin?</title>
+		<link>/2017/03/29/ostaako-microsoft-citrixin/</link>
+		
+		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
+		<pubDate>Wed, 29 Mar 2017 12:58:09 +0000</pubDate>
+				<category><![CDATA[Uutisjuttu]]></category>
+		<category><![CDATA[Citrix]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<guid isPermaLink="false">/?p=2409</guid>
+
+					<description><![CDATA[<p>Kaupungilla on pitkään liikkunut sitkeä huhu että Citrix olisi kaupan kohteena ja todennäköisin ostajaehdokas olisi Microsoft. Amerikkalaisten talouslehtien mukaan oikeampi sanamuoto olisi kuitenkin että: Citrix <a class="mh-excerpt-more" href="/2017/03/29/ostaako-microsoft-citrixin/" title="Ostaako Microsoft Citrixin?">[...]</a></p>
+<p>The post <a href="/2017/03/29/ostaako-microsoft-citrixin/">Ostaako Microsoft Citrixin?</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img fetchpriority="high" decoding="async" class="alignnone size-medium wp-image-2405" src="/wp-content/uploads/2017/03/forsale-300x170.jpg" alt="" width="300" height="170" srcset="/wp-content/uploads/2017/03/forsale-300x170.jpg 300w, /wp-content/uploads/2017/03/forsale.jpg 467w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>Kaupungilla on pitkään liikkunut sitkeä huhu että Citrix olisi kaupan kohteena ja todennäköisin ostajaehdokas olisi Microsoft. Amerikkalaisten talouslehtien mukaan oikeampi sanamuoto olisi kuitenkin että: Citrix on myynnissä ja hakee ostajaa. Yhtiö on <a href="https://www.bloomberg.com/news/articles/2017-03-13/citrix-said-to-work-with-goldman-sachs-on-potential-sale-process">Bloomberg</a>in ja <a href="http://www.reuters.com/article/us-citrix-m-a-idUSKBN16K2MU">Reuters</a>in tietojen mukaan palkannut floridalaisen Goldman Sachs Groupin kartoittamaan strategisia vaihtoehtoja ja ostosta mahdollisesti kiinnostuneita liiketoimintatahoja, mukaan lukien pääomasijoitusyhtiöt.</p>
+<p>Reutersin raportti perustuu &#8221;asiasta perillä oleviin&#8221; lähteisiin, jotka kuitenkin haluavat pysytellä nimettöminä. Raportin mukaan monet yksityiset pääomasijoittajayritykset ovat harkinneet Citrixin ostoa, mutta todennet ettei velkarahalla hankittu Citrix välttämättä ole helppo saavuttaa saatika kannattava sijoitus. Poikkeuksena on Thoma Bravo LLC, joka on ilmoittanut edelleen olevan kiinnostunut asiasta. Toinen mahdollisuus on tietty useamman pääomasijoitusyhtiön konsortion yhdessä suorittama osto.</p>
+<p>Syitä Citrixin myyntihaluihin näyttää olevan uutistoimisto Reutersin mukaan pitkäjännitteiset institutionaaliset sijoittajat, jotka painostavat Citrixiä myymään tai purkamisen omaisuutta. Citrix luopuikin osasta tuotevalikoimaansa myymällä GoTo-tuoteperheensä 1,8 miljardin USD:n fuusiokaupalla LogMeln&#8217;ille viime vuonna.</p>
+<p>Hedgerahasto Elliot Management on pitkään painostanut Citrixiä leikkaamaan kulujaan ja myymään osia liiketoiminnastaan pois. Citrix päätyi antamaan Elliot Managementille paikan hallituksessaan vuoden 2015 keskivaiheilla. Elliot Management on tunnettu myös mm. aktiivisesta taustatyöstä Samsungin viime vuonna harkinnassa hajota kahdeksi eri yritykseksi.</p>
+<p>Vuosien mittaan Citrix on menestynyt vallan hyvin suhteellisen kapeassa teknologialokerossaan pysytellen edellä etätyöpöytä teknologioissa ja säilyttäen hyvät yhteistyösuhteet partnerinsa Microsoftin kanssa.</p>
+<p>Merkittävin uhkana Citrixin teknologialle nähdään vaihtoehtoiset menetelmät tiedon saantiin ja sen käyttöön. Mobiiliteetti ja pilviteknologia muuttavat markkinoita vauhdilla. Sovellusten muuntuminen SaaS-palveluiksi, muuntaa ne samalla myös monialustaisiksi tuotteiksi, jolloin ne menettävät niillä olleen Windows riippuvuutensa jolloin niitä voidaan käyttää natiivisti lähes miltä tahansa käyttöjärjestelmäalustalta pelkällä selaimella. Citrix hallitsee muuttuneen tilanteen, mutta joutuu samalla kohtaamaan kasvaneen kilpailun VMWaren ja Microsoftin työpöytä- ja palvelinvirtualisointi ratkaisuissa.</p>
+<figure id="attachment_2406" aria-describedby="caption-attachment-2406" style="width: 596px" class="wp-caption alignnone"><img decoding="async" class="wp-image-2406 size-full" src="/wp-content/uploads/2017/03/CTX_HQ_Florida.png" alt="" width="596" height="335" srcset="/wp-content/uploads/2017/03/CTX_HQ_Florida.png 596w, /wp-content/uploads/2017/03/CTX_HQ_Florida-300x169.png 300w" sizes="(max-width: 596px) 100vw, 596px" /><figcaption id="caption-attachment-2406" class="wp-caption-text">Citrixin pääkonttori</figcaption></figure>
+<p>&nbsp;</p>
+<p>Citrixin markkina-arvo on kasvanut 30% viimeisen 12 kk aikana, liikevaihdon ollessa 3,4 miljardia USD viime vuonna. Viimeviikkoina Citrixin osake on nousut 6,8 % 84,93 USDiin lehtikirjoittelun myötä.</p>
+<p>Muistissa on myös viime vuosien mittavat henkilökuntajärjestelyt.</p>
+<p>No, kyseessähän ei ole ensimmäinen kerta näille huhuille myyntiaikeista. Edellinen oli loppuvuonna 2015, jolloin mm. Dell oli otsikoissa yhtenä ostajakandidaattina. Citrixin sijaan Dell hankkikin EMC:n hintaan 67 miljardia USD. Tuolloinkin mahdollisina ostajakandidaatteina olivat myös pääomasijoitusyhtiöt.</p>
+<p>Nähtäväksi jää onko muilla teknologiatoimittajilla kiinnostusta ostaa Citrixin jäljellä oleva tuotevalikoima. Jos ostajakandidaatti on Dell -kaliiberia, kuten esim. Microsoft, voi kaupat syntyä nopeastikin. Epäilemättä ostoprosessi pohjaa Citrixin talouslukuihin. Viime vuoden viimeisen neljänneksen mukaan yhtiö on menossa oikeaan suuntaan 908 miljoonan USD:n tuloksella.</p>
+<p>Mutta palataan alun huhuun, jonka mukaan ostajana olisi juuri Microsoft.</p>
+<p>The Business Journals kertoi pari viikkoa sitten, että Redmond on vain yksi ostajakandidaatti muiden joukossa, mutta spekuloi neuvottelujen olevan käynnissä. Selvää näyttää olevan että Citrix myy, mutta haluaako Microsoft ostaa, on se olennainen kysymys.</p>
+<p>Huhut Microsoftin ostoaikeista Citrixin suhteen ovat yhtä vanhoja kuin yritysten tiivis yhteistyö. Entisen Microsoft laisen Kirill Tatarinovin valinta Citrixin toimitusjohtajaksi ei ainakaan vähentänyt spekulaatioita asian ympäriltä.</p>
+<p>Microsoft ja Citrix ovat tehneet tiivistä yhteistyötä jo yli 25 vuotta. Yhteistyöllä on yli 230.000 yhteistä suurasiakasta ja kymmeniä miljoonia yhteisiä käyttäjiä, jotka työskentelevät päivittäin yhteisellä alustalla.</p>
+<p>Microsoftin Windows 10, Office 365 ja Microsoft Azure tuotteet, samoin kuin Citrixin XenMobile, XenApp, XenDesktop, ShareFile, sekä NetScaler toimivat moitteitta hyvin yhteen.</p>
+<p>Citrix Microsoft partneriuus on rakennettu neljälle pääalueelle: pilvi, Office365, Windows 10 levitys, sekä käyttäjäkokemuksen kehittäminen sekä parantaminen mobiililaitteissa.</p>
+<p>Hankinta olisi hyvä myös kanavanäkökulmasta, sillä molempien asiakkaita yhdistää &#8221;pilvi ensin&#8221; -ajattelu, toisin kuin muilla suurilla, enemmänkin rautaan erikoistuneilla mahdollisilla ostajakandidaateilla, kuten Cisco, HP, tai Huawei.</p>
+<p>Virtualisointimarkkinoita tiiviisti seuraavan Brian Maddenin mukaan Microsoftin Citrix ostohuhut ovat toistuneet säännöllisesti ja erityisen voimakkaina viimeksi vuosina 2008 ja 2011. Yhdeksänkymmentäluvulla ne kuitattiin Maddenin mukaan: &#8221;Miksi ostaa lehmä, kun saa maitoa ilmaiseksi&#8221;- tyylisesti. Se olikin hyvä määritelmä vuosituhannen vaihteessa.</p>
+<p>&#8221;Microsoftin varsinainen kilpailija pelissä on VMWare&#8221; -sanoo Madden. &#8221;VMWaren paras skenaario Citrixin suhteen on tilanne, jossa Citrix pysyy omana itsenäisenä yrityksenä.&#8221; &#8221;Microsoft ei varmasti istua hiljaa paikallaan jos Citrix sukeltaa ja siten tarjoilee VMWarelle heidän parhaimman skenaarionsa toteutumisen&#8221; -Madden jatkaa. Väitteen aikana lokakuussa 2015 Madden sanoi Microsoftin ostavan Citrixin silloin kun heidän on pakko tehdä se, ei yhtään aiemmin. Nyt moni ajattelee sen päivän lopulta tuleen.<strong> </strong></p>
+<p><span style="font-size: 8pt;"><strong>Lähteet: </strong></span><span style="font-size: 8pt;">The Business Journals, Computerworld, ARN, Reuters, Bloomberg, Reuters &amp; Brian Madden.com</span></p>
+<p>&nbsp;</p>
+<p>The post <a href="/2017/03/29/ostaako-microsoft-citrixin/">Ostaako Microsoft Citrixin?</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2409</post-id>	</item>
+		<item>
+		<title>Citrix &#038; Microsoft – Road (to Cloud) Show</title>
+		<link>/2017/03/04/citrix-microsoft-road-to-cloud-show/</link>
+		
+		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
+		<pubDate>Sat, 04 Mar 2017 15:08:33 +0000</pubDate>
+				<category><![CDATA[Tapahtumat]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Tapahtuma]]></category>
+		<guid isPermaLink="false">/?p=2316</guid>
+
+					<description><![CDATA[<p>Citrix ja Microsoft ovat keskittyneet keskinäisen kilpailun sijaan tiiviiseen yhteistyöhön jo 25 vuoden ajan. Yhteistyön tarkoituksena on ollut varmistaa, että molempien toimijoiden ratkaisut täydentävät toisiaan ja integroituvat hyvin <a class="mh-excerpt-more" href="/2017/03/04/citrix-microsoft-road-to-cloud-show/" title="Citrix &#038; Microsoft – Road (to Cloud) Show">[...]</a></p>
+<p>The post <a href="/2017/03/04/citrix-microsoft-road-to-cloud-show/">Citrix &#038; Microsoft – Road (to Cloud) Show</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" class="alignnone wp-image-2315 size-full" src="/wp-content/uploads/2017/03/CTX_MS_RoadShow.jpg" alt="" width="717" height="278" srcset="/wp-content/uploads/2017/03/CTX_MS_RoadShow.jpg 717w, /wp-content/uploads/2017/03/CTX_MS_RoadShow-300x116.jpg 300w" sizes="(max-width: 717px) 100vw, 717px" /></p>
+<p>Citrix ja Microsoft ovat keskittyneet keskinäisen kilpailun sijaan tiiviiseen yhteistyöhön jo 25 vuoden ajan. Yhteistyön tarkoituksena on ollut varmistaa, että molempien toimijoiden ratkaisut täydentävät toisiaan ja integroituvat hyvin keskenään. Citrix XenApp ja XenDesktop Essentials korvaavat Microsoftin RemoteAppin. Netscaler integroitui EMS:iin, ja tulossa on lisäksi mielenkiintoisia uutisia mm. Intune ja XenMobile integraatiosta. Tule kuulemaan, mitä Citrixin ja Microsoftin yhteistyö mahdollistaa sinun liiketoiminnallesi!</p>
+<p><strong>Agenda:</strong><br />
+09.00 Tervetuloa! Tutkimustietoa ja näkymiä tulevaisuuteen<br />
+09.15 Microsoft &amp; Citrix – Match made in Cloud<br />
+09.30 Avoin pilvialusta<br />
+10.00 Tauko<br />
+10.10 Citrix-ratkaisut nopeasti ja helposti käyttöön Azuresta<br />
+10.40 Toteutusmahdollisuuksia<br />
+11.20 Tietoturvaa, pääsynhallintaa ja parempaa käyttökokemusta Azure-palveluihin Citrix NetScalerilla<br />
+11.45 Yhteenveto &amp; miten kannattaisi edetä?</p>
+<p><strong>Paikkakunnat:</strong><br />
+28.3. Espoo, Microsoft-talo</p>
+<p>29.3. Tampere, Sokos Hotel Torni</p>
+<p>11.4. Oulu, Sokos Hotel Arina</p>
+<p>12.4. Kuopio, Scandic Kuopio</p>
+<p><a href="http://app.emarketeer.com/ext/form/survey.php?m=239439af5e2287747e4ba41be3dcf816325b33f&amp;sessid=v1--dublLwOc9F7yJ0VcMWnXLL~NcLJa1RR&amp;page=1"><strong>Ilmoittaudu mukaan &gt;</strong></a></p>
+<p>&nbsp;</p>
+<p>The post <a href="/2017/03/04/citrix-microsoft-road-to-cloud-show/">Citrix &#038; Microsoft – Road (to Cloud) Show</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2316</post-id>	</item>
+	</channel>
+</rss>

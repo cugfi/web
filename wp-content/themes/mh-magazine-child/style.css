@@ -1,0 +1,294 @@
+/*
+Theme Name: mh-magazine-child
+Template: mh-magazine-lite
+
+2651a0 blu
+0090da cyan
+*/
+
+h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    color: #0090da;
+}
+
+a:hover {
+  color: #0090DA;
+}
+
+.mh-widget-title {
+    border-bottom: 3px solid #2651a0;
+}
+
+.mh-copyright-wrap {
+    border-top: 3px solid #0090da;
+    background: #2651a0;
+}
+
+.mh-copyright, .mh-copyright a {
+    color: #FFF;
+}
+
+.mh-main-nav {
+    border-bottom: 5px solid #0090da;
+}
+
+.mh-main-nav-wrap {
+    background: #2651a0;
+}
+
+.mh-main-nav li a {
+    color: #fff;
+    border-left: 1px solid rgba(255, 255, 255, 0.1);
+font-weight: normal;
+}
+
+.mh-main-nav li a:hover, .mh-main-nav li:hover {
+  background-color: #0090DA;
+}
+
+.mh-main-nav .menu > .current-menu-item {
+    background: #0090DA;
+}
+
+input[type="text"]:hover, input[type="email"]:hover, input[type="tel"]:hover, input[type="url"]:hover, textarea:hover {
+    border: 1px solid #0090DA;
+}
+
+.bypostauthor .mh-comment-meta {
+    border-bottom: 2px solid #2651A0;
+}
+
+input[type="submit"] {
+    background: #0090DA;
+}
+
+.required {
+    color: #0090DA;
+}
+
+.mh-meta a:hover, .mh-footer .mh-meta a:hover, .entry-content a, .entry-content a:hover {
+    color: #0090DA;
+}
+
+.slicknav_menu {
+    border-bottom: 1px solid #0090DA;
+    background: #2651A0;
+}
+
+.slicknav_btn {
+    background: #2651A0;
+}
+
+.slicknav_nav ul {
+    border-top: 1px solid #0090DA;
+}
+
+.slicknav_nav .slicknav_item:hover, .slicknav_nav a:hover {
+    color: #fff;
+    background: #0090DA;
+}
+
+.mh-loop-content {
+	width: 80%;
+	float: right;
+	padding-left: 2%;
+	box-sizing: border-box;
+}
+
+.mh-loop-thumb {
+	width: 20%;
+	margin-right: 0px;
+}
+
+.mh-loop-content h3 {
+	font-size: 1rem;
+}
+
+.mh-loop-thumb img {
+    max-width: 130px;
+}
+
+.mh-loop-excerpt p {
+	font-size: 0.9em;
+	text-align: justify;
+}
+
+.hungryfeed_item .hungry_item_title {
+	font-size: 1rem;
+}
+
+.hungryfeed_item .hungry_item_description {
+	font-size: 0.9em;
+	text-align: justify;
+}
+
+.entry-thumbnail {
+    display: none;
+}
+
+.entry-header h1 {
+	font-size: 1.5rem;
+}
+
+.entry-content {
+    text-align: justify;
+}
+
+.page-title {
+    padding: 10px 0px;
+    background: #FFF;
+}
+
+.mh-home-area-4 {
+    width: 100%;
+}
+
+.mh-home-area-5 {
+    width: 100%;
+    margin-left: 0px;
+}
+
+.mh-widget.mh-home-4 {
+	width: 30%;
+	float: left;
+	padding-right: 2%;
+}
+
+p.mh-copyright {
+    display: inline-block;
+}
+
+.footerSearch {
+    width: 30%;
+    float: right;
+}
+
+.footerSearch input[type="submit"] {
+    padding: 5px 10px;
+    min-width: 75px;
+    font-weight: normal;
+}
+
+a.loginlink {
+    float: right;
+    color: #4671C0;
+}
+
+.mh-custom-posts-item.mh-custom-posts-small {
+    width: 48%;
+    padding: 10px 0;
+    border: none;
+    display: inline-block;
+    margin-right: 1%;
+}
+
+.navigation-icon img {
+    width: 28px;
+}
+
+.navigation-socialmedia {
+	float: right;
+	padding-top: 5px;
+}
+
+.navigation-feedback {
+    display: inline-block;
+	padding-top: 5px;
+}
+
+.navigation-icon {
+    display: inline-block;
+	padding-right: 5px;
+}
+
+.navigation-flag {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 28px;
+	margin-left: 20px;
+	width: 28px;
+}
+
+.entry-meta-categories, .entry-meta-comments, .mh-meta-comments {
+    DISPLAY: NONE;
+}
+
+.wp-polls-ans {
+    padding-top: 10px;
+}
+
+body {
+	font-size: 0.8rem;
+}
+
+.form-group {
+    padding: 5px 0px;
+}
+
+.media-checkbox span.wpcf7-list-item {
+    display: block;
+}
+
+.mh-header-image {
+    padding: 10px;
+}
+
+.entry-tags .fa, .entry-tags li:hover {
+    background: #2651a0;
+}
+
+/* Temporarily remove tapahtumat feed from frontpage */
+div#rss-4 {
+    display: none;
+}
+
+.mh-widget.mh-home-4 {
+    width: 48%;
+}
+
+.mh-home-area-4 {
+    margin-left: 0;
+}
+
+.navigation-icon:hover img {
+    opacity: 0.7;
+}
+
+.wp-polls .Buttons {
+    padding:10px;
+}
+
+.wp-polls p {
+    text-align: left !important;
+    padding-left: 10px;
+}
+
+.mh-widget .tagcloud a {
+    background: #2651a0;
+}
+
+.tagcloud a:hover, .mh-widget .tagcloud a:hover, .mh-footer-widget .tagcloud a:hover {
+    color: #fff;
+    background: #0090DA;
+}
+
+@media screen and (max-width: 768px) {
+	.mh-custom-posts-item.mh-custom-posts-small {
+	    width: 100%;
+	    padding: 20px 0;
+	}
+    .footerSearch {
+        width: 100%;
+    }
+
+    .footerSearch input[type=text] {
+        width: 70%;
+    }
+
+    a.navigation-icon {
+        float: left;
+    }
+
+    .mh-widget.mh-home-4 {
+        width: 100%;
+    }
+}

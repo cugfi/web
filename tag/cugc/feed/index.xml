@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CUGC Archives &#8902; Citrix User Group Finland</title>
+	<atom:link href="/tag/cugc/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/cugc/</link>
+	<description>CUG.fi on voittoa tavoittelematon, yksityisten henkilöiden toimesta vuonna 2003 perustettu vapaaehtoisvoimin toimiva, rekisteröity yhdistys. Sen tavoitteena on tukea Citrix-ammattilaisten ja käyttäjien verkostoitumista, edistää tiedonvälitystä ja tarjota best practises-kokemuksia jäsenilleen järjestämällä erilaisia teemaseminaareja ja tapaamisia. Yhdistys on ensisijaisesti tarkoitettu henkilöille jotka työkseen kehittävät ja ylläpitävät Citrix- ympäristöjä.</description>
+	<lastBuildDate>Thu, 30 Mar 2017 10:59:24 +0000</lastBuildDate>
+	<language>fi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>CUGC -tapahtumia</title>
+		<link>/2017/03/21/cugc-tapahtumia/</link>
+		
+		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
+		<pubDate>Tue, 21 Mar 2017 14:19:39 +0000</pubDate>
+				<category><![CDATA[CUGC]]></category>
+		<guid isPermaLink="false">/?p=2390</guid>
+
+					<description><![CDATA[<p>Register For Free Today! Stay ahead of the curve with our Connect and User Share webinars. Hear from fellow members and industry experts, see the latest demos, ask <a class="mh-excerpt-more" href="/2017/03/21/cugc-tapahtumia/" title="CUGC -tapahtumia">[...]</a></p>
+<p>The post <a href="/2017/03/21/cugc-tapahtumia/">CUGC -tapahtumia</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><center class="wrapper"><a href="http://www.mycugc.org/" target="_blank"><img fetchpriority="high" decoding="async" class="img-responsive" src="https://www.mycugc.org/media/tzzyyjzb.jpg" alt="" width="585" height="219" /></a></center></p>
+<table class="one-col">
+<tbody>
+<tr>
+<td class="padded">
+<h3><strong><span style="font-family: 'Arial',sans-serif; font-size: 16pt;">Register For Free Today!</span></strong></h3>
+<p>Stay ahead of the curve with our <a href="https://www.mycugc.org/page/cugc-connect-ex?source=5" target="_blank">Connect</a> and <a href="https://www.mycugc.org/page/usershare-ex?source=5" target="_blank">User Share</a> webinars. Hear from fellow members and industry experts, see the latest demos, ask questions and join the independent discussion.</p>
+<hr />
+<p>&nbsp;</p>
+<h3><img decoding="async" class="img-responsive" src="https://www.mycugc.org/media/ttzgtvws.jpg" alt="" width="121" height="79" border="0" /></h3>
+<p>&nbsp;</p>
+<p align="center"><span class="fsxl"><strong><span style="font-family: 'Arial',sans-serif; font-size: 16pt;">Connect: Unified Endpoint Management in a Citrix Virtual World</span></strong></span></p>
+<p align="center"><span style="font-family: 'Arial',sans-serif; font-size: 16pt;">Wednesday, March 22, 2017</span></p>
+<p align="center"><span style="font-family: 'Arial',sans-serif; font-size: 16pt;">1:00 PM – 2:00 PM EDT</span></p>
+<p align="center"><img decoding="async" src="https://www.mycugc.org/media/fxsptshp.jpg" alt="" width="113" height="151" /><img loading="lazy" decoding="async" src="https://www.mycugc.org/media/nbglcpsw.jpg" alt="" width="120" height="150" /></p>
+<p><strong>Presenters</strong>: Douglas Brown, Global Technology Evangelist, IGEL &amp; Simon Clephan, VP Business Development and Strategic Alliances, IGEL</p>
+<p><strong>Member Moderator</strong>: Eduardo Molina, CTP and Cincinnati CUGC Leader</p>
+<p><strong>What</strong>: Learn about the importance of a unified endpoint management strategy for any Citrix XenApp/XenDesktop deployment. Presentation will include live attendee Q&amp;A and details about IGEL&#8217;s Tesla giveaway.</p>
+<p><strong><a href="http://bit.ly/2l15Ocz" target="_blank">Full Details and Registration</a></strong></p>
+<hr />
+<p>&nbsp;</p>
+<h3></h3>
+<p>&nbsp;</p>
+<p align="center"><span class="fsxl"><strong><span style="font-family: 'Arial',sans-serif; font-size: 16pt;">User Share: Best Practices for Citrix with App-V</span></strong></span></p>
+<p align="center"><span style="font-family: 'Arial',sans-serif; font-size: 16pt;">Thursday, March 23, 2017</span></p>
+<p align="center"><span style="font-family: 'Arial',sans-serif; font-size: 16pt;">1:00 PM – 2:00 PM EDT</span></p>
+<p align="center"><span style="font-family: 'Arial',sans-serif; font-size: 16pt;"><img loading="lazy" decoding="async" src="https://www.mycugc.org/media/pgdhrxmq.jpg" alt="" width="141" height="141" /></span></p>
+<p><center><center></center></center><strong>Presenter</strong>: Tim Mangan, CTP and Boston CUGC Leader</p>
+<p><strong>Member Moderator</strong>: Tobias Kreidl, CTP and CUGC Steering Committee</p>
+<p><strong>What</strong>: Everything you need to know about deploying App-V in a Citrix environment in the various XenApp &amp; XenDeskop versions. Presentation will include live attendee Q&amp;A.</p>
+<p><strong><a href="http://bit.ly/2lJ6fs0" target="_blank">Full Details and Registration</a></strong></p>
+<hr />
+<p>&nbsp;</p>
+<h3></h3>
+<p>&nbsp;</p>
+<p align="center"><span class="fsxl"><strong><span style="font-family: 'Arial',sans-serif; font-size: 16pt;">User Share: State &amp; Local Govt. SIG–Washington State DOT NetScaler Discussion and Case Study</span></strong></span></p>
+<p align="center"><span style="font-family: 'Arial',sans-serif; font-size: 16pt;">Wednesday, March 29, 2017</span></p>
+<p align="center"><span style="font-family: 'Arial',sans-serif; font-size: 16pt;">2:00 PM – 3:30 PM EDT</span></p>
+<p align="center"><span style="font-family: 'Arial',sans-serif; font-size: 16pt;"><img loading="lazy" decoding="async" src="https://www.mycugc.org/media/ugrlctzmz.jpg" alt="" width="140" height="140" /></span></p>
+<p><center><center></center></center><strong>Presenter</strong>: Aaron Hutchinson, Washington State DOT and State &amp; Local Govt. SIG Leader</p>
+<p><strong>Member Discussion Panelists</strong>: John Flanagan, Wake County, NC Government and State &amp; Local Govt. SIG Leader, with Andy Whiteside, Charlotte CUGC</p>
+<p><strong>What</strong>: Find out how the Washington State Department of Transportation used Citrix NetScaler to replace their older load balancing equipment and ease the burden on their expansive web server infrastructure. Discussion-style presentation will include live attendee Q&amp;A.</p>
+<p><strong><a href="http://bit.ly/2n1cSqa" target="_blank">Full Details and Registration</a></strong></p>
+<hr />
+<p>&nbsp;</p>
+<h3></h3>
+<p>&nbsp;</p>
+<p align="center"><span class="fsxl"><strong><span style="font-family: 'Arial',sans-serif; font-size: 16pt;"><img loading="lazy" decoding="async" src="https://www.mycugc.org/media/nmsgljwk.jpg" alt="" width="255" height="32" /></span></strong></span></p>
+<p align="center"><span class="fsxl"><strong><span style="font-family: 'Arial',sans-serif; font-size: 16pt;">Connect: Citrix XenServer Runs on Enterprise Cloud</span></strong></span></p>
+<p align="center"><span style="font-family: 'Arial',sans-serif; font-size: 16pt;">Thursday, April 6, 2017</span></p>
+<p align="center"><span style="font-family: 'Arial',sans-serif; font-size: 16pt;">1:00 PM – 2:00 PM EDT</span></p>
+<p align="center"><span style="font-family: 'Arial',sans-serif; font-size: 16pt;"><img loading="lazy" decoding="async" src="https://www.mycugc.org/media/ddgtqkxb.jpg" alt="" width="140" height="140" /></span></p>
+<p><center><center></center></center><strong>Presenter</strong>: Stephen Duckaert, Product Manager, Nutanix</p>
+<p><strong>Member Moderator</strong>: Mike Nelson, CTP</p>
+<p><strong>What</strong>: Find out about new features for XenServer 7 on Nutanix, including graphics support, tighter Windows integration and increased security. Presentation will include a customer case study, as well as Q&amp;A from attendees.</p>
+<p><img loading="lazy" decoding="async" src="https://www.mycugc.org/media/gyyxqkkp.jpg" alt="" width="125" height="60" /></p>
+<p>Participants also have the chance to win a $100 Amazon gift card from Nutanix by opting-in at registration.</p>
+<p><strong><a href="http://bit.ly/2nwbXkZ" target="_blank">Full Details and Registration</a></strong></p>
+<hr />
+<p>&nbsp;</p>
+<h3></h3>
+<p>&nbsp;</p>
+<p align="center"><span class="fsxl"><strong><span style="font-family: 'Arial',sans-serif; font-size: 16pt;">User Share: Windows 10 on XenDesktop Part 2–Universal Apps Platform &amp; File Type Associations</span></strong></span></p>
+<p align="center"><span style="font-family: 'Arial',sans-serif; font-size: 16pt;">Wednesday, April 19, 2017</span></p>
+<p align="center"><span style="font-family: 'Arial',sans-serif; font-size: 16pt;">1:00 PM – 2:00 PM EDT</span></p>
+<p align="center"><span style="font-family: 'Arial',sans-serif; font-size: 16pt;"><img loading="lazy" decoding="async" src="https://www.mycugc.org/media/lbxmwmny.jpg" alt="" width="140" height="140" /></span></p>
+<p><center><center></center></center><strong>Presenter</strong>: James Rankin, CTA</p>
+<p><strong>Member Moderator</strong>: Andrew Wood, CTP and UK CUGC Steering Committee Member</p>
+<p><strong>What</strong>: Following up on the first discussion about the major changes that IT organizations notice with Windows 10 (editions, servicing branches and migration considerations), James will move on to the Microsoft&#8217;s Universal Windows Apps platform and then the problem of File Type Associations. Presentation will include live attendee Q&amp;A.</p>
+<p><strong><a href="http://bit.ly/2lYULQX" target="_blank">Full Details and Registration</a></strong></p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p align="center"><strong><span style="font-family: 'Arial',sans-serif; font-size: 16pt;">Save the Date! More User Shares Coming Soon:</span></strong></p>
+<p>&nbsp;</p>
+<p><strong>Healthcare &amp; Networking SIGs: NetScaler Solutions for Novant Healthcare – Wednesday, May 3 at 2:00PM EDT</strong></p>
+<p><strong>Lab it Up! With Citrix Unidesk Part 2: PVS – Thursday, May 4, Time TBA</strong></p>
+<hr />
+<p align="center"><em><span style="font-family: 'Arial',sans-serif; font-size: 16pt;">Miss a Recent Webinar?</span></em></p>
+<p>You&#8217;re in luck! Recordings of our <a href="https://www.mycugc.org/p/do/si/topic=232&amp;source=5" target="_blank">Connect</a> and <a href="https://www.mycugc.org/p/do/si/topic=210&amp;source=5" target="_blank">User Share</a> webinars are always available under the <a href="https://www.mycugc.org/p/do/in/?source=5" target="_blank">Files</a> tab at <a href="https://www.mycugc.org/?source=5" target="_blank">myCUGC.org</a>. Check out our most recent recordings:</p>
+<p><a href="http://bit.ly/2mhGRvP" target="_blank">CUGC User Share: Lab it Up! With Citrix Unidesk (03/02/17)<br />
+</a>(<em>And don&#8217;t miss the extensive Q&amp;A from this webinar in the <a href="https://www.mycugc.org/p/fo/st/thread=1703&amp;source=5" target="_blank">CUGC Events forum</a>!</em>)</p>
+<p><a href="https://www.mycugc.org/p/do/sd/sid=224&amp;source=5" target="_blank">CUGC Connect: Liquidware Labs ProfileDisk and Profile Portability (03/01/17)</a></p>
+<p><a href="http://bit.ly/2mndDgu" target="_blank">CUGC Connect: Introducing Citrix Unidesk–Citrix App Layering Discussion and Demo (02/23/17)</a></p>
+<hr />
+<p align="center"><em><span style="font-family: 'Arial',sans-serif; font-size: 16pt;">Don&#8217;t Forget to Cast Your Vote!</span></em></p>
+<p><a href="http://bit.ly/2mttTI7" target="_blank"><img loading="lazy" decoding="async" class="img-responsive" src="https://www.mycugc.org/media/ymjnqfvn.jpg" alt="" width="450" height="189" /></a></p>
+<p>The response to our first-ever t-shirt design was fantastic! Now, it&#8217;s up to YOU to choose the winning design from our three finalists. Voting closes on March 30, 2017. <strong><a href="http://bit.ly/2mttTI7" target="_blank">Vote Now!</a></strong></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2><a href="https://www.mycugc.org/?source=5" target="_blank"><img loading="lazy" decoding="async" src="https://www.mycugc.org/media/lhhvjtzc.png" alt="" width="538" height="77" /></a></h2>
+<p><em>© 2017 Citrix User Group Community</em></p>
+<p>The post <a href="/2017/03/21/cugc-tapahtumia/">CUGC -tapahtumia</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2390</post-id>	</item>
+	</channel>
+</rss>

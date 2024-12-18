@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Webinaari Archives &#8902; Citrix User Group Finland</title>
+	<atom:link href="/tag/webinaari/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/webinaari/</link>
+	<description>CUG.fi on voittoa tavoittelematon, yksityisten henkilöiden toimesta vuonna 2003 perustettu vapaaehtoisvoimin toimiva, rekisteröity yhdistys. Sen tavoitteena on tukea Citrix-ammattilaisten ja käyttäjien verkostoitumista, edistää tiedonvälitystä ja tarjota best practises-kokemuksia jäsenilleen järjestämällä erilaisia teemaseminaareja ja tapaamisia. Yhdistys on ensisijaisesti tarkoitettu henkilöille jotka työkseen kehittävät ja ylläpitävät Citrix- ympäristöjä.</description>
+	<lastBuildDate>Wed, 13 Dec 2017 14:14:03 +0000</lastBuildDate>
+	<language>fi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Nordic Webinar Program: tallennetut 2017 webinaarit</title>
+		<link>/2017/12/13/nordic-webinar-program-tallennetut-2017-webinaarit/</link>
+		
+		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
+		<pubDate>Wed, 13 Dec 2017 14:13:38 +0000</pubDate>
+				<category><![CDATA[Webinaari]]></category>
+		<guid isPermaLink="false">/?p=2873</guid>
+
+					<description><![CDATA[<p>Jäikö joku yhteispohjoismaisen webinaarisarjan webinaareista näkemättä? Alla olevassa listasta löydät kaikki vuoden 2017 aikana pidettyjen webinaarien tallenteet. Voit katsoa ne kun sinulle parhaiten sopii. Jokainen <a class="mh-excerpt-more" href="/2017/12/13/nordic-webinar-program-tallennetut-2017-webinaarit/" title="Nordic Webinar Program: tallennetut 2017 webinaarit">[...]</a></p>
+<p>The post <a href="/2017/12/13/nordic-webinar-program-tallennetut-2017-webinaarit/">Nordic Webinar Program: tallennetut 2017 webinaarit</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<table width="600">
+<tbody>
+<tr>
+<td width="600"></td>
+</tr>
+<tr>
+<td width="600"></td>
+</tr>
+<tr>
+<td width="600">Jäikö joku yhteispohjoismaisen webinaarisarjan webinaareista näkemättä? Alla olevassa listasta löydät kaikki vuoden 2017 aikana pidettyjen webinaarien tallenteet. Voit katsoa ne kun sinulle parhaiten sopii. Jokainen niistä kestää noin 60 minuuttia ja vetäjinä toimii Citrixin pohjoismainen asiantuntijatiimi.</p>
+<ul>
+<li>&#8221;Azure Remote App EOL – The Future with XA Express&#8221; – <a href="https://attendee.gotowebinar.com/recording/1259588811176151810">recording</a></li>
+<li>&#8221;Be ready for GDPR with Citrix Sharefile&#8221; – <a href="https://attendee.gotowebinar.com/recording/3304721120928056577">recording</a></li>
+<li>&#8221;Citrix App Layering (former Unidesk)&#8221; – <a href="https://attendee.gotowebinar.com/recording/2323127717380030466">recording</a></li>
+<li>&#8221;Azure Remote App EOL – The Future with XA Express&#8221; – <a href="https://attendee.gotowebinar.com/recording/6377618626666768643">recording</a></li>
+<li>&#8221;Securely deliver a consistent user experience with SD-WAN&#8221; – <a href="https://attendee.gotowebinar.com/recording/8870788730482927874">recording</a></li>
+<li>&#8221;Introduction to Citrix NetScaler Management and Analytics System (NMAS)&#8221; – <a href="https://attendee.gotowebinar.com/recording/3130988389525686785">recording</a></li>
+<li>&#8221;SecMaker &amp; Citrix – Smarta kort i en Citrix miljö&#8221; – <a href="https://attendee.gotowebinar.com/recording/8996978581399373058">recording</a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p><img fetchpriority="high" decoding="async" class="aligncenter wp-image-1975 size-full" src="/wp-content/uploads/2016/05/Webinar.jpg" alt="" width="549" height="338" /></p>
+<hr />
+<p>&nbsp;</p>
+<p>The post <a href="/2017/12/13/nordic-webinar-program-tallennetut-2017-webinaarit/">Nordic Webinar Program: tallennetut 2017 webinaarit</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2873</post-id>	</item>
+		<item>
+		<title>Webinaari: Taking charge of the GDPR</title>
+		<link>/2017/11/14/webinaari-taking-charge-gdpr/</link>
+		
+		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
+		<pubDate>Tue, 14 Nov 2017 10:18:44 +0000</pubDate>
+				<category><![CDATA[Koulutus]]></category>
+		<category><![CDATA[Webinaari]]></category>
+		<category><![CDATA[GDPR]]></category>
+		<guid isPermaLink="false">/?p=2865</guid>
+
+					<description><![CDATA[<p>&#160;</p>
+<p>The post <a href="/2017/11/14/webinaari-taking-charge-gdpr/">Webinaari: Taking charge of the GDPR</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://insight.scmagazineuk.com/taking-charge-of-the-gdpr?utm_source=americasemail%20&amp;mkt_tok=eyJpIjoiT0RWbFkyRXlPREkwWW1SaCIsInQiOiJBT1JsXC9zU1FoUWVrVkNtSkVlVUYrd25JbW9ldFo5YksxVDZPSXY2VjFsNjZIeHdLbjYyaGo1SVFSWVYyd2htSE1wdDRxbVwvZVpTWEhycWJGQ1VEMmNCZnNBUmhiTUhOSm5IMHRrS2RzdnFwczNpNWcwN011NDBUN3FhWWRBeGM0In0="><img decoding="async" class="aligncenter wp-image-2864 size-full" src="/wp-content/uploads/2017/11/GDPR_webinar.jpg" alt="" width="600" height="711" srcset="/wp-content/uploads/2017/11/GDPR_webinar.jpg 600w, /wp-content/uploads/2017/11/GDPR_webinar-253x300.jpg 253w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<hr />
+<p>&nbsp;</p>
+<p>The post <a href="/2017/11/14/webinaari-taking-charge-gdpr/">Webinaari: Taking charge of the GDPR</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2865</post-id>	</item>
+		<item>
+		<title>Nordic Webinaari: Citrix XenMobile integrated with Microsoft EMS</title>
+		<link>/2017/11/14/nordic-webinaari-citrix-xenmobile-integrated-microsoft-ems/</link>
+		
+		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
+		<pubDate>Tue, 14 Nov 2017 10:11:41 +0000</pubDate>
+				<category><![CDATA[Koulutus]]></category>
+		<category><![CDATA[Citrix]]></category>
+		<category><![CDATA[Webinaari]]></category>
+		<category><![CDATA[XenMobile]]></category>
+		<guid isPermaLink="false">/?p=2859</guid>
+
+					<description><![CDATA[<p>&#160;</p>
+<p>The post <a href="/2017/11/14/nordic-webinaari-citrix-xenmobile-integrated-microsoft-ems/">Nordic Webinaari: Citrix XenMobile integrated with Microsoft EMS</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://register.gotowebinar.com/register/6293369648074288643?utm_campaign=EMDK-1117-XA-XD-WebinarLive-NWPXMIntegratedWithMSEMS&amp;utm_medium=Email&amp;utm_source=NWPXMintegratedwithMSEMS&amp;utm_content=cta&amp;ctm_programid=emdk-1117-xa-xd-webinarlive-nwpxmintegratedwithmsems&amp;mkt_tok=eyJpIjoiWm1Ga1kyUTJPV0ZpWmpZMCIsInQiOiIzVFhcL0d1ZHh1QXdJaVNGZnd6elVsM2NaNUJ2VCtEcFdRVW5MWnhyb2t3Z0pkTG9QYmpYUVRqWWZrdEVCanFkU1wvcnJJWCtRU2JEMDJwaGdkelZQNXFPdEZ2U0U4NkdqQk1ESEJIZ29PeGg1dnAxXC9Ic3RGNkNTS05hdCtPcTRHMSJ9"><img decoding="async" class="alignnone wp-image-2858 size-full" src="/wp-content/uploads/2017/11/webinariN.jpg" alt="" width="602" height="822" srcset="/wp-content/uploads/2017/11/webinariN.jpg 602w, /wp-content/uploads/2017/11/webinariN-220x300.jpg 220w" sizes="(max-width: 602px) 100vw, 602px" /></a></p>
+<hr />
+<p>&nbsp;</p>
+<p>The post <a href="/2017/11/14/nordic-webinaari-citrix-xenmobile-integrated-microsoft-ems/">Nordic Webinaari: Citrix XenMobile integrated with Microsoft EMS</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2859</post-id>	</item>
+		<item>
+		<title>Nordic Webinar Program</title>
+		<link>/2017/04/26/nordic-webinar-program/</link>
+		
+		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
+		<pubDate>Wed, 26 Apr 2017 09:03:05 +0000</pubDate>
+				<category><![CDATA[Tapahtumat]]></category>
+		<category><![CDATA[NetScaler]]></category>
+		<category><![CDATA[Webinaari]]></category>
+		<guid isPermaLink="false">/?p=2561</guid>
+
+					<description><![CDATA[<p>Nordic Webinar Program: Improve end user experience using Citrix NetScaler SD-WAN Are your bandwidth demands growing faster than your telecom budget? As more desktops, applications, <a class="mh-excerpt-more" href="/2017/04/26/nordic-webinar-program/" title="Nordic Webinar Program">[...]</a></p>
+<p>The post <a href="/2017/04/26/nordic-webinar-program/">Nordic Webinar Program</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" class="alignnone wp-image-2509 size-full" src="/wp-content/uploads/2017/04/Nordic-Desktop.jpg" alt="" width="650" height="250" srcset="/wp-content/uploads/2017/04/Nordic-Desktop.jpg 650w, /wp-content/uploads/2017/04/Nordic-Desktop-300x115.jpg 300w" sizes="(max-width: 650px) 100vw, 650px" /></p>
+<h2>Nordic Webinar Program: Improve end user experience using Citrix NetScaler SD-WAN</h2>
+<p>Are your bandwidth demands growing faster than your telecom budget? As more desktops, applications, and services move into the cloud, reliance on the wide area network (WAN) is higher than ever—outages are no longer acceptable.</p>
+<p>Citrix NetScaler SD-WAN is a fully integrated platform that virtualizes enterprise WANs to help you reduce bandwidth requirements, increase application performance, simplify branch office networking and gain flexibility through a hybrid WAN architecture.</p>
+<p><strong>This webinar targets companies that:</strong><br />
+•Have poor connectivity to users at remove offices<br />
+•Are looking into establishing new offices in or out of country<br />
+•Require increasing WAN capacity because of higher usage<br />
+•Wants to ensure quality of service across the WAN<br />
+•Looks into reducing MPMLS cost</p>
+<p>Join us on this webinar targeted towards technical decision makers.</p>
+<p><strong><a href="http://mkto.deliver.citrix.com/E080M0MEBbb0H0QK3P06T0T" target="_blank" rel="noopener noreferrer">Register for the webinar here</a></strong></p>
+<pre><strong>Date</strong> 18 May
+<strong>Time</strong> 10.00 - 11.00 CET
+<strong>Speaker </strong>Jimmy Sandberg Senior System Engineer,Citrix
+This webinar will be held in English</pre>
+<p>The post <a href="/2017/04/26/nordic-webinar-program/">Nordic Webinar Program</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2561</post-id>	</item>
+		<item>
+		<title>Tässä teille DABCC:n listaamana vaihteeksi Goliath Technologies&#8217;in Citrix aiheisia webinaareja:</title>
+		<link>/2017/04/05/tassa-teille-dabccn-listaamana-vaihteeksi-goliath-technologiesin-citrix-aiheisia-webinaareja/</link>
+		
+		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
+		<pubDate>Wed, 05 Apr 2017 14:40:30 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[DABCC]]></category>
+		<category><![CDATA[Goliath Technologies]]></category>
+		<category><![CDATA[Webinaari]]></category>
+		<guid isPermaLink="false">/?p=2448</guid>
+
+					<description><![CDATA[<p>How to Troubleshoot &#38; Fix the Root Cause of High Citrix ICA Latency on HDX Channels Wednesday, April 5th at 12:30 pm ET &#124; 9:30 <a class="mh-excerpt-more" href="/2017/04/05/tassa-teille-dabccn-listaamana-vaihteeksi-goliath-technologiesin-citrix-aiheisia-webinaareja/" title="Tässä teille DABCC:n listaamana vaihteeksi Goliath Technologies&#8217;in Citrix aiheisia webinaareja:">[...]</a></p>
+<p>The post <a href="/2017/04/05/tassa-teille-dabccn-listaamana-vaihteeksi-goliath-technologiesin-citrix-aiheisia-webinaareja/">Tässä teille DABCC:n listaamana vaihteeksi Goliath Technologies&#8217;in Citrix aiheisia webinaareja:</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="http://dabcc.us5.list-manage.com/track/click?u=beced98deb964ca9941f6c9d0&amp;id=9b2d99bbec&amp;e=2afa373c7a"><strong>How to Troubleshoot &amp; Fix the Root Cause of High Citrix ICA Latency on HDX Channels</strong></a><a href="http://dabcc.us5.list-manage.com/track/click?u=beced98deb964ca9941f6c9d0&amp;id=9b2d99bbec&amp;e=2afa373c7a"><img loading="lazy" decoding="async" class="wp-image-1975 alignleft" src="/wp-content/uploads/2016/05/Webinar.jpg" alt="" width="297" height="183" /></a><strong><br />
+</strong>Wednesday, April 5th at 12:30 pm ET | 9:30 am PT</p>
+<p>On the free webinar, a Citrix Engineer will hold a live ICA latency troubleshooting session, showing you how to get real-time performance metrics on any of the 50 Citrix HDX channels <a href="http://dabcc.us5.list-manage1.com/track/click?u=beced98deb964ca9941f6c9d0&amp;id=2ab9d139de&amp;e=2afa373c7a">REGISTER NOW</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="http://dabcc.us5.list-manage.com/track/click?u=beced98deb964ca9941f6c9d0&amp;id=61ad2187b3&amp;e=2afa373c7a"><strong>How To Troubleshoot Your Entire Infrastructure with Citrix NetScaler by Using Real-Time Alerts, Performance Dashboards &amp; Historical Reports</strong></a><br />
+Thursday, April 6th at 12:30 pm ET | 9:30 am PT</p>
+<p>On this free live webinar, a Citrix Networking Expert will show you how to realize the full potential of the NetScaler ADC by leveraging deep analytical data produced by Goliath for NetScaler 4.0 for performance tuning, troubleshooting, real-time alerting and unrestricted historical reporting. <a href="http://dabcc.us5.list-manage.com/track/click?u=beced98deb964ca9941f6c9d0&amp;id=ab26db9c9b&amp;e=2afa373c7a">REGISTER NOW</a></p>
+<p><a href="http://dabcc.us5.list-manage.com/track/click?u=beced98deb964ca9941f6c9d0&amp;id=1b865cec6f&amp;e=2afa373c7a"><strong>How to Migrate From Citrix 6.5 to 7.x &amp; Replace EdgeSight</strong></a><br />
+Wednesday, April 12th at 12:30 pm ET | 9:30 am PT</p>
+<p>During this free webinar series, two Citrix Virtualization Experts will lead forum-based sessions focused on the key considerations and action steps required to migrate from 6.5 to 7.x and successfully replace Citrix EdgeSight. <a href="http://dabcc.us5.list-manage.com/track/click?u=beced98deb964ca9941f6c9d0&amp;id=b2658b9d7b&amp;e=2afa373c7a">REGISTER NOW</a><br />
+<a href="http://dabcc.us5.list-manage.com/track/click?u=beced98deb964ca9941f6c9d0&amp;id=b69f3d1f93&amp;e=2afa373c7a"><strong>The Citrix Logon Process: How it Works &amp; How to Troubleshoot XA/XD Logon Issues</strong></a><strong><br />
+</strong>Thursday, April 13th at 12:30 pm ET | 9:30 am PT</p>
+<p>On this free live webinar, a Citrix Virtualization Expert will walk you through the key technical points from our Citrix Logon Troubleshooting Guide so you can understand how to resolve logon slowness and failures. <a href="http://dabcc.us5.list-manage2.com/track/click?u=beced98deb964ca9941f6c9d0&amp;id=4fe2df5ed0&amp;e=2afa373c7a">REGISTER NOW</a><br />
+<a href="http://dabcc.us5.list-manage.com/track/click?u=beced98deb964ca9941f6c9d0&amp;id=516a59811e&amp;e=2afa373c7a"><br />
+<strong>How to Proactively Prevent Citrix Logon Issues &amp; Improve the End User Experience</strong></a><br />
+Thursday, April 20th at 12:30 pm ET | 9:30 am PT</p>
+<p>On this free live webinar, you will see how to proactively prevent Citrix logon slowness and failure issues before end users are affected by using Citrix Ready technology that tests and confirms end user logons and launches of business-critical apps will occur when needed. <a href="http://dabcc.us5.list-manage1.com/track/click?u=beced98deb964ca9941f6c9d0&amp;id=a8de574bbb&amp;e=2afa373c7a">REGISTER NOW</a></p>
+<p>The post <a href="/2017/04/05/tassa-teille-dabccn-listaamana-vaihteeksi-goliath-technologiesin-citrix-aiheisia-webinaareja/">Tässä teille DABCC:n listaamana vaihteeksi Goliath Technologies&#8217;in Citrix aiheisia webinaareja:</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2448</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tatarinov Archives &#8902; Citrix User Group Finland</title>
+	<atom:link href="/tag/tatarinov/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/tatarinov/</link>
+	<description>CUG.fi on voittoa tavoittelematon, yksityisten henkilöiden toimesta vuonna 2003 perustettu vapaaehtoisvoimin toimiva, rekisteröity yhdistys. Sen tavoitteena on tukea Citrix-ammattilaisten ja käyttäjien verkostoitumista, edistää tiedonvälitystä ja tarjota best practises-kokemuksia jäsenilleen järjestämällä erilaisia teemaseminaareja ja tapaamisia. Yhdistys on ensisijaisesti tarkoitettu henkilöille jotka työkseen kehittävät ja ylläpitävät Citrix- ympäristöjä.</description>
+	<lastBuildDate>Wed, 26 Apr 2017 12:54:21 +0000</lastBuildDate>
+	<language>fi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Tatarinov ei kommentoinut myyntihuhuja</title>
+		<link>/2017/04/26/tatarinov-ei-kommentoinut-myyntihuhuja/</link>
+		
+		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
+		<pubDate>Wed, 26 Apr 2017 12:54:21 +0000</pubDate>
+				<category><![CDATA[Talous]]></category>
+		<category><![CDATA[Uutisjuttu]]></category>
+		<category><![CDATA[Citrix]]></category>
+		<category><![CDATA[Tatarinov]]></category>
+		<guid isPermaLink="false">/?p=2566</guid>
+
+					<description><![CDATA[<p>Huhut Citrixin flirttailusta mahdollisen ostajan löytymiseksi eivät ole mitään uutta, kertoo yhtiön CIO Kirill Tatarinov. &#8221;Olemme ajan mittaan oppineet kehittämään vastustuskyvyn huhuille voidaksemme keskittyä bisneksen <a class="mh-excerpt-more" href="/2017/04/26/tatarinov-ei-kommentoinut-myyntihuhuja/" title="Tatarinov ei kommentoinut myyntihuhuja">[...]</a></p>
+<p>The post <a href="/2017/04/26/tatarinov-ei-kommentoinut-myyntihuhuja/">Tatarinov ei kommentoinut myyntihuhuja</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Huhut Citrixin flirttailusta mahdollisen ostajan löytymiseksi eivät ole mitään uutta, kertoo yhtiön CIO <strong>Kirill Tatarinov</strong>. <em>&#8221;Olemme ajan mittaan oppineet kehittämään vastustuskyvyn huhuille voidaksemme keskittyä bisneksen tekoon ja kurssissa pysymiseen&#8221; </em>-kertoi Tatarinov TechTarget julkaisulle.</p>
+<p>Citrix ilmoitti viime viikolla palkkaavansa Irlannin toimipisteeseensä 150 uutta työntekijää myyntiin ja tekniseen tukeen. Yhtiö kertoi Euroopan toimipisteiden kasvun olevan osa sen muutosta pilviteknologiatuottajaksi. Kotona Yhdysvalloissa Citrix on ottanut agressiivisemman otteen työpöytä- ja sovellusvirtuaalisointisektoriin päivittämällä XenDesktop ja  XenApp -tuotelinjojaan monasti kuluneen vuoden aikana.</p>
+<p>Citrix palkkasi Microsoftilla pitkään  johtajana työskennelleen Tatarinovin toimitusjohtajakseen vuonna 2016.  &#8221;<em>Kun onnistut nykyisessä aallossa tulee sinusta itseriittoinen ja missaat seuraavan aallon&#8221;</em> -sanoi Tatarinov marraskuussa Leadership Broward’s  Serving Up Leadership -tilaisuudessa.  <em>&#8221;Microsoft epäonnistui pilvisofta aallossa ja myös Citrix epäonnistui. Pilviteknologia on tärkein nykyisistä teknologiatrendeistä ja se muokkaa Citrixiä tällä hetkellä.&#8221;</em></p>
+<p>Yhtiönä Citrix on johdonmukaisesti kieltäytynyt kommentoimasta myyntihuhuja.</p>
+<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-2406 size-full" src="/wp-content/uploads/2017/03/CTX_HQ_Florida.png" alt="" width="596" height="335" srcset="/wp-content/uploads/2017/03/CTX_HQ_Florida.png 596w, /wp-content/uploads/2017/03/CTX_HQ_Florida-300x169.png 300w" sizes="(max-width: 596px) 100vw, 596px" /></p>
+<p><span style="font-size: 10pt;"><em><strong>Citrixin pääkonttori</strong></em></span></p>
+<p>The post <a href="/2017/04/26/tatarinov-ei-kommentoinut-myyntihuhuja/">Tatarinov ei kommentoinut myyntihuhuja</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2566</post-id>	</item>
+	</channel>
+</rss>

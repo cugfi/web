@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Goliath Technologies Archives &#8902; Citrix User Group Finland</title>
+	<atom:link href="/tag/goliath-technologies/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/goliath-technologies/</link>
+	<description>CUG.fi on voittoa tavoittelematon, yksityisten henkilöiden toimesta vuonna 2003 perustettu vapaaehtoisvoimin toimiva, rekisteröity yhdistys. Sen tavoitteena on tukea Citrix-ammattilaisten ja käyttäjien verkostoitumista, edistää tiedonvälitystä ja tarjota best practises-kokemuksia jäsenilleen järjestämällä erilaisia teemaseminaareja ja tapaamisia. Yhdistys on ensisijaisesti tarkoitettu henkilöille jotka työkseen kehittävät ja ylläpitävät Citrix- ympäristöjä.</description>
+	<lastBuildDate>Wed, 05 Apr 2017 14:56:46 +0000</lastBuildDate>
+	<language>fi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Tässä teille DABCC:n listaamana vaihteeksi Goliath Technologies&#8217;in Citrix aiheisia webinaareja:</title>
+		<link>/2017/04/05/tassa-teille-dabccn-listaamana-vaihteeksi-goliath-technologiesin-citrix-aiheisia-webinaareja/</link>
+		
+		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
+		<pubDate>Wed, 05 Apr 2017 14:40:30 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[DABCC]]></category>
+		<category><![CDATA[Goliath Technologies]]></category>
+		<category><![CDATA[Webinaari]]></category>
+		<guid isPermaLink="false">/?p=2448</guid>
+
+					<description><![CDATA[<p>How to Troubleshoot &#38; Fix the Root Cause of High Citrix ICA Latency on HDX Channels Wednesday, April 5th at 12:30 pm ET &#124; 9:30 <a class="mh-excerpt-more" href="/2017/04/05/tassa-teille-dabccn-listaamana-vaihteeksi-goliath-technologiesin-citrix-aiheisia-webinaareja/" title="Tässä teille DABCC:n listaamana vaihteeksi Goliath Technologies&#8217;in Citrix aiheisia webinaareja:">[...]</a></p>
+<p>The post <a href="/2017/04/05/tassa-teille-dabccn-listaamana-vaihteeksi-goliath-technologiesin-citrix-aiheisia-webinaareja/">Tässä teille DABCC:n listaamana vaihteeksi Goliath Technologies&#8217;in Citrix aiheisia webinaareja:</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="http://dabcc.us5.list-manage.com/track/click?u=beced98deb964ca9941f6c9d0&amp;id=9b2d99bbec&amp;e=2afa373c7a"><strong>How to Troubleshoot &amp; Fix the Root Cause of High Citrix ICA Latency on HDX Channels</strong></a><a href="http://dabcc.us5.list-manage.com/track/click?u=beced98deb964ca9941f6c9d0&amp;id=9b2d99bbec&amp;e=2afa373c7a"><img fetchpriority="high" decoding="async" class="wp-image-1975 alignleft" src="/wp-content/uploads/2016/05/Webinar.jpg" alt="" width="297" height="183" /></a><strong><br />
+</strong>Wednesday, April 5th at 12:30 pm ET | 9:30 am PT</p>
+<p>On the free webinar, a Citrix Engineer will hold a live ICA latency troubleshooting session, showing you how to get real-time performance metrics on any of the 50 Citrix HDX channels <a href="http://dabcc.us5.list-manage1.com/track/click?u=beced98deb964ca9941f6c9d0&amp;id=2ab9d139de&amp;e=2afa373c7a">REGISTER NOW</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="http://dabcc.us5.list-manage.com/track/click?u=beced98deb964ca9941f6c9d0&amp;id=61ad2187b3&amp;e=2afa373c7a"><strong>How To Troubleshoot Your Entire Infrastructure with Citrix NetScaler by Using Real-Time Alerts, Performance Dashboards &amp; Historical Reports</strong></a><br />
+Thursday, April 6th at 12:30 pm ET | 9:30 am PT</p>
+<p>On this free live webinar, a Citrix Networking Expert will show you how to realize the full potential of the NetScaler ADC by leveraging deep analytical data produced by Goliath for NetScaler 4.0 for performance tuning, troubleshooting, real-time alerting and unrestricted historical reporting. <a href="http://dabcc.us5.list-manage.com/track/click?u=beced98deb964ca9941f6c9d0&amp;id=ab26db9c9b&amp;e=2afa373c7a">REGISTER NOW</a></p>
+<p><a href="http://dabcc.us5.list-manage.com/track/click?u=beced98deb964ca9941f6c9d0&amp;id=1b865cec6f&amp;e=2afa373c7a"><strong>How to Migrate From Citrix 6.5 to 7.x &amp; Replace EdgeSight</strong></a><br />
+Wednesday, April 12th at 12:30 pm ET | 9:30 am PT</p>
+<p>During this free webinar series, two Citrix Virtualization Experts will lead forum-based sessions focused on the key considerations and action steps required to migrate from 6.5 to 7.x and successfully replace Citrix EdgeSight. <a href="http://dabcc.us5.list-manage.com/track/click?u=beced98deb964ca9941f6c9d0&amp;id=b2658b9d7b&amp;e=2afa373c7a">REGISTER NOW</a><br />
+<a href="http://dabcc.us5.list-manage.com/track/click?u=beced98deb964ca9941f6c9d0&amp;id=b69f3d1f93&amp;e=2afa373c7a"><strong>The Citrix Logon Process: How it Works &amp; How to Troubleshoot XA/XD Logon Issues</strong></a><strong><br />
+</strong>Thursday, April 13th at 12:30 pm ET | 9:30 am PT</p>
+<p>On this free live webinar, a Citrix Virtualization Expert will walk you through the key technical points from our Citrix Logon Troubleshooting Guide so you can understand how to resolve logon slowness and failures. <a href="http://dabcc.us5.list-manage2.com/track/click?u=beced98deb964ca9941f6c9d0&amp;id=4fe2df5ed0&amp;e=2afa373c7a">REGISTER NOW</a><br />
+<a href="http://dabcc.us5.list-manage.com/track/click?u=beced98deb964ca9941f6c9d0&amp;id=516a59811e&amp;e=2afa373c7a"><br />
+<strong>How to Proactively Prevent Citrix Logon Issues &amp; Improve the End User Experience</strong></a><br />
+Thursday, April 20th at 12:30 pm ET | 9:30 am PT</p>
+<p>On this free live webinar, you will see how to proactively prevent Citrix logon slowness and failure issues before end users are affected by using Citrix Ready technology that tests and confirms end user logons and launches of business-critical apps will occur when needed. <a href="http://dabcc.us5.list-manage1.com/track/click?u=beced98deb964ca9941f6c9d0&amp;id=a8de574bbb&amp;e=2afa373c7a">REGISTER NOW</a></p>
+<p>The post <a href="/2017/04/05/tassa-teille-dabccn-listaamana-vaihteeksi-goliath-technologiesin-citrix-aiheisia-webinaareja/">Tässä teille DABCC:n listaamana vaihteeksi Goliath Technologies&#8217;in Citrix aiheisia webinaareja:</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2448</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Podcast Archives &#8902; Citrix User Group Finland</title>
+	<atom:link href="/tag/podcast/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/podcast/</link>
+	<description>CUG.fi on voittoa tavoittelematon, yksityisten henkilöiden toimesta vuonna 2003 perustettu vapaaehtoisvoimin toimiva, rekisteröity yhdistys. Sen tavoitteena on tukea Citrix-ammattilaisten ja käyttäjien verkostoitumista, edistää tiedonvälitystä ja tarjota best practises-kokemuksia jäsenilleen järjestämällä erilaisia teemaseminaareja ja tapaamisia. Yhdistys on ensisijaisesti tarkoitettu henkilöille jotka työkseen kehittävät ja ylläpitävät Citrix- ympäristöjä.</description>
+	<lastBuildDate>Thu, 30 Mar 2017 11:06:03 +0000</lastBuildDate>
+	<language>fi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Citrixin CEO Kirill Tatarinov -reikäkorteista 3D tulevaisuuteen</title>
+		<link>/2017/03/04/citrixin-ceo-kirill-tatarinov-reikakorteista-3d-tulevaisuuteen/</link>
+		
+		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
+		<pubDate>Sat, 04 Mar 2017 14:20:40 +0000</pubDate>
+				<category><![CDATA[Henkilöt]]></category>
+		<category><![CDATA[Citrix]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<guid isPermaLink="false">/?p=2304</guid>
+
+					<description><![CDATA[<p>Kuuntele Podcast 22 min: Citrixin toimitusjohtajana toimiva Kirill Tatarinov on seurannut alan kehitystä lähes alusta asti. Nuorena poikana Neuvostoliitossa hän ohjelmoi reikäkorteilla toimivia tietokoneita ja <a class="mh-excerpt-more" href="/2017/03/04/citrixin-ceo-kirill-tatarinov-reikakorteista-3d-tulevaisuuteen/" title="Citrixin CEO Kirill Tatarinov -reikäkorteista 3D tulevaisuuteen">[...]</a></p>
+<p>The post <a href="/2017/03/04/citrixin-ceo-kirill-tatarinov-reikakorteista-3d-tulevaisuuteen/">Citrixin CEO Kirill Tatarinov -reikäkorteista 3D tulevaisuuteen</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" class="alignnone wp-image-2303" src="/wp-content/uploads/2017/03/podcast-image.jpg" alt="" width="103" height="103" srcset="/wp-content/uploads/2017/03/podcast-image.jpg 300w, /wp-content/uploads/2017/03/podcast-image-150x150.jpg 150w" sizes="(max-width: 103px) 100vw, 103px" /></p>
+<p>Kuuntele Podcast 22 min:</p>
+<p>Citrixin toimitusjohtajana toimiva Kirill Tatarinov on seurannut alan kehitystä lähes alusta asti.</p>
+<p>Nuorena poikana Neuvostoliitossa hän ohjelmoi reikäkorteilla toimivia tietokoneita ja nyt Citrixin toimitusjohtajana hän on mukana luomassa tietojenkäsittelyn tulevaisuutta. Hänen visionsa tulevaisuudesta on selkeä: meidän tulisi valmistautua seuraavaan suureen käyttöliittymämuutokseen 3D:n tuloon. &#8221;<em>Olemme aina katsoneet käyttöliittymää kuin se olisi paperiarkki, mutta uudet teknologiat vievät sen uusiin ulottuvuuksiin</em>&#8221; -kertoo Tatarinov.</p>
+<p>Tatarinovin visiota on mielenkiintoista kuunnella, onhan hän ollut alalla sen alkuhämärästä asti. Uransa alussa pyöritti hän vuosien ajan omaa startuppiaan siirtyen Microsoftin palvelukseen juuri silloin kun IT siirtyi keskuskoneista PC työasemiin. Nykyisessä tehtävässään Citrixillä ohjaa hän yritystä seuraavaan evoluutiovaiheeseen.</p>
+<p><strong>Technotopia</strong> on podcast paremmasta tulevaisuudesta. Se on tilattavissa <a href="http://www.stitcher.com/podcast/technotopia/e/episode-47-kirill-tatarinov-49164218">Stitcher</a> tai <a href="https://itunes.apple.com/us/podcast/technotopia/id1076105764?mt=2">iTunes</a> palveluiden kautta tai ladattavissa MP3 muodossa tämän <a href="http://www.stitcher.com/podcast/technotopia/e/episode-47-kirill-tatarinov-49164218">linkin</a> kautta.</p>
+<p><span style="font-size: 8pt;"><strong>2.3.2017 Liekovuo</strong></span></p>
+<p>The post <a href="/2017/03/04/citrixin-ceo-kirill-tatarinov-reikakorteista-3d-tulevaisuuteen/">Citrixin CEO Kirill Tatarinov -reikäkorteista 3D tulevaisuuteen</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2304</post-id>	</item>
+	</channel>
+</rss>

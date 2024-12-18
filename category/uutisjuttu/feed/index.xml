@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uutisjuttu Archives &#8902; Citrix User Group Finland</title>
+	<atom:link href="/category/uutisjuttu/feed/" rel="self" type="application/rss+xml" />
+	<link>/category/uutisjuttu/</link>
+	<description>CUG.fi on voittoa tavoittelematon, yksityisten henkilöiden toimesta vuonna 2003 perustettu vapaaehtoisvoimin toimiva, rekisteröity yhdistys. Sen tavoitteena on tukea Citrix-ammattilaisten ja käyttäjien verkostoitumista, edistää tiedonvälitystä ja tarjota best practises-kokemuksia jäsenilleen järjestämällä erilaisia teemaseminaareja ja tapaamisia. Yhdistys on ensisijaisesti tarkoitettu henkilöille jotka työkseen kehittävät ja ylläpitävät Citrix- ympäristöjä.</description>
+	<lastBuildDate>Tue, 20 Jun 2017 12:05:59 +0000</lastBuildDate>
+	<language>fi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Uuden IT-turvallisuusarkkitehtuurin tarve</title>
+		<link>/2017/06/20/uuden-turvallisuusarkkitehtuurin-tarve/</link>
+		
+		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
+		<pubDate>Tue, 20 Jun 2017 11:35:01 +0000</pubDate>
+				<category><![CDATA[Tietoturva]]></category>
+		<category><![CDATA[Tutkimus]]></category>
+		<category><![CDATA[Uutisjuttu]]></category>
+		<category><![CDATA[Ponemon]]></category>
+		<guid isPermaLink="false">/?p=2606</guid>
+
+					<description><![CDATA[<p>Citrixin ja Ponemon Instituten  maailmanlaajuisessa tutkimuksessa haastateltiin 4 268 IT-alan ja IT-turvallisuusalan työntekijää 14 maassa. 69 prosenttia vastaajista uskoo organisaatioidensa olemassa olevien turvallisuusratkaisuiden olevan vanhentuneita <a class="mh-excerpt-more" href="/2017/06/20/uuden-turvallisuusarkkitehtuurin-tarve/" title="Uuden IT-turvallisuusarkkitehtuurin tarve">[...]</a></p>
+<p>The post <a href="/2017/06/20/uuden-turvallisuusarkkitehtuurin-tarve/">Uuden IT-turvallisuusarkkitehtuurin tarve</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h4>Citrixin ja <strong><a href="https://www.ponemon.org/">Ponemon Instituten</a></strong>  maailmanlaajuisessa tutkimuksessa haastateltiin 4 268 IT-alan ja IT-turvallisuusalan työntekijää 14 maassa. 69 prosenttia vastaajista uskoo organisaatioidensa olemassa olevien turvallisuusratkaisuiden olevan vanhentuneita ja riittämättömiä.</h4>
+<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-2616 size-full" src="/wp-content/uploads/2017/06/password-security1.jpg" alt="" width="870" height="261" srcset="/wp-content/uploads/2017/06/password-security1.jpg 870w, /wp-content/uploads/2017/06/password-security1-300x90.jpg 300w, /wp-content/uploads/2017/06/password-security1-768x230.jpg 768w" sizes="(max-width: 870px) 100vw, 870px" /></p>
+<p>Kyberhyökkäyksiä tapahtuu joka minuutti – ja meidän alallamme niitä ei yleensä käsitellä riittävän hyvin. Ymmärtääkseen paremmin syitä Citrix yhdisti voimansa Ponemon Instituten tutkijoiden kanssa ja selvitti, mikä estää yrityksiä kohtaamasta turvallisuusuhkia asianmukaisella tavalla. Lue, mitä saimme selville ja kuinka yritykset voivat suojata arkaluontoisimpia tietojaan fiksuin keinoin – kasvavasta hyökkäysmäärästä huolimatta.</p>
+<h5><strong>Osa 1: Uuden IT-turvallisuusarkkitehtuurin tarve</strong><br />
+Raportti kertoo:</h5>
+<ul>
+<li>IT-turvallisuuden maailmanlaajuiset trendit</li>
+<li>Turvallisuusriskit, joista sinun täytyy tietää</li>
+<li>Kyberrikollisuuden hallinta, häirintäteknologiat ja organisaatiokohtaiset tekijät</li>
+</ul>
+<p><strong><a href="https://www.citrix.com/content/dam/citrix/en_us/documents/analyst-report/ponemon-security-study-compliance-challenges.pdf">Lataa ja lue</a></strong> raportti</p>
+<p><strong><a href="https://www.citrix.com/blogs/2017/01/10/ninety-nine-problems-and-security-is-the-biggest-one/">Citrix-blogi:</a></strong> <strong>99 ongelmaa ja niistä suurin on turvallisuus</strong></p>
+<h5><strong>Osa 2: Vanhentuneen teknologian aiheuttamat riskit</strong><br />
+Raportti kertoo:</h5>
+<ul>
+<li>Mikä on päällimmäisenä mielessä uutta IT-turvallisuuskehystä suunniteltaessa</li>
+<li>Tärkeimmät asiat, jotka tekevät organisaatioista haavoittuvaisia</li>
+<li>Kuinka vanhentuneet turvallisuusteknologiat aiheuttavat riskejä yrityksille</li>
+</ul>
+<p><a href="https://www.citrix.com/content/dam/citrix/en_us/documents/analyst-report/ponemon-institute-security-study-outdated-technology-risks.pdf">Lataa ja lue</a> raportti<br />
+<strong><a href="https://www.citrix.com/blogs/2017/02/07/the-need-for-a-new-it-security-architecture-global-study-on-the-risk-of-outdated-technologies">Citrix-blogi:</a> Uuden IT-turvallisuusarkkitehtuurin tarve: Maailmanlaajuinen tutkimus vanhentuneen teknologian riskeistä</strong></p>
+<h5><strong>Osa 3: Vaatimustenmukaisuuden haasteet ja turvallisuuden tehokkuus työpaikoilla</strong></h5>
+<p>Raportti kertoo:</p>
+<ul>
+<li>Turvallisuustehokkuuden trendit työpaikoilla</li>
+<li>Huolia yleisten tietosuojasäädösten (GDPR) noudattamisesta</li>
+<li>Sukupolvien välisten erojen aiheuttamat riskit työpaikoilla</li>
+</ul>
+<p><a href="https://www.citrix.com/content/dam/citrix/en_us/documents/analyst-report/ponemon-security-study-compliance-challenges.pdf">Lataa ja lue</a> raportti</p>
+<p><img decoding="async" class="alignnone wp-image-2613 size-full" src="/wp-content/uploads/2017/06/cloud-security1.jpeg" alt="" width="600" height="315" srcset="/wp-content/uploads/2017/06/cloud-security1.jpeg 600w, /wp-content/uploads/2017/06/cloud-security1-300x158.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<hr />
+<p>&nbsp;</p>
+<p>The post <a href="/2017/06/20/uuden-turvallisuusarkkitehtuurin-tarve/">Uuden IT-turvallisuusarkkitehtuurin tarve</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2606</post-id>	</item>
+		<item>
+		<title>Tatarinov ei kommentoinut myyntihuhuja</title>
+		<link>/2017/04/26/tatarinov-ei-kommentoinut-myyntihuhuja/</link>
+		
+		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
+		<pubDate>Wed, 26 Apr 2017 12:54:21 +0000</pubDate>
+				<category><![CDATA[Talous]]></category>
+		<category><![CDATA[Uutisjuttu]]></category>
+		<category><![CDATA[Citrix]]></category>
+		<category><![CDATA[Tatarinov]]></category>
+		<guid isPermaLink="false">/?p=2566</guid>
+
+					<description><![CDATA[<p>Huhut Citrixin flirttailusta mahdollisen ostajan löytymiseksi eivät ole mitään uutta, kertoo yhtiön CIO Kirill Tatarinov. &#8221;Olemme ajan mittaan oppineet kehittämään vastustuskyvyn huhuille voidaksemme keskittyä bisneksen <a class="mh-excerpt-more" href="/2017/04/26/tatarinov-ei-kommentoinut-myyntihuhuja/" title="Tatarinov ei kommentoinut myyntihuhuja">[...]</a></p>
+<p>The post <a href="/2017/04/26/tatarinov-ei-kommentoinut-myyntihuhuja/">Tatarinov ei kommentoinut myyntihuhuja</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Huhut Citrixin flirttailusta mahdollisen ostajan löytymiseksi eivät ole mitään uutta, kertoo yhtiön CIO <strong>Kirill Tatarinov</strong>. <em>&#8221;Olemme ajan mittaan oppineet kehittämään vastustuskyvyn huhuille voidaksemme keskittyä bisneksen tekoon ja kurssissa pysymiseen&#8221; </em>-kertoi Tatarinov TechTarget julkaisulle.</p>
+<p>Citrix ilmoitti viime viikolla palkkaavansa Irlannin toimipisteeseensä 150 uutta työntekijää myyntiin ja tekniseen tukeen. Yhtiö kertoi Euroopan toimipisteiden kasvun olevan osa sen muutosta pilviteknologiatuottajaksi. Kotona Yhdysvalloissa Citrix on ottanut agressiivisemman otteen työpöytä- ja sovellusvirtuaalisointisektoriin päivittämällä XenDesktop ja  XenApp -tuotelinjojaan monasti kuluneen vuoden aikana.</p>
+<p>Citrix palkkasi Microsoftilla pitkään  johtajana työskennelleen Tatarinovin toimitusjohtajakseen vuonna 2016.  &#8221;<em>Kun onnistut nykyisessä aallossa tulee sinusta itseriittoinen ja missaat seuraavan aallon&#8221;</em> -sanoi Tatarinov marraskuussa Leadership Broward’s  Serving Up Leadership -tilaisuudessa.  <em>&#8221;Microsoft epäonnistui pilvisofta aallossa ja myös Citrix epäonnistui. Pilviteknologia on tärkein nykyisistä teknologiatrendeistä ja se muokkaa Citrixiä tällä hetkellä.&#8221;</em></p>
+<p>Yhtiönä Citrix on johdonmukaisesti kieltäytynyt kommentoimasta myyntihuhuja.</p>
+<p><img decoding="async" class="alignnone wp-image-2406 size-full" src="/wp-content/uploads/2017/03/CTX_HQ_Florida.png" alt="" width="596" height="335" srcset="/wp-content/uploads/2017/03/CTX_HQ_Florida.png 596w, /wp-content/uploads/2017/03/CTX_HQ_Florida-300x169.png 300w" sizes="(max-width: 596px) 100vw, 596px" /></p>
+<p><span style="font-size: 10pt;"><em><strong>Citrixin pääkonttori</strong></em></span></p>
+<p>The post <a href="/2017/04/26/tatarinov-ei-kommentoinut-myyntihuhuja/">Tatarinov ei kommentoinut myyntihuhuja</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2566</post-id>	</item>
+		<item>
+		<title>Päivän termi: Hyperkonvergenssi</title>
+		<link>/2017/03/30/paivan-termi-hyperkonvergenssi/</link>
+		
+		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
+		<pubDate>Thu, 30 Mar 2017 08:45:49 +0000</pubDate>
+				<category><![CDATA[Uutisjuttu]]></category>
+		<category><![CDATA[Hyperkonvergenssi]]></category>
+		<category><![CDATA[Nutanix]]></category>
+		<guid isPermaLink="false">/?p=2416</guid>
+
+					<description><![CDATA[<p>Nutanix on julkaissut kätevän *hyperkonvergenssi opaskirjan: HOW NUTANIX WORKS, The Definitive Guide to Hyperconverged Infrastructure, joka on ladattavissa ilman pakkorekisteröitymistä PDF muodossa Nutanixin sivuilta. Ilman <a class="mh-excerpt-more" href="/2017/03/30/paivan-termi-hyperkonvergenssi/" title="Päivän termi: Hyperkonvergenssi">[...]</a></p>
+<p>The post <a href="/2017/03/30/paivan-termi-hyperkonvergenssi/">Päivän termi: Hyperkonvergenssi</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-1859" src="/wp-content/uploads/2016/05/nutanix-logo-180x90-1.jpg" alt="" width="180" height="90" /></p>
+<p>Nutanix on julkaissut kätevän *hyperkonvergenssi opaskirjan: <strong><em>HOW NUTANIX WORKS, The Definitive Guide to Hyperconverged Infrastructure,</em></strong> joka on <strong><a href="http://info.nutanix.com/R00O5rnVd80000u0GTQc750">ladattavissa</a></strong> ilman pakkorekisteröitymistä PDF muodossa Nutanixin sivuilta.</p>
+<p>Ilman tuotesidonnaisuutta voi asiaan perehtyä vaikkapa<strong> <a href="http://www.hyperconverged.org/dummies-book-download/">tämän</a></strong> opuksen avulla.</p>
+<p><span style="font-size: 8pt;"><strong>*</strong>Hyperkonvergenssi on nerokkaan yksinkertainen ratkaisu: se puristaa koko datakeskuksen muutamaan palvelimeen, joihin on integroitu palvelimet, tallennus, verkko ja virtualisointi. Kokonaisuutta ylläpidetään yhdellä hallintaohjelmistolla. Erillisiä tallennusjärjestelmiä ei tarvita, koska hyperkonvergenssipalvelimissa on tehokkaat levyjärjestelmät. Niitä ohjaa dataa reaaliajassa pakkaava ja varmistava älykäs ohjelmisto.</span></p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-2415 size-full" src="/wp-content/uploads/2017/03/Nutanix_book.jpg" alt="" width="574" height="199" srcset="/wp-content/uploads/2017/03/Nutanix_book.jpg 574w, /wp-content/uploads/2017/03/Nutanix_book-300x104.jpg 300w" sizes="(max-width: 574px) 100vw, 574px" /></p>
+<p>The post <a href="/2017/03/30/paivan-termi-hyperkonvergenssi/">Päivän termi: Hyperkonvergenssi</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2416</post-id>	</item>
+		<item>
+		<title>Ostaako Microsoft Citrixin?</title>
+		<link>/2017/03/29/ostaako-microsoft-citrixin/</link>
+		
+		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
+		<pubDate>Wed, 29 Mar 2017 12:58:09 +0000</pubDate>
+				<category><![CDATA[Uutisjuttu]]></category>
+		<category><![CDATA[Citrix]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<guid isPermaLink="false">/?p=2409</guid>
+
+					<description><![CDATA[<p>Kaupungilla on pitkään liikkunut sitkeä huhu että Citrix olisi kaupan kohteena ja todennäköisin ostajaehdokas olisi Microsoft. Amerikkalaisten talouslehtien mukaan oikeampi sanamuoto olisi kuitenkin että: Citrix <a class="mh-excerpt-more" href="/2017/03/29/ostaako-microsoft-citrixin/" title="Ostaako Microsoft Citrixin?">[...]</a></p>
+<p>The post <a href="/2017/03/29/ostaako-microsoft-citrixin/">Ostaako Microsoft Citrixin?</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-2405" src="/wp-content/uploads/2017/03/forsale-300x170.jpg" alt="" width="300" height="170" srcset="/wp-content/uploads/2017/03/forsale-300x170.jpg 300w, /wp-content/uploads/2017/03/forsale.jpg 467w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>Kaupungilla on pitkään liikkunut sitkeä huhu että Citrix olisi kaupan kohteena ja todennäköisin ostajaehdokas olisi Microsoft. Amerikkalaisten talouslehtien mukaan oikeampi sanamuoto olisi kuitenkin että: Citrix on myynnissä ja hakee ostajaa. Yhtiö on <a href="https://www.bloomberg.com/news/articles/2017-03-13/citrix-said-to-work-with-goldman-sachs-on-potential-sale-process">Bloomberg</a>in ja <a href="http://www.reuters.com/article/us-citrix-m-a-idUSKBN16K2MU">Reuters</a>in tietojen mukaan palkannut floridalaisen Goldman Sachs Groupin kartoittamaan strategisia vaihtoehtoja ja ostosta mahdollisesti kiinnostuneita liiketoimintatahoja, mukaan lukien pääomasijoitusyhtiöt.</p>
+<p>Reutersin raportti perustuu &#8221;asiasta perillä oleviin&#8221; lähteisiin, jotka kuitenkin haluavat pysytellä nimettöminä. Raportin mukaan monet yksityiset pääomasijoittajayritykset ovat harkinneet Citrixin ostoa, mutta todennet ettei velkarahalla hankittu Citrix välttämättä ole helppo saavuttaa saatika kannattava sijoitus. Poikkeuksena on Thoma Bravo LLC, joka on ilmoittanut edelleen olevan kiinnostunut asiasta. Toinen mahdollisuus on tietty useamman pääomasijoitusyhtiön konsortion yhdessä suorittama osto.</p>
+<p>Syitä Citrixin myyntihaluihin näyttää olevan uutistoimisto Reutersin mukaan pitkäjännitteiset institutionaaliset sijoittajat, jotka painostavat Citrixiä myymään tai purkamisen omaisuutta. Citrix luopuikin osasta tuotevalikoimaansa myymällä GoTo-tuoteperheensä 1,8 miljardin USD:n fuusiokaupalla LogMeln&#8217;ille viime vuonna.</p>
+<p>Hedgerahasto Elliot Management on pitkään painostanut Citrixiä leikkaamaan kulujaan ja myymään osia liiketoiminnastaan pois. Citrix päätyi antamaan Elliot Managementille paikan hallituksessaan vuoden 2015 keskivaiheilla. Elliot Management on tunnettu myös mm. aktiivisesta taustatyöstä Samsungin viime vuonna harkinnassa hajota kahdeksi eri yritykseksi.</p>
+<p>Vuosien mittaan Citrix on menestynyt vallan hyvin suhteellisen kapeassa teknologialokerossaan pysytellen edellä etätyöpöytä teknologioissa ja säilyttäen hyvät yhteistyösuhteet partnerinsa Microsoftin kanssa.</p>
+<p>Merkittävin uhkana Citrixin teknologialle nähdään vaihtoehtoiset menetelmät tiedon saantiin ja sen käyttöön. Mobiiliteetti ja pilviteknologia muuttavat markkinoita vauhdilla. Sovellusten muuntuminen SaaS-palveluiksi, muuntaa ne samalla myös monialustaisiksi tuotteiksi, jolloin ne menettävät niillä olleen Windows riippuvuutensa jolloin niitä voidaan käyttää natiivisti lähes miltä tahansa käyttöjärjestelmäalustalta pelkällä selaimella. Citrix hallitsee muuttuneen tilanteen, mutta joutuu samalla kohtaamaan kasvaneen kilpailun VMWaren ja Microsoftin työpöytä- ja palvelinvirtualisointi ratkaisuissa.</p>
+<figure id="attachment_2406" aria-describedby="caption-attachment-2406" style="width: 596px" class="wp-caption alignnone"><img loading="lazy" decoding="async" class="wp-image-2406 size-full" src="/wp-content/uploads/2017/03/CTX_HQ_Florida.png" alt="" width="596" height="335" srcset="/wp-content/uploads/2017/03/CTX_HQ_Florida.png 596w, /wp-content/uploads/2017/03/CTX_HQ_Florida-300x169.png 300w" sizes="(max-width: 596px) 100vw, 596px" /><figcaption id="caption-attachment-2406" class="wp-caption-text">Citrixin pääkonttori</figcaption></figure>
+<p>&nbsp;</p>
+<p>Citrixin markkina-arvo on kasvanut 30% viimeisen 12 kk aikana, liikevaihdon ollessa 3,4 miljardia USD viime vuonna. Viimeviikkoina Citrixin osake on nousut 6,8 % 84,93 USDiin lehtikirjoittelun myötä.</p>
+<p>Muistissa on myös viime vuosien mittavat henkilökuntajärjestelyt.</p>
+<p>No, kyseessähän ei ole ensimmäinen kerta näille huhuille myyntiaikeista. Edellinen oli loppuvuonna 2015, jolloin mm. Dell oli otsikoissa yhtenä ostajakandidaattina. Citrixin sijaan Dell hankkikin EMC:n hintaan 67 miljardia USD. Tuolloinkin mahdollisina ostajakandidaatteina olivat myös pääomasijoitusyhtiöt.</p>
+<p>Nähtäväksi jää onko muilla teknologiatoimittajilla kiinnostusta ostaa Citrixin jäljellä oleva tuotevalikoima. Jos ostajakandidaatti on Dell -kaliiberia, kuten esim. Microsoft, voi kaupat syntyä nopeastikin. Epäilemättä ostoprosessi pohjaa Citrixin talouslukuihin. Viime vuoden viimeisen neljänneksen mukaan yhtiö on menossa oikeaan suuntaan 908 miljoonan USD:n tuloksella.</p>
+<p>Mutta palataan alun huhuun, jonka mukaan ostajana olisi juuri Microsoft.</p>
+<p>The Business Journals kertoi pari viikkoa sitten, että Redmond on vain yksi ostajakandidaatti muiden joukossa, mutta spekuloi neuvottelujen olevan käynnissä. Selvää näyttää olevan että Citrix myy, mutta haluaako Microsoft ostaa, on se olennainen kysymys.</p>
+<p>Huhut Microsoftin ostoaikeista Citrixin suhteen ovat yhtä vanhoja kuin yritysten tiivis yhteistyö. Entisen Microsoft laisen Kirill Tatarinovin valinta Citrixin toimitusjohtajaksi ei ainakaan vähentänyt spekulaatioita asian ympäriltä.</p>
+<p>Microsoft ja Citrix ovat tehneet tiivistä yhteistyötä jo yli 25 vuotta. Yhteistyöllä on yli 230.000 yhteistä suurasiakasta ja kymmeniä miljoonia yhteisiä käyttäjiä, jotka työskentelevät päivittäin yhteisellä alustalla.</p>
+<p>Microsoftin Windows 10, Office 365 ja Microsoft Azure tuotteet, samoin kuin Citrixin XenMobile, XenApp, XenDesktop, ShareFile, sekä NetScaler toimivat moitteitta hyvin yhteen.</p>
+<p>Citrix Microsoft partneriuus on rakennettu neljälle pääalueelle: pilvi, Office365, Windows 10 levitys, sekä käyttäjäkokemuksen kehittäminen sekä parantaminen mobiililaitteissa.</p>
+<p>Hankinta olisi hyvä myös kanavanäkökulmasta, sillä molempien asiakkaita yhdistää &#8221;pilvi ensin&#8221; -ajattelu, toisin kuin muilla suurilla, enemmänkin rautaan erikoistuneilla mahdollisilla ostajakandidaateilla, kuten Cisco, HP, tai Huawei.</p>
+<p>Virtualisointimarkkinoita tiiviisti seuraavan Brian Maddenin mukaan Microsoftin Citrix ostohuhut ovat toistuneet säännöllisesti ja erityisen voimakkaina viimeksi vuosina 2008 ja 2011. Yhdeksänkymmentäluvulla ne kuitattiin Maddenin mukaan: &#8221;Miksi ostaa lehmä, kun saa maitoa ilmaiseksi&#8221;- tyylisesti. Se olikin hyvä määritelmä vuosituhannen vaihteessa.</p>
+<p>&#8221;Microsoftin varsinainen kilpailija pelissä on VMWare&#8221; -sanoo Madden. &#8221;VMWaren paras skenaario Citrixin suhteen on tilanne, jossa Citrix pysyy omana itsenäisenä yrityksenä.&#8221; &#8221;Microsoft ei varmasti istua hiljaa paikallaan jos Citrix sukeltaa ja siten tarjoilee VMWarelle heidän parhaimman skenaarionsa toteutumisen&#8221; -Madden jatkaa. Väitteen aikana lokakuussa 2015 Madden sanoi Microsoftin ostavan Citrixin silloin kun heidän on pakko tehdä se, ei yhtään aiemmin. Nyt moni ajattelee sen päivän lopulta tuleen.<strong> </strong></p>
+<p><span style="font-size: 8pt;"><strong>Lähteet: </strong></span><span style="font-size: 8pt;">The Business Journals, Computerworld, ARN, Reuters, Bloomberg, Reuters &amp; Brian Madden.com</span></p>
+<p>&nbsp;</p>
+<p>The post <a href="/2017/03/29/ostaako-microsoft-citrixin/">Ostaako Microsoft Citrixin?</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2409</post-id>	</item>
+		<item>
+		<title>Citrix &#038; RedBull F1 Racing RB13</title>
+		<link>/2017/03/12/citrix-redbull-f1-racing-rb13/</link>
+		
+		<dc:creator><![CDATA[Petri Liekovuo]]></dc:creator>
+		<pubDate>Sun, 12 Mar 2017 18:04:26 +0000</pubDate>
+				<category><![CDATA[Uutisjuttu]]></category>
+		<category><![CDATA[Citrix]]></category>
+		<category><![CDATA[RedBull]]></category>
+		<guid isPermaLink="false">/?p=2370</guid>
+
+					<description><![CDATA[<p>Tavoistaan poiketen Citrix mainostaa kuluvalla kaudella. Mainoksen uskoisi myös tavoittavan suomalaisen kohderyhmän hyvinkin. Se nimittäin löytyy RedBull Racing tiimin uusimman F1 auton RB13:n kyljestä. Kuskina <a class="mh-excerpt-more" href="/2017/03/12/citrix-redbull-f1-racing-rb13/" title="Citrix &#038; RedBull F1 Racing RB13">[...]</a></p>
+<p>The post <a href="/2017/03/12/citrix-redbull-f1-racing-rb13/">Citrix &#038; RedBull F1 Racing RB13</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Tavoistaan poiketen Citrix mainostaa kuluvalla kaudella. <a href="http://www.redbullracing.com/article/team-and-citrix-virtually-unstoppable">Mainoksen</a> uskoisi myös tavoittavan suomalaisen kohderyhmän hyvinkin. Se nimittäin löytyy <a href="https://fi.wikipedia.org/wiki/Red_Bull_Racing">RedBull Racing </a>tiimin uusimman F1 auton <a href="http://www.redbullracing.com/car/rb13">RB13</a>:n kyljestä. Kuskina autolla on australialainen <a href="https://fi.wikipedia.org/wiki/Daniel_Ricciardo">Daniel Ricciardo</a>.</p>
+<blockquote><p><strong><em>&#8221;Citrix and Red Bull are two global brands that share and believe in high-quality performance and innovation. The ability to take advantage of this innovative technological advantage is the difference between being on the podium or seeing from far away the victory of other teams. At Citrix, we&#8217;ve been delivering state-of-the-art technology to Red Bull Racing for ten years, and now we&#8217;re taking that productive relationship to the next level.</em></strong> <strong><em>&#8221;</em></strong></p>
+<p style="text-align: center;"><strong><em> </em></strong><strong><em>Kirill Tatarinov </em></strong></p>
+<p style="text-align: center;"><strong><em>President &amp; CEO Citrix</em></strong></p>
+</blockquote>
+<p style="text-align: center;"><iframe loading="lazy" src="//www.youtube.com/embed/alNbtYs8m_Y" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: center;">
+<p>The post <a href="/2017/03/12/citrix-redbull-f1-racing-rb13/">Citrix &#038; RedBull F1 Racing RB13</a> appeared first on <a href="/">Citrix User Group Finland</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2370</post-id>	</item>
+	</channel>
+</rss>
